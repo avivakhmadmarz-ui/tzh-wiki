@@ -190,13 +190,12 @@ plugins:
     options:
       provider: giscus
       options:
-        # TODO(Stage 2): заполнить реальными значениями с giscus.app
-        # после создания репо tzh-wiki и включения GitHub Discussions.
-        # До этого комментарии локально не отрендерятся — это ожидаемо.
+        # Комментарии работают только после установки giscus app на репо:
+        # https://github.com/apps/giscus → Install → tzh-wiki
         repo: avivakhmadmarz-ui/tzh-wiki
-        repoId: PLACEHOLDER_REPO_ID
+        repoId: R_kgDOSpKDCg
         category: Announcements
-        categoryId: PLACEHOLDER_CATEGORY_ID
+        categoryId: DIC_kwDOSpKDCs4C98Id
         lang: ru
     layout:
       position: afterBody
