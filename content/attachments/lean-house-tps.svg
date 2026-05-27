@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 700" font-family="Arial, sans-serif">
+  <style>
+    .title { font-size: 22px; font-weight: bold; fill: #1a1a1a; text-anchor: middle; }
+    .roof { font-size: 14px; font-weight: bold; fill: white; text-anchor: middle; }
+    .roof-sub { font-size: 11px; fill: white; text-anchor: middle; }
+    .pillar-title { font-size: 18px; font-weight: bold; fill: white; text-anchor: middle; }
+    .pillar-text { font-size: 11px; fill: white; text-anchor: middle; }
+    .foundation { font-size: 13px; fill: white; text-anchor: middle; font-weight: bold; }
+    .foundation-sub { font-size: 11px; fill: white; text-anchor: middle; }
+    .center { font-size: 14px; fill: #1a1a1a; text-anchor: middle; font-weight: bold; }
+    .center-sub { font-size: 11px; fill: #444; text-anchor: middle; }
+  </style>
+  <text x="400" y="35" class="title">Lean House — Toyota Production System</text>
+
+  <!-- Roof (triangle) -->
+  <polygon points="100,160 700,160 400,80" fill="#dc2626" stroke="#7f1d1d" stroke-width="2"/>
+  <text x="400" y="115" class="roof">Высшее качество · Минимальная стоимость · Кратчайшее время</text>
+  <text x="400" y="135" class="roof-sub">Безопасность · Высокий моральный дух команды</text>
+  <text x="400" y="153" class="roof-sub">(Цели TPS — что компания получает на выходе)</text>
+
+  <!-- Left pillar: JIT -->
+  <rect x="120" y="160" width="200" height="340" fill="#2563eb" stroke="#1e3a8a" stroke-width="2"/>
+  <text x="220" y="200" class="pillar-title">JIT</text>
+  <text x="220" y="222" class="pillar-text">Just-in-Time</text>
+  <text x="220" y="245" class="pillar-text">Точно вовремя</text>
+  <line x1="140" y1="265" x2="300" y2="265" stroke="white" stroke-width="1"/>
+  <text x="220" y="290" class="pillar-text">• Takt time</text>
+  <text x="220" y="310" class="pillar-text">• Continuous flow</text>
+  <text x="220" y="330" class="pillar-text">• Pull system / Kanban</text>
+  <text x="220" y="350" class="pillar-text">• SMED (быстрая переналадка)</text>
+  <text x="220" y="370" class="pillar-text">• Heijunka (выравнивание)</text>
+  <text x="220" y="395" class="pillar-text" font-style="italic">Производи только</text>
+  <text x="220" y="412" class="pillar-text" font-style="italic">то, что нужно,</text>
+  <text x="220" y="429" class="pillar-text" font-style="italic">когда нужно,</text>
+  <text x="220" y="446" class="pillar-text" font-style="italic">сколько нужно</text>
+  <text x="220" y="475" class="pillar-text">→ устраняет потери</text>
+  <text x="220" y="490" class="pillar-text">от запасов и ожидания</text>
+
+  <!-- Center: Heijunka + Standard work + Kaizen -->
+  <rect x="320" y="270" width="160" height="230" fill="#fbbf24" stroke="#92400e" stroke-width="2"/>
+  <text x="400" y="295" class="center">Люди и команды</text>
+  <text x="400" y="320" class="center-sub">Менеджмент-стандарт</text>
+  <text x="400" y="340" class="center-sub">Решение проблем</text>
+  <text x="400" y="360" class="center-sub">5 Why · A3</text>
+  <line x1="340" y1="375" x2="460" y2="375" stroke="#92400e" stroke-width="1"/>
+  <text x="400" y="395" class="center">Kaizen</text>
+  <text x="400" y="415" class="center-sub">непрерывное</text>
+  <text x="400" y="432" class="center-sub">улучшение</text>
+  <line x1="340" y1="445" x2="460" y2="445" stroke="#92400e" stroke-width="1"/>
+  <text x="400" y="465" class="center-sub">Genchi Genbutsu</text>
+  <text x="400" y="482" class="center-sub">(иди и смотри)</text>
+
+  <!-- Right pillar: Jidoka -->
+  <rect x="480" y="160" width="200" height="340" fill="#15803d" stroke="#14532d" stroke-width="2"/>
+  <text x="580" y="200" class="pillar-title">Jidoka</text>
+  <text x="580" y="222" class="pillar-text">Дзидока</text>
+  <text x="580" y="245" class="pillar-text">Автономизация с</text>
+  <text x="580" y="262" class="pillar-text">человеческим разумом</text>
+  <line x1="500" y1="280" x2="660" y2="280" stroke="white" stroke-width="1"/>
+  <text x="580" y="305" class="pillar-text">• Andon (сигнал)</text>
+  <text x="580" y="325" class="pillar-text">• Poka-Yoke (защита)</text>
+  <text x="580" y="345" class="pillar-text">• Stop-the-line</text>
+  <text x="580" y="365" class="pillar-text">• Built-in quality</text>
+  <text x="580" y="385" class="pillar-text">• Visual management</text>
+  <text x="580" y="412" class="pillar-text" font-style="italic">Останови процесс,</text>
+  <text x="580" y="429" class="pillar-text" font-style="italic">если что-то не так —</text>
+  <text x="580" y="446" class="pillar-text" font-style="italic">не передавай</text>
+  <text x="580" y="463" class="pillar-text" font-style="italic">дефект дальше</text>
+  <text x="580" y="490" class="pillar-text">→ качество встроено,</text>
+  <text x="580" y="505" class="pillar-text">не контролируется</text>
+
+  <!-- Foundation -->
+  <rect x="100" y="510" width="600" height="60" fill="#475569" stroke="#1e293b" stroke-width="2"/>
+  <text x="400" y="535" class="foundation">Стабильность процесса · Стандартизованная работа · Heijunka</text>
+  <text x="400" y="555" class="foundation-sub">Visual management · 5S · TPM (Total Productive Maintenance)</text>
+
+  <rect x="100" y="580" width="600" height="40" fill="#1e293b"/>
+  <text x="400" y="605" class="foundation">Философия Toyota Way · уважение к людям · долгосрочное мышление</text>
+
+  <text x="400" y="660" font-size="12" fill="#555" text-anchor="middle" font-style="italic">«Lean House» — каноническая визуализация TPS, описана Лайкером в The Toyota Way (2004)</text>
+</svg>

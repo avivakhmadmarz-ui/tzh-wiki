@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="Arial, sans-serif">
+  <style>
+    .title { font-size: 22px; font-weight: bold; fill: #1a1a1a; text-anchor: middle; }
+    .zone-title { font-size: 16px; font-weight: bold; fill: white; text-anchor: middle; }
+    .zone-sub { font-size: 12px; fill: white; text-anchor: middle; }
+    .label { font-size: 12px; fill: #1a1a1a; }
+    .formula { font-size: 13px; fill: #1a1a1a; font-family: 'Courier New', monospace; font-weight: bold; }
+    .annotation { font-size: 11px; fill: #555; text-anchor: middle; font-style: italic; }
+  </style>
+  <text x="450" y="35" class="title">DDMRP Buffer Profile — стратегические запасы</text>
+  <text x="450" y="60" class="annotation">Demand-Driven MRP: позиционируем буферы в ключевых точках цепи (Strategic Decoupling Points)</text>
+
+  <!-- Y-axis -->
+  <line x1="200" y1="100" x2="200" y2="500" stroke="#1a1a1a" stroke-width="2"/>
+  <text x="190" y="105" class="label" text-anchor="end">высокий</text>
+  <text x="190" y="500" class="label" text-anchor="end">низкий</text>
+  <text x="100" y="300" class="label" text-anchor="middle" transform="rotate(-90 100 300)">Уровень запаса</text>
+
+  <!-- X-axis -->
+  <line x1="200" y1="500" x2="800" y2="500" stroke="#1a1a1a" stroke-width="2"/>
+  <text x="500" y="540" class="label" text-anchor="middle">Время</text>
+
+  <!-- Zones (filled rectangles) -->
+  <!-- Green zone (top) -->
+  <rect x="200" y="120" width="600" height="100" fill="#22c55e" opacity="0.85"/>
+  <text x="500" y="170" class="zone-title">ЗЕЛЁНАЯ ЗОНА (Green)</text>
+  <text x="500" y="190" class="zone-sub">Order frequency / minimum order quantity</text>
+  <text x="500" y="208" class="zone-sub">Запас выше — заказы реже, экономия на setup/closure</text>
+
+  <!-- Yellow zone (middle) -->
+  <rect x="200" y="220" width="600" height="100" fill="#eab308" opacity="0.85"/>
+  <text x="500" y="270" class="zone-title">ЖЁЛТАЯ ЗОНА (Yellow)</text>
+  <text x="500" y="290" class="zone-sub">Average daily usage × decoupled lead time</text>
+  <text x="500" y="308" class="zone-sub">Покрывает обычное потребление за время поставки</text>
+
+  <!-- Red zone (bottom) -->
+  <rect x="200" y="320" width="600" height="100" fill="#ef4444" opacity="0.85"/>
+  <text x="500" y="370" class="zone-title">КРАСНАЯ ЗОНА (Red)</text>
+  <text x="500" y="390" class="zone-sub">Safety: variability factor + lead time factor</text>
+  <text x="500" y="408" class="zone-sub">Защита от пиков спроса и срывов поставок</text>
+
+  <!-- Below red: zero/stockout -->
+  <rect x="200" y="420" width="600" height="80" fill="#7f1d1d" opacity="0.85"/>
+  <text x="500" y="450" class="zone-title">КРИТИЧНО — DEEP RED</text>
+  <text x="500" y="475" class="zone-sub">Если попали сюда — экстренное срочное пополнение</text>
+
+  <!-- Top of green: maximum -->
+  <line x1="200" y1="120" x2="800" y2="120" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="5,3"/>
+  <text x="810" y="125" class="label">Top of Green (max)</text>
+
+  <line x1="200" y1="220" x2="800" y2="220" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="5,3"/>
+  <text x="810" y="225" class="label">Top of Yellow</text>
+
+  <line x1="200" y1="320" x2="800" y2="320" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="5,3"/>
+  <text x="810" y="325" class="label">Top of Red</text>
+
+  <line x1="200" y1="420" x2="800" y2="420" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="5,3"/>
+  <text x="810" y="425" class="label">Threshold</text>
+
+  <!-- Net Flow Equation -->
+  <rect x="200" y="555" width="600" height="40" fill="#f3f4f6" stroke="#9ca3af"/>
+  <text x="500" y="580" class="formula" text-anchor="middle">Net Flow = On-hand + On-order − Qualified Spike Demand</text>
+</svg>

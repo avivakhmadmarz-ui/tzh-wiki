@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="Arial, sans-serif">
+  <style>
+    .title { font-size: 22px; font-weight: bold; fill: #1a1a1a; text-anchor: middle; }
+    .step-num { font-size: 32px; font-weight: bold; fill: white; text-anchor: middle; }
+    .step-name { font-size: 14px; font-weight: bold; fill: white; text-anchor: middle; }
+    .step-desc { font-size: 11px; fill: white; text-anchor: middle; }
+    .annotation { font-size: 12px; fill: #444; text-anchor: middle; font-style: italic; }
+  </style>
+  <text x="450" y="35" class="title">Theory of Constraints — 5 фокусных шагов (Goldratt)</text>
+  <text x="450" y="58" class="annotation">«Цепь не сильнее своего слабейшего звена» — найди ограничение и сосредоточься на нём</text>
+
+  <!-- Circular flow -->
+  <!-- Step 1 -->
+  <g transform="translate(50, 110)">
+    <rect width="200" height="130" rx="10" fill="#dc2626"/>
+    <text x="40" y="50" class="step-num">1</text>
+    <text x="125" y="50" class="step-name">IDENTIFY</text>
+    <text x="100" y="80" class="step-desc">Определи ограничение</text>
+    <text x="100" y="98" class="step-desc">(bottleneck) системы</text>
+    <text x="100" y="120" class="step-desc">«Что мешает выпускать больше?»</text>
+  </g>
+
+  <!-- Step 2 -->
+  <g transform="translate(290, 110)">
+    <rect width="200" height="130" rx="10" fill="#ea580c"/>
+    <text x="40" y="50" class="step-num">2</text>
+    <text x="125" y="50" class="step-name">EXPLOIT</text>
+    <text x="100" y="80" class="step-desc">Выжми максимум из</text>
+    <text x="100" y="98" class="step-desc">существующего ограничения</text>
+    <text x="100" y="120" class="step-desc">(без больших инвестиций)</text>
+  </g>
+
+  <!-- Step 3 -->
+  <g transform="translate(530, 110)">
+    <rect width="200" height="130" rx="10" fill="#ca8a04"/>
+    <text x="40" y="50" class="step-num">3</text>
+    <text x="125" y="50" class="step-name">SUBORDINATE</text>
+    <text x="100" y="80" class="step-desc">Подчини всё остальное</text>
+    <text x="100" y="98" class="step-desc">ритму ограничения —</text>
+    <text x="100" y="120" class="step-desc">не перепроизводи!</text>
+  </g>
+
+  <!-- Step 4 -->
+  <g transform="translate(290, 280)">
+    <rect width="200" height="130" rx="10" fill="#15803d"/>
+    <text x="40" y="50" class="step-num">4</text>
+    <text x="125" y="50" class="step-name">ELEVATE</text>
+    <text x="100" y="80" class="step-desc">Расшир/возвысь ограничение</text>
+    <text x="100" y="98" class="step-desc">(только если шаги 2-3 не дали)</text>
+    <text x="100" y="120" class="step-desc">— инвестиции, новый станок</text>
+  </g>
+
+  <!-- Step 5 -->
+  <g transform="translate(530, 280)">
+    <rect width="200" height="130" rx="10" fill="#2563eb"/>
+    <text x="40" y="50" class="step-num">5</text>
+    <text x="125" y="50" class="step-name">REPEAT</text>
+    <text x="100" y="80" class="step-desc">Если ограничение «снято» —</text>
+    <text x="100" y="98" class="step-desc">вернись к шагу 1</text>
+    <text x="100" y="120" class="step-desc">(новое узкое место)</text>
+  </g>
+
+  <!-- Arrows -->
+  <defs>
+    <marker id="arr3" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#444"/>
+    </marker>
+  </defs>
+  <line x1="250" y1="175" x2="290" y2="175" stroke="#444" stroke-width="2" marker-end="url(#arr3)"/>
+  <line x1="490" y1="175" x2="530" y2="175" stroke="#444" stroke-width="2" marker-end="url(#arr3)"/>
+  <path d="M 630 240 Q 650 260 490 290" stroke="#444" stroke-width="2" fill="none" marker-end="url(#arr3)"/>
+  <line x1="490" y1="345" x2="530" y2="345" stroke="#444" stroke-width="2" marker-end="url(#arr3)"/>
+
+  <!-- Beware of inertia warning -->
+  <rect x="100" y="450" width="700" height="80" rx="8" fill="#fef3c7" stroke="#ca8a04" stroke-width="2"/>
+  <text x="450" y="478" font-size="14" fill="#1a1a1a" text-anchor="middle" font-weight="bold">
+    Предупреждение Goldratt'а: «Beware of Inertia»
+  </text>
+  <text x="450" y="500" font-size="12" fill="#444" text-anchor="middle">
+    Когда ограничение снято и появляется новое — НЕ оставляй старые правила управления.
+  </text>
+  <text x="450" y="518" font-size="12" fill="#444" text-anchor="middle">
+    Самое опасное ограничение часто — это устаревшие убеждения и политики (policy constraint).
+  </text>
+
+  <!-- Bottom -->
+  <text x="450" y="570" class="annotation">Применение: производство, проекты (CCPM), цепочки поставок, продажи (sales pipeline), любой процесс с потоком</text>
+</svg>

@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="Arial, sans-serif">
+  <style>
+    .title { font-size: 22px; font-weight: bold; fill: #1a1a1a; }
+    .step-title { font-size: 14px; font-weight: bold; fill: white; }
+    .step-num { font-size: 28px; font-weight: bold; fill: white; }
+    .step-detail { font-size: 11px; fill: white; }
+    .arrow { stroke: #555; stroke-width: 2; fill: none; }
+    .center-text { font-size: 16px; font-weight: bold; fill: #1a1a1a; text-anchor: middle; }
+    .center-sub { font-size: 12px; fill: #555; text-anchor: middle; }
+    .horizon { font-size: 11px; fill: #777; text-anchor: middle; }
+  </style>
+  <text x="450" y="35" text-anchor="middle" class="title">S&amp;OP — 5-ступенчатый цикл (Oliver Wight)</text>
+
+  <!-- Center -->
+  <circle cx="450" cy="320" r="80" fill="#fff" stroke="#333" stroke-width="2"/>
+  <text x="450" y="305" class="center-text">Единый план</text>
+  <text x="450" y="325" class="center-sub">продажи · операции</text>
+  <text x="450" y="342" class="center-sub">финансы · стратегия</text>
+  <text x="450" y="365" class="horizon">горизонт 18-24 мес</text>
+
+  <!-- Step 1: Product Review -->
+  <g transform="translate(120, 110)">
+    <rect width="180" height="100" rx="8" fill="#2563eb"/>
+    <text x="20" y="32" class="step-num">1</text>
+    <text x="55" y="30" class="step-title">Product Review</text>
+    <text x="55" y="48" class="step-detail">Обзор портфеля</text>
+    <text x="20" y="70" class="step-detail">• новые продукты (NPI)</text>
+    <text x="20" y="85" class="step-detail">• EOL / phase-out</text>
+    <text x="20" y="100" class="step-detail">• владелец: продукт-менеджер</text>
+  </g>
+
+  <!-- Step 2: Demand Review -->
+  <g transform="translate(600, 110)">
+    <rect width="180" height="100" rx="8" fill="#0891b2"/>
+    <text x="20" y="32" class="step-num">2</text>
+    <text x="55" y="30" class="step-title">Demand Review</text>
+    <text x="55" y="48" class="step-detail">Прогноз спроса</text>
+    <text x="20" y="70" class="step-detail">• unconstrained forecast</text>
+    <text x="20" y="85" class="step-detail">• MAPE / bias</text>
+    <text x="20" y="100" class="step-detail">• владелец: коммерция</text>
+  </g>
+
+  <!-- Step 3: Supply Review -->
+  <g transform="translate(600, 410)">
+    <rect width="180" height="100" rx="8" fill="#15803d"/>
+    <text x="20" y="32" class="step-num">3</text>
+    <text x="55" y="30" class="step-title">Supply Review</text>
+    <text x="55" y="48" class="step-detail">План снабжения</text>
+    <text x="20" y="70" class="step-detail">• capacity / поставщики</text>
+    <text x="20" y="85" class="step-detail">• inventory / OTIF</text>
+    <text x="20" y="100" class="step-detail">• владелец: операции</text>
+  </g>
+
+  <!-- Step 4: Integrated Reconciliation -->
+  <g transform="translate(120, 410)">
+    <rect width="180" height="100" rx="8" fill="#b45309"/>
+    <text x="20" y="32" class="step-num">4</text>
+    <text x="55" y="28" class="step-title">Integrated</text>
+    <text x="55" y="44" class="step-title">Reconciliation</text>
+    <text x="20" y="68" class="step-detail">• gap-анализ план/факт</text>
+    <text x="20" y="83" class="step-detail">• сценарии, риски</text>
+    <text x="20" y="98" class="step-detail">• владелец: S&amp;OP-лидер</text>
+  </g>
+
+  <!-- Step 5: Executive Review -->
+  <g transform="translate(360, 510)">
+    <rect width="180" height="80" rx="8" fill="#7c2d12"/>
+    <text x="20" y="32" class="step-num">5</text>
+    <text x="55" y="30" class="step-title">Management Business</text>
+    <text x="55" y="46" class="step-title">Review (Executive)</text>
+    <text x="20" y="68" class="step-detail">принятие решений · CEO/COO</text>
+  </g>
+
+  <!-- Arrows showing flow -->
+  <path class="arrow" d="M 300 160 Q 450 140 600 160" marker-end="url(#arr)"/>
+  <path class="arrow" d="M 690 210 Q 720 310 690 410" marker-end="url(#arr)"/>
+  <path class="arrow" d="M 600 460 Q 450 480 300 460" marker-end="url(#arr)"/>
+  <path class="arrow" d="M 250 510 Q 320 520 360 530" marker-end="url(#arr)"/>
+  <path class="arrow" d="M 540 530 Q 600 480 600 380" marker-end="url(#arr)" stroke-dasharray="4,4"/>
+
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#555"/>
+    </marker>
+  </defs>
+
+  <text x="450" y="585" text-anchor="middle" class="horizon">цикл повторяется ежемесячно · pre-S&amp;OP подготовка занимает 3-4 недели</text>
+</svg>

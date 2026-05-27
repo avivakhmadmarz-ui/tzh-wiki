@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" font-family="Arial, sans-serif">
+  <style>
+    .title { font-size: 22px; font-weight: bold; fill: #1a1a1a; text-anchor: middle; }
+    .perspective-title { font-size: 18px; font-weight: bold; fill: white; text-anchor: middle; }
+    .question { font-size: 12px; fill: white; text-anchor: middle; font-style: italic; }
+    .metric { font-size: 11px; fill: white; text-anchor: middle; }
+    .center-title { font-size: 18px; font-weight: bold; fill: #1a1a1a; text-anchor: middle; }
+    .center-sub { font-size: 12px; fill: #444; text-anchor: middle; }
+    .arrow { stroke: #555; stroke-width: 2; fill: none; }
+  </style>
+  <text x="450" y="35" class="title">Balanced Scorecard — 4 перспективы (Kaplan &amp; Norton, HBR 1992)</text>
+
+  <!-- Center: Vision and Strategy -->
+  <circle cx="450" cy="350" r="80" fill="#fff" stroke="#1a1a1a" stroke-width="3"/>
+  <text x="450" y="340" class="center-title">Vision</text>
+  <text x="450" y="362" class="center-title">&amp; Strategy</text>
+  <text x="450" y="385" class="center-sub">центр координации</text>
+
+  <!-- Top: Financial -->
+  <g transform="translate(285, 80)">
+    <rect width="330" height="170" rx="10" fill="#15803d" stroke="#14532d" stroke-width="2"/>
+    <text x="165" y="35" class="perspective-title">FINANCIAL</text>
+    <text x="165" y="55" class="perspective-title">Финансовая</text>
+    <text x="165" y="80" class="question">«Как мы выглядим</text>
+    <text x="165" y="98" class="question">для акционеров?»</text>
+    <line x1="30" y1="113" x2="300" y2="113" stroke="white" stroke-width="1"/>
+    <text x="165" y="135" class="metric">Revenue, EBITDA, ROIC, Cash Flow</text>
+    <text x="165" y="153" class="metric">Working Capital, Margin, Growth</text>
+  </g>
+
+  <!-- Right: Customer -->
+  <g transform="translate(620, 265)">
+    <rect width="270" height="170" rx="10" fill="#2563eb" stroke="#1e3a8a" stroke-width="2"/>
+    <text x="135" y="35" class="perspective-title">CUSTOMER</text>
+    <text x="135" y="55" class="perspective-title">Клиентская</text>
+    <text x="135" y="80" class="question">«Как нас видят</text>
+    <text x="135" y="98" class="question">клиенты?»</text>
+    <line x1="20" y1="113" x2="250" y2="113" stroke="white" stroke-width="1"/>
+    <text x="135" y="135" class="metric">NPS, CSAT, Retention, Churn</text>
+    <text x="135" y="153" class="metric">Market share, OTIF, время отклика</text>
+  </g>
+
+  <!-- Bottom: Internal Process -->
+  <g transform="translate(285, 450)">
+    <rect width="330" height="170" rx="10" fill="#b45309" stroke="#7c2d12" stroke-width="2"/>
+    <text x="165" y="35" class="perspective-title">INTERNAL PROCESS</text>
+    <text x="165" y="55" class="perspective-title">Внутренние процессы</text>
+    <text x="165" y="80" class="question">«В чём мы должны</text>
+    <text x="165" y="98" class="question">быть лучшими?»</text>
+    <line x1="30" y1="113" x2="300" y2="113" stroke="white" stroke-width="1"/>
+    <text x="165" y="135" class="metric">Cycle time, defect rate, OEE</text>
+    <text x="165" y="153" class="metric">Innovation pipeline, on-time delivery</text>
+  </g>
+
+  <!-- Left: Learning and Growth -->
+  <g transform="translate(10, 265)">
+    <rect width="270" height="170" rx="10" fill="#7c3aed" stroke="#5b21b6" stroke-width="2"/>
+    <text x="135" y="35" class="perspective-title">LEARNING &amp; GROWTH</text>
+    <text x="135" y="55" class="perspective-title">Обучение и рост</text>
+    <text x="135" y="80" class="question">«Можем ли мы продолжать</text>
+    <text x="135" y="98" class="question">улучшаться и расти?»</text>
+    <line x1="20" y1="113" x2="250" y2="113" stroke="white" stroke-width="1"/>
+    <text x="135" y="135" class="metric">eNPS, обучение, текучесть</text>
+    <text x="135" y="153" class="metric">Skills coverage, инновации</text>
+  </g>
+
+  <!-- Causality arrows (Strategy Map) -->
+  <path class="arrow" d="M 145 270 Q 250 200 300 165" marker-end="url(#arr2)"/>
+  <path class="arrow" d="M 600 165 Q 700 200 740 265" marker-end="url(#arr2)"/>
+  <path class="arrow" d="M 745 440 Q 700 480 600 510" marker-end="url(#arr2)"/>
+  <path class="arrow" d="M 285 510 Q 200 480 145 440" marker-end="url(#arr2)"/>
+
+  <defs>
+    <marker id="arr2" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#555"/>
+    </marker>
+  </defs>
+
+  <!-- Bottom annotation -->
+  <text x="450" y="660" font-size="13" fill="#444" text-anchor="middle" font-style="italic">
+    Причинно-следственная цепочка: рост людей → лучшие процессы → довольные клиенты → финансовый результат
+  </text>
+  <text x="450" y="685" font-size="11" fill="#666" text-anchor="middle">
+    Каждая перспектива требует Objectives · Measures · Targets · Initiatives (matrix BSC)
+  </text>
+</svg>

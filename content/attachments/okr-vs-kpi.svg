@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" font-family="Arial, sans-serif">
+  <style>
+    .title { font-size: 22px; font-weight: bold; fill: #1a1a1a; text-anchor: middle; }
+    .subtitle { font-size: 13px; fill: #444; text-anchor: middle; font-style: italic; }
+    .col-title { font-size: 18px; font-weight: bold; fill: white; text-anchor: middle; }
+    .col-desc { font-size: 12px; fill: white; text-anchor: middle; }
+    .row-label { font-size: 12px; fill: #1a1a1a; font-weight: bold; }
+    .cell-text { font-size: 11px; fill: #1a1a1a; text-anchor: middle; }
+    .metaphor { font-size: 14px; fill: #1a1a1a; text-anchor: middle; font-weight: bold; }
+  </style>
+  <text x="500" y="35" class="title">OKR vs KPI — принципиальная разница</text>
+  <text x="500" y="58" class="subtitle">Не одно или другое. Это разные инструменты для разных задач — и они дополняют друг друга</text>
+
+  <!-- Metaphor -->
+  <rect x="80" y="80" width="840" height="80" rx="10" fill="#fef3c7" stroke="#ca8a04" stroke-width="1"/>
+  <text x="500" y="110" class="metaphor">Метафора самолёта:</text>
+  <text x="280" y="135" font-size="13" fill="#1a1a1a" text-anchor="middle">
+    <tspan font-weight="bold">KPI = приборная панель</tspan>
+  </text>
+  <text x="280" y="152" font-size="11" fill="#444" text-anchor="middle">высота, скорость, топливо — постоянный мониторинг</text>
+  <text x="730" y="135" font-size="13" fill="#1a1a1a" text-anchor="middle">
+    <tspan font-weight="bold">OKR = маршрутный план</tspan>
+  </text>
+  <text x="730" y="152" font-size="11" fill="#444" text-anchor="middle">куда летим, какие промежуточные точки</text>
+
+  <!-- Headers -->
+  <rect x="180" y="180" width="380" height="50" fill="#15803d"/>
+  <text x="370" y="208" class="col-title">OKR</text>
+  <text x="370" y="224" class="col-desc">Objectives &amp; Key Results — стрейч, амбиция, изменение</text>
+
+  <rect x="580" y="180" width="380" height="50" fill="#2563eb"/>
+  <text x="770" y="208" class="col-title">KPI</text>
+  <text x="770" y="224" class="col-desc">Key Performance Indicators — здоровье, стабильность</text>
+
+  <rect x="40" y="180" width="140" height="50" fill="#475569"/>
+  <text x="110" y="210" font-size="13" fill="white" text-anchor="middle" font-weight="bold">Параметр</text>
+
+  <!-- Row 1: Цель -->
+  <rect x="40" y="230" width="140" height="40" fill="#f1f5f9" stroke="#cbd5e1"/>
+  <text x="50" y="255" class="row-label">Цель</text>
+  <rect x="180" y="230" width="380" height="40" fill="#dcfce7" stroke="#cbd5e1"/>
+  <text x="370" y="255" class="cell-text">Двигать вперёд, менять, прорыв</text>
+  <rect x="580" y="230" width="380" height="40" fill="#dbeafe" stroke="#cbd5e1"/>
+  <text x="770" y="255" class="cell-text">Контролировать здоровье процесса</text>
+
+  <!-- Row 2: Природа -->
+  <rect x="40" y="270" width="140" height="40" fill="#f1f5f9" stroke="#cbd5e1"/>
+  <text x="50" y="295" class="row-label">Природа</text>
+  <rect x="180" y="270" width="380" height="40" fill="#dcfce7" stroke="#cbd5e1"/>
+  <text x="370" y="295" class="cell-text">Stretch (60-70% — норма)</text>
+  <rect x="580" y="270" width="380" height="40" fill="#dbeafe" stroke="#cbd5e1"/>
+  <text x="770" y="295" class="cell-text">Должно быть 100% (зелёный = ОК)</text>
+
+  <!-- Row 3: Горизонт -->
+  <rect x="40" y="310" width="140" height="40" fill="#f1f5f9" stroke="#cbd5e1"/>
+  <text x="50" y="335" class="row-label">Горизонт</text>
+  <rect x="180" y="310" width="380" height="40" fill="#dcfce7" stroke="#cbd5e1"/>
+  <text x="370" y="335" class="cell-text">Квартал (+ годовые)</text>
+  <rect x="580" y="310" width="380" height="40" fill="#dbeafe" stroke="#cbd5e1"/>
+  <text x="770" y="335" class="cell-text">Постоянно — день/неделя/месяц</text>
+
+  <!-- Row 4: Cadence -->
+  <rect x="40" y="350" width="140" height="40" fill="#f1f5f9" stroke="#cbd5e1"/>
+  <text x="50" y="375" class="row-label">Каденс</text>
+  <rect x="180" y="350" width="380" height="40" fill="#dcfce7" stroke="#cbd5e1"/>
+  <text x="370" y="375" class="cell-text">Weekly check-in, end-of-Q review</text>
+  <rect x="580" y="350" width="380" height="40" fill="#dbeafe" stroke="#cbd5e1"/>
+  <text x="770" y="375" class="cell-text">Daily/weekly dashboard</text>
+
+  <!-- Row 5: Грейдинг -->
+  <rect x="40" y="390" width="140" height="40" fill="#f1f5f9" stroke="#cbd5e1"/>
+  <text x="50" y="415" class="row-label">Оценка</text>
+  <rect x="180" y="390" width="380" height="40" fill="#dcfce7" stroke="#cbd5e1"/>
+  <text x="370" y="415" class="cell-text">0.0-1.0, цель 0.6-0.7 (Google)</text>
+  <rect x="580" y="390" width="380" height="40" fill="#dbeafe" stroke="#cbd5e1"/>
+  <text x="770" y="415" class="cell-text">Threshold: green / yellow / red</text>
+
+  <!-- Row 6: Source -->
+  <rect x="40" y="430" width="140" height="40" fill="#f1f5f9" stroke="#cbd5e1"/>
+  <text x="50" y="455" class="row-label">Происхождение</text>
+  <rect x="180" y="430" width="380" height="40" fill="#dcfce7" stroke="#cbd5e1"/>
+  <text x="370" y="455" class="cell-text">Drucker MBO → Andy Grove (Intel) → Google</text>
+  <rect x="580" y="430" width="380" height="40" fill="#dbeafe" stroke="#cbd5e1"/>
+  <text x="770" y="455" class="cell-text">Industrial KPI · Kaplan-Norton BSC</text>
+
+  <!-- Row 7: Кому связано -->
+  <rect x="40" y="470" width="140" height="40" fill="#f1f5f9" stroke="#cbd5e1"/>
+  <text x="50" y="495" class="row-label">Связь с зарплатой</text>
+  <rect x="180" y="470" width="380" height="40" fill="#dcfce7" stroke="#cbd5e1"/>
+  <text x="370" y="495" class="cell-text">НЕТ (иначе ломает stretch)</text>
+  <rect x="580" y="470" width="380" height="40" fill="#dbeafe" stroke="#cbd5e1"/>
+  <text x="770" y="495" class="cell-text">Часто да (бонусы по KPI)</text>
+
+  <!-- Row 8: Пример -->
+  <rect x="40" y="510" width="140" height="60" fill="#f1f5f9" stroke="#cbd5e1"/>
+  <text x="50" y="540" class="row-label">Пример (закупки)</text>
+  <rect x="180" y="510" width="380" height="60" fill="#dcfce7" stroke="#cbd5e1"/>
+  <text x="370" y="535" class="cell-text">O: «Перестроить категорию beauty</text>
+  <text x="370" y="552" class="cell-text">для запуска бренда X»</text>
+  <text x="370" y="567" class="cell-text">KR: launch 50 SKU, GMV 30M</text>
+  <rect x="580" y="510" width="380" height="60" fill="#dbeafe" stroke="#cbd5e1"/>
+  <text x="770" y="535" class="cell-text">OTIF ≥ 95%, oborach ≤ 60 дней,</text>
+  <text x="770" y="552" class="cell-text">forecast accuracy ≥ 80%,</text>
+  <text x="770" y="567" class="cell-text">наценка маржа ≥ 35%</text>
+
+  <!-- Bottom: combined usage -->
+  <rect x="40" y="600" width="920" height="80" rx="10" fill="#fff7ed" stroke="#9a3412" stroke-width="1"/>
+  <text x="500" y="625" font-size="14" fill="#1a1a1a" text-anchor="middle" font-weight="bold">
+    Используются ВМЕСТЕ:
+  </text>
+  <text x="500" y="650" font-size="12" fill="#444" text-anchor="middle">
+    KPI следят за здоровьем (нет ли проблем), OKR двигают компанию вперёд (что меняем).
+  </text>
+  <text x="500" y="668" font-size="12" fill="#444" text-anchor="middle">
+    Без KPI можно «стрейчить» в дыре с горящими процессами. Без OKR компания будет стабильно стоять на месте.
+  </text>
+</svg>

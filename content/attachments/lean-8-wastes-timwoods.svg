@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="Arial, sans-serif">
+  <style>
+    .title { font-size: 22px; font-weight: bold; fill: #1a1a1a; text-anchor: middle; }
+    .letter { font-size: 36px; font-weight: bold; fill: white; text-anchor: middle; }
+    .name { font-size: 14px; font-weight: bold; fill: white; text-anchor: middle; }
+    .desc { font-size: 11px; fill: white; text-anchor: middle; }
+    .legend { font-size: 12px; fill: #555; text-anchor: middle; }
+  </style>
+  <text x="450" y="35" class="title">8 видов потерь — TIMWOODS</text>
+  <text x="450" y="60" class="legend">7 классических потерь Тайити Оно + 8-я (Skills) добавлена позднее</text>
+
+  <!-- Box 1: T - Transport -->
+  <g transform="translate(50, 90)">
+    <rect width="180" height="130" rx="8" fill="#dc2626"/>
+    <text x="90" y="55" class="letter">T</text>
+    <text x="90" y="80" class="name">Transport</text>
+    <text x="90" y="98" class="desc">Транспортировка</text>
+    <text x="90" y="115" class="desc">Лишнее перемещение</text>
+    <text x="90" y="128" class="desc">материалов / документов</text>
+  </g>
+
+  <!-- Box 2: I - Inventory -->
+  <g transform="translate(245, 90)">
+    <rect width="180" height="130" rx="8" fill="#ea580c"/>
+    <text x="90" y="55" class="letter">I</text>
+    <text x="90" y="80" class="name">Inventory</text>
+    <text x="90" y="98" class="desc">Запасы</text>
+    <text x="90" y="115" class="desc">Излишки сырья, WIP,</text>
+    <text x="90" y="128" class="desc">готовой продукции</text>
+  </g>
+
+  <!-- Box 3: M - Motion -->
+  <g transform="translate(440, 90)">
+    <rect width="180" height="130" rx="8" fill="#ca8a04"/>
+    <text x="90" y="55" class="letter">M</text>
+    <text x="90" y="80" class="name">Motion</text>
+    <text x="90" y="98" class="desc">Движения</text>
+    <text x="90" y="115" class="desc">Лишние движения</text>
+    <text x="90" y="128" class="desc">людей на рабочем месте</text>
+  </g>
+
+  <!-- Box 4: W - Waiting -->
+  <g transform="translate(635, 90)">
+    <rect width="180" height="130" rx="8" fill="#15803d"/>
+    <text x="90" y="55" class="letter">W</text>
+    <text x="90" y="80" class="name">Waiting</text>
+    <text x="90" y="98" class="desc">Ожидание</text>
+    <text x="90" y="115" class="desc">Простой людей,</text>
+    <text x="90" y="128" class="desc">оборудования, заказов</text>
+  </g>
+
+  <!-- Box 5: O - Overproduction -->
+  <g transform="translate(50, 240)">
+    <rect width="180" height="130" rx="8" fill="#0891b2"/>
+    <text x="90" y="55" class="letter">O</text>
+    <text x="90" y="78" class="name">Over-</text>
+    <text x="90" y="93" class="name">production</text>
+    <text x="90" y="111" class="desc">Перепроизводство</text>
+    <text x="90" y="125" class="desc">«Худшая из потерь» —</text>
+    <text x="90" y="138" class="desc">порождает остальные</text>
+  </g>
+
+  <!-- Box 6: O - Overprocessing -->
+  <g transform="translate(245, 240)">
+    <rect width="180" height="130" rx="8" fill="#2563eb"/>
+    <text x="90" y="55" class="letter">O</text>
+    <text x="90" y="78" class="name">Over-</text>
+    <text x="90" y="93" class="name">processing</text>
+    <text x="90" y="111" class="desc">Лишняя обработка</text>
+    <text x="90" y="125" class="desc">Качество выше нужного,</text>
+    <text x="90" y="138" class="desc">лишние операции</text>
+  </g>
+
+  <!-- Box 7: D - Defects -->
+  <g transform="translate(440, 240)">
+    <rect width="180" height="130" rx="8" fill="#7c3aed"/>
+    <text x="90" y="55" class="letter">D</text>
+    <text x="90" y="80" class="name">Defects</text>
+    <text x="90" y="98" class="desc">Дефекты</text>
+    <text x="90" y="115" class="desc">Брак, переделки,</text>
+    <text x="90" y="128" class="desc">возвраты, претензии</text>
+  </g>
+
+  <!-- Box 8: S - Skills -->
+  <g transform="translate(635, 240)">
+    <rect width="180" height="130" rx="8" fill="#be185d"/>
+    <text x="90" y="55" class="letter">S</text>
+    <text x="90" y="80" class="name">Skills</text>
+    <text x="90" y="98" class="desc">Неиспользованный</text>
+    <text x="90" y="113" class="desc">потенциал сотрудников</text>
+    <text x="90" y="128" class="desc">(8-й тип, добавлен позднее)</text>
+  </g>
+
+  <!-- Mura and Muri -->
+  <g transform="translate(50, 410)">
+    <rect width="380" height="140" rx="8" fill="#475569"/>
+    <text x="190" y="35" font-size="18" fill="white" text-anchor="middle" font-weight="bold">Mura — неравномерность</text>
+    <text x="190" y="60" font-size="12" fill="white" text-anchor="middle">Скачки нагрузки, рваный поток, peaks-and-valleys</text>
+    <text x="190" y="80" font-size="12" fill="white" text-anchor="middle">→ порождает Muri (перегрузку) → порождает Muda</text>
+    <text x="190" y="115" font-size="11" fill="#cbd5e1" text-anchor="middle">Лекарство: Heijunka (выравнивание производства),</text>
+    <text x="190" y="130" font-size="11" fill="#cbd5e1" text-anchor="middle">плановый mix, демпфирующие буферы</text>
+  </g>
+
+  <g transform="translate(440, 410)">
+    <rect width="375" height="140" rx="8" fill="#1e293b"/>
+    <text x="187" y="35" font-size="18" fill="white" text-anchor="middle" font-weight="bold">Muri — перегрузка</text>
+    <text x="187" y="60" font-size="12" fill="white" text-anchor="middle">Перенапряжение людей и оборудования</text>
+    <text x="187" y="80" font-size="12" fill="white" text-anchor="middle">→ порождает дефекты, поломки, выгорание</text>
+    <text x="187" y="115" font-size="11" fill="#cbd5e1" text-anchor="middle">Лекарство: стандартизованная работа в пределах</text>
+    <text x="187" y="130" font-size="11" fill="#cbd5e1" text-anchor="middle">мощности, выравнивание Mura</text>
+  </g>
+
+  <text x="450" y="585" class="legend" font-style="italic">Tres Mu (3M) — взаимосвязанные категории потерь в TPS: Muda + Mura + Muri</text>
+</svg>
