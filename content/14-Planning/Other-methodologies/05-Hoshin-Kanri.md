@@ -1,4 +1,9 @@
 ---
+title: "Hoshin Kanri — стратегическое разворачивание (Policy Deployment)"
+type: note
+status: active
+domain: education
+module: Other-methodologies
 aliases: 
 updated: 2026-05-13
 tags: [education, other-methodologies, hoshin-kanri]
@@ -97,7 +102,7 @@ Catchball — back-and-forth переговоры между уровнями о
 | Сильная сторона | Каскадирование и execution | Visualisation стратегии |
 | Слабая сторона | Не учит измерять value chain | Слабо связан с daily ops |
 
-**Best practice** — комбинировать: Strategy Map визуализирует логику, Hoshin даёт execution mechanics. См. подробно в `[[../Compare/03-Combinations-that-work|Combinations that work]]`.
+**Best practice** — комбинировать: Strategy Map визуализирует логику, Hoshin даёт execution mechanics. См. подробно в `[[../../Compare/03-Combinations-that-work|Combinations that work]]`.
 
 ## Кейсы
 
@@ -127,7 +132,7 @@ Originator. До сих пор использует Hoshin как backbone пл�
 
 ### Intel
 
-Andy Grove и команда — известны как создатели OKR (см. `[[../OKR-KPI/index|OKR]]`), но в Intel также жил Hoshin Kanri в производственных подразделениях. OKR можно видеть как «Hoshin Kanri для tech-компаний» (хотя они отличаются по культуре).
+Andy Grove и команда — известны как создатели OKR (см. `[[../../17-Goal-Setting/OKR-KPI/index|OKR]]`), но в Intel также жил Hoshin Kanri в производственных подразделениях. OKR можно видеть как «Hoshin Kanri для tech-компаний» (хотя они отличаются по культуре).
 
 ## Когда Hoshin Kanri оправдан
 
@@ -154,8 +159,8 @@ Andy Grove и команда — известны как создатели OKR 
 
 ## Связь с другими методологиями
 
-- **Hoshin + Lean**: исторически связаны (см. `[[../Lean/index|Lean]]`). Hoshin — стратегический слой над Kaizen / TPS.
-- **Hoshin vs OKR**: похожи на каскадирование, но Hoshin — про breakthrough на 3-5 лет, OKR — про квартал и более динамику. См. `[[../Compare/01-Methodology-landscape|Methodology landscape]]`.
+- **Hoshin + Lean**: исторически связаны (см. `[[../../13-Operations-Excellence/Lean/index|Lean]]`). Hoshin — стратегический слой над Kaizen / TPS.
+- **Hoshin vs OKR**: похожи на каскадирование, но Hoshin — про breakthrough на 3-5 лет, OKR — про квартал и более динамику. См. `[[../../Compare/01-Methodology-landscape|Methodology landscape]]`.
 - **Hoshin + S&OP**: Hoshin даёт долгосрочные breakthrough, S&OP — тактический ops planning (см. `[[../SOP/index|S&OP]]`).
 - **Hoshin + IBP**: в IBP strategic review есть место для Hoshin (см. `[[01-IBP-Integrated-Business-Planning|IBP]]`).
 - **Hoshin vs BSC**: дополняют, см. сравнение выше.

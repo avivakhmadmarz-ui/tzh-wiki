@@ -261,7 +261,7 @@ Gartner каждый год пересортировывает позиции. �
 - [[03-Best-practices-US|03 Best practices US]] — модель зрелости Gartner: по уровню зрелости видно, какой класс софта подходит
 - [[04-Cases|04 Cases]] — P&G использует ToolsGroup, Cisco и Unilever — Kinaxis
 - [[07-Implementation-checklist|07 Чеклист внедрения]] — софт идёт после процесса
-- [[../04-Supply-Chain/09-Logistics-IT-Systems|04.09 Logistics IT Systems]] — смежный слой систем логистики (WMS, TMS, управление складом)
+- [[../../04-Supply-Chain/09-Logistics-IT-Systems|04.09 Logistics IT Systems]] — смежный слой систем логистики (WMS, TMS, управление складом)
 
 ## Источники
 
@@ -276,5 +276,5 @@ Gartner каждый год пересортировывает позиции. �
 ## Связанные документы
 
 - [[index|SOP — Sales & Operations Planning]]
-- [[../04-Supply-Chain/09-Logistics-IT-Systems|04.09 Logistics IT Systems]]
+- [[../../04-Supply-Chain/09-Logistics-IT-Systems|04.09 Logistics IT Systems]]
 - [[../index|Education Index]]

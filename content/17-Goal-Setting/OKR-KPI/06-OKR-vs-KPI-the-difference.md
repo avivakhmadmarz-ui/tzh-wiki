@@ -1,4 +1,6 @@
 ---
+title: "06 — OKR vs KPI: ключевая разница"
+module: OKR-KPI
 aliases: 
 tags: [education, okr-kpi, comparison, key]
 type: note
@@ -277,7 +279,7 @@ KPI обновляются по мере **изменения структуры
 - [[04-KPI-and-Balanced-Scorecard|04 — KPI и BSC]]
 - [[07-Implementation-for-leader|07 — Внедрение для руководителя]] — куда применить эти знания
 - [[index|OKR-KPI Index]]
-- [[../Compare/index|Compare]] — общий взгляд через все методологии
+- [[../../Compare/index|Compare]] — общий взгляд через все методологии
 
 ## Источники
 

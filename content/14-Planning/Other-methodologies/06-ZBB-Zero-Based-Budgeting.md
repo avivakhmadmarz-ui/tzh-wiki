@@ -1,4 +1,9 @@
 ---
+title: "Zero-Based Budgeting (ZBB) — бюджет «с нуля»"
+type: note
+status: active
+domain: education
+module: Other-methodologies
 aliases: 
 updated: 2026-05-13
 tags: [education, other-methodologies, zbb, finance]
@@ -164,8 +169,8 @@ Pyhrr как accounting manager применил впервые. По публи
 - **ZBB + IBP**: финансовый слой IBP может опираться на ZBB-методологию (см. `[[01-IBP-Integrated-Business-Planning|IBP]]`)
 - **ZBB vs Beyond Budgeting**: противоположности (см. `[[07-EOS-and-other|EOS-and-other]]`, секция Beyond Budgeting)
 - **ZBB vs S&OP**: ортогональны — S&OP про operations, ZBB про cost (см. `[[../SOP/index|S&OP]]`)
-- **ZBB + KPI**: жёсткая привязка статей к KPI критична для не-токсичного применения (см. `[[../OKR-KPI/index|OKR/KPI]]`)
-- В сравнении ситуаций: см. `[[../Compare/02-Decision-matrix|Decision matrix]]` — кейс кризис / трансформация
+- **ZBB + KPI**: жёсткая привязка статей к KPI критична для не-токсичного применения (см. `[[../../17-Goal-Setting/OKR-KPI/index|OKR/KPI]]`)
+- В сравнении ситуаций: см. `[[../../Compare/02-Decision-matrix|Decision matrix]]` — кейс кризис / трансформация
 
 ## Источники
 

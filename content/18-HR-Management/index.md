@@ -91,7 +91,7 @@ updated: 2026-05-26
 - [[../16-Leadership/index|Модуль 16: Leadership]] — лидерство как драйвер HR
 - [[../17-Goal-Setting/index|Модуль 17: Goal Setting]] — OKR в performance management
 - [[../19-Org-Design-Change/index|Модуль 19: Org Design]] — структура как фундамент HR
-- [[../OKR-KPI/06-OKR-vs-KPI-the-difference|OKR vs KPI]] — для performance management
+- [[../17-Goal-Setting/OKR-KPI/06-OKR-vs-KPI-the-difference|OKR vs KPI]] — для performance management
 ## Связанные документы
 
 - [[../index|Education Index]]

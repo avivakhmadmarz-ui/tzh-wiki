@@ -1,4 +1,9 @@
 ---
+title: "02 — Структура OKR: Objective + Key Results"
+type: note
+status: active
+domain: education
+module: OKR-KPI
 aliases: 
 updated: 2026-05-13
 tags: [education, okr-kpi, structure]

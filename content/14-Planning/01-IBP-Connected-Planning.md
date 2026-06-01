@@ -160,7 +160,7 @@ Class A — это не сертификат, а **уровень зрелост
 
 - [[02-DDMRP-Deep-Dive|02 DDMRP]] — альтернативный подход
 - [[03-Hoshin-Kanri-Strategic|03 Hoshin Kanri]] — стратегический слой
-- [[../SOP/index|S&OP подмодуль]] — фундамент
+- [[SOP/index|S&OP подмодуль]] — фундамент
 - [[../12-ERP-Digital/02-SCM-Planning-Systems|Модуль 12.02: SCM Planning Systems]] — платформы
 - [[../02-Finance/05-Budgeting|Модуль 02.05: Budgeting]] — финансовая часть
 
@@ -202,4 +202,4 @@ Class A — это не сертификат, а **уровень зрелост
 - [[index|Модуль 14: Planning]]
 - [[../index|Education Index]]
 - [[02-DDMRP-Deep-Dive|02 DDMRP]]
-- [[../SOP/index|S&OP подмодуль]]
+- [[SOP/index|S&OP подмодуль]]

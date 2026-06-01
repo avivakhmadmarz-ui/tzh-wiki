@@ -71,7 +71,7 @@ updated: 2026-06-01
 ## Связанные документы
 
 - [[../index|Education Index]]
-- [[../13-Operations-Excellence/index|Модуль 13: Operations Excellence]]
-- [[../SOP/index|S&OP]]
-- [[../Other-methodologies/index|Другие методологии]]
-- [[../Compare/index|Сравнение методов]]
+- [[../index|Модуль 13: Operations Excellence]]
+- [[../../14-Planning/SOP/index|S&OP]]
+- [[../../14-Planning/Other-methodologies/index|Другие методологии]]
+- [[../../Compare/index|Сравнение методов]]

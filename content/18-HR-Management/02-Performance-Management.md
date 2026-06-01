@@ -334,7 +334,7 @@ Netflix вместо PIP предлагает **щедрое выходное п
 - [[../16-Leadership/03-Coaching-Development|16.03 Coaching]] — 1-on-1 как часть continuous performance
 - [[../16-Leadership/04-Feedback-Difficult-Conversations|16.04 Feedback]] — SBI в performance conversations
 - [[../17-Goal-Setting/index|Модуль 17: Goal Setting]] — OKR + performance review
-- [[../OKR-KPI/06-OKR-vs-KPI-the-difference|OKR vs KPI]] — детальное сравнение
+- [[../17-Goal-Setting/OKR-KPI/06-OKR-vs-KPI-the-difference|OKR vs KPI]] — детальное сравнение
 
 ## Источники
 

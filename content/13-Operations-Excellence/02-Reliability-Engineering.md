@@ -214,7 +214,7 @@ FMEA — обязательный инструмент:
 ## Связь с другими модулями
 
 - [[01-Quality-Management|01 Quality Management]] — quality + reliability
-- [[../Lean/03-Lean-tools|Lean tools]] — TPM как часть Lean
+- [[Lean/03-Lean-tools|Lean tools]] — TPM как часть Lean
 - [[../11-Analytics-BI/05-Machine-Learning-Operations|Модуль 11.05: ML]] — predictive maintenance
 - [[../12-ERP-Digital/06-Automation-AI|Модуль 12.06: Digital Twin]] — twin оборудования
 - [[../22-Risk-BC/index|Модуль 22: Risk]] — reliability риски

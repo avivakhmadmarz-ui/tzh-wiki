@@ -54,10 +54,10 @@ updated: 2026-05-18
 - [[../05-Procurement/index|Модуль 05 — Strategic Sourcing & Procurement]] — Source как одно из ядер SCOR; integrated procurement planning
 - [[../06-Foreign-Trade/index|Модуль 06 — Foreign Trade]] — международная логистика, Инкотермс, валютный контроль
 - [[../07-Category-Management/index|Модуль 07 — Category Management]] — ассортиментные решения через ABC / XYZ
-- [[../11-Analytics/index|Модуль 11 — Analytics]] — data-инфраструктура для прогнозирования и оптимизации
-- [[../12-ERP-Digitalization/index|Модуль 12 — ERP & Digitalization]] — ERP / WMS / TMS как платформа управления цепочкой
-- [[../14-Planning-Methodologies/index|Модуль 14 — Planning Methodologies]] — S&OP как часть планировочной иерархии
-- [[../22-Risk-Management/index|Модуль 22 — Risk Management]] — supply chain risk как часть общего риск-менеджмента
+- [[../11-Analytics-BI/index|Модуль 11 — Analytics]] — data-инфраструктура для прогнозирования и оптимизации
+- [[../12-ERP-Digital/index|Модуль 12 — ERP & Digitalization]] — ERP / WMS / TMS как платформа управления цепочкой
+- [[../14-Planning/index|Модуль 14 — Planning Methodologies]] — S&OP как часть планировочной иерархии
+- [[../22-Risk-BC/index|Модуль 22 — Risk Management]] — supply chain risk как часть общего риск-менеджмента
 
 ## Источники
 

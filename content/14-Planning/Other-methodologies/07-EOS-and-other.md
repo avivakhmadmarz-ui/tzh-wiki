@@ -1,4 +1,9 @@
 ---
+title: "EOS, 4DX, Holacracy, Agile Strategy, Beyond Budgeting — другие системы"
+type: note
+status: active
+domain: education
+module: Other-methodologies
 aliases: 
 updated: 2026-05-13
 tags: [education, other-methodologies, eos, 4dx, holacracy, beyond-budgeting]
@@ -44,7 +49,7 @@ EOS — упрощённая operating system для **SMB и scale-ups** (50-25
 
 ### Rocks — родственник OKR
 
-**Rocks** = 3-7 priorities на 90 дней. Каждый Rock назначен одному owner. Это явный родственник **OKR** (см. `[[../OKR-KPI/index|OKR/KPI]]`), но проще:
+**Rocks** = 3-7 priorities на 90 дней. Каждый Rock назначен одному owner. Это явный родственник **OKR** (см. `[[../../17-Goal-Setting/OKR-KPI/index|OKR/KPI]]`), но проще:
 - Нет formal Key Results — только sub-tasks / done-criteria
 - 90-day cadence
 - Ranked across team, не по departments
@@ -270,9 +275,9 @@ Holacracy в чистом виде **не масштабируется** в кр
 
 ## Связь с другими методологиями
 
-- **EOS Rocks ≈ OKR Objectives** — родственники (см. `[[../OKR-KPI/index|OKR/KPI]]`)
+- **EOS Rocks ≈ OKR Objectives** — родственники (см. `[[../../17-Goal-Setting/OKR-KPI/index|OKR/KPI]]`)
 - **EOS L10 ≈ S&OP cadence**, но weekly и для ops daily review (см. `[[../SOP/index|S&OP]]`)
-- **4DX дополняет любую strategy method** — заметка `[[../Compare/03-Combinations-that-work|Combinations that work]]`
+- **4DX дополняет любую strategy method** — заметка `[[../../Compare/03-Combinations-that-work|Combinations that work]]`
 - **Beyond Budgeting vs ZBB** — противоположности (см. `[[06-ZBB-Zero-Based-Budgeting|ZBB]]`)
 - **Holacracy** — антипод Hoshin Kanri (см. `[[05-Hoshin-Kanri|Hoshin Kanri]]`): top-down vs distributed
 

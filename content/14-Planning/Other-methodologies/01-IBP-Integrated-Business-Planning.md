@@ -1,4 +1,9 @@
 ---
+title: "IBP — Integrated Business Planning"
+type: note
+status: active
+domain: education
+module: Other-methodologies
 aliases: 
 updated: 2026-05-13
 tags: [education, other-methodologies, ibp]

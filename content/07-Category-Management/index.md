@@ -59,10 +59,10 @@ Category Management — **центральная методология** рит
 - [[../04-Supply-Chain/04-Inventory-Management|Модуль 04 — Inventory Management]] — матрица ABC × XYZ для ассортимента
 - [[../05-Procurement/index|Модуль 05 — Procurement]] — управление вендорами и поддержка CM со стороны закупок
 - [[../06-Foreign-Trade/06-Parallel-Import|Модуль 06 — Parallel Import]] — CM для категорий с параллельным импортом
-- [[../09-Ecommerce/index|Модуль 09 — E-commerce]] — специфика CM для маркетплейсов
-- [[../10-Marketing-Consumer/index|Модуль 10 — Marketing & Consumer]] — промо и инсайты о покупателях
-- [[../11-Analytics/index|Модуль 11 — Analytics & BI]] — фундамент данных для CM
-- [[../14-Planning-Methodologies/index|Модуль 14 — Planning]] — интеграция с S&OP
+- [[../09-Ecom-Marketplaces/index|Модуль 09 — E-commerce]] — специфика CM для маркетплейсов
+- [[../10-Marketing/index|Модуль 10 — Marketing & Consumer]] — промо и инсайты о покупателях
+- [[../11-Analytics-BI/index|Модуль 11 — Analytics & BI]] — фундамент данных для CM
+- [[../14-Planning/index|Модуль 14 — Planning]] — интеграция с S&OP
 
 ## Источники
 
@@ -125,6 +125,6 @@ Category Management — **центральная методология** рит
 - [[../03-Management-Accounting/index|Модуль 03: Management Accounting]]
 - [[../04-Supply-Chain/index|Модуль 04: Supply Chain]]
 - [[../05-Procurement/index|Модуль 05: Procurement]]
-- [[../09-Ecommerce/index|Модуль 09: E-commerce]]
-- [[../11-Analytics/index|Модуль 11: Analytics]]
+- [[../09-Ecom-Marketplaces/index|Модуль 09: E-commerce]]
+- [[../11-Analytics-BI/index|Модуль 11: Analytics]]
 - Методология Education

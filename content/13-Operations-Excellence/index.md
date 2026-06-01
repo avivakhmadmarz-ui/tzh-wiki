@@ -12,7 +12,7 @@ updated: 2026-05-19
 
 # Модуль 13 — Operations Excellence (операционное совершенство)
 
-> Operations Excellence — это **системная дисциплина** превращения операций из «функции поддержки» в источник конкурентного преимущества. Lean уже покрыт детально как встроенный подмодуль ([[../Lean/index|Lean module]]); этот модуль расширяет горизонт: качество (ISO, TQM — Total Quality Management — всеобщее управление качеством), надёжность (TPM — Total Productive Maintenance, OEE — Overall Equipment Effectiveness, FMEA — Failure Mode and Effects Analysis), операционная стратегия (Hayes-Wheelwright, Skinner), capacity planning, операции в сервисе.
+> Operations Excellence — это **системная дисциплина** превращения операций из «функции поддержки» в источник конкурентного преимущества. Lean уже покрыт детально как встроенный подмодуль ([[Lean/index|Lean module]]); этот модуль расширяет горизонт: качество (ISO, TQM — Total Quality Management — всеобщее управление качеством), надёжность (TPM — Total Productive Maintenance, OEE — Overall Equipment Effectiveness, FMEA — Failure Mode and Effects Analysis), операционная стратегия (Hayes-Wheelwright, Skinner), capacity planning, операции в сервисе.
 
 ## Карта раздела
 
@@ -24,11 +24,11 @@ updated: 2026-05-19
 2. **[[02-Reliability-Engineering|02 Reliability Engineering]]** — TPM (Total Productive Maintenance — всеобщее производительное обслуживание), OEE = Availability × Performance × Quality, RCM (Reliability-Centered Maintenance — обслуживание на основе надёжности), FMEA, MTBF / MTTR (Mean Time Between Failures / Mean Time To Repair — среднее время между отказами / среднее время восстановления)
 3. **[[03-Operations-Strategy|03 Operations Strategy]]** — Hayes-Wheelwright Four-Stage Model (четырёхстадийная модель операционной зрелости), Order Winners vs Order Qualifiers (Terry Hill), Operations Frontier (Wickham Skinner), Sandcone Model (Ferdows & De Meyer)
 4. **[[04-Capacity-Planning|04 Capacity Planning]]** — Capacity Planning, Theory of Swift Even Flow (Schmenner), Queueing Theory + Little's Law (закон Литтла)
-5. **[[05-Operations-Services|05 Operations в сервисах и офисе]]** — Service Operations Triangle (Heskett), Service Profit Chain (Heskett, Sasser, Schlesinger), углубление [[../Lean/05-Lean-in-services-and-office|Lean in services and office]]
+5. **[[05-Operations-Services|05 Operations в сервисах и офисе]]** — Service Operations Triangle (Heskett), Service Profit Chain (Heskett, Sasser, Schlesinger), углубление [[Lean/05-Lean-in-services-and-office|Lean in services and office]]
 
 ## Встроенные подмодули
 
-- **[[../Lean/index|Lean Production]]** — детально покрыт в отдельной папке. Не дублируем здесь, ссылаемся
+- **[[Lean/index|Lean Production]]** — детально покрыт в отдельной папке. Не дублируем здесь, ссылаемся
 
 ## Зачем модуль руководителю
 
@@ -102,12 +102,12 @@ updated: 2026-05-19
 
 - [[../04-Supply-Chain/index|Модуль 04: Supply Chain]] — operations как часть SC
 - [[../03-Management-Accounting/01-Costing-Systems|Модуль 03: Costing]] — Cost of Poor Quality, Throughput Accounting
-- [[../Lean/index|Lean Production]] — детально покрыт, отдельная папка
-- [[../OKR-KPI/index|OKR-KPI]] — operations KPI каскад
+- [[Lean/index|Lean Production]] — детально покрыт, отдельная папка
+- [[../17-Goal-Setting/OKR-KPI/index|OKR-KPI]] — operations KPI каскад
 - [[../14-Planning/index|Модуль 14: Planning]] — operations планирование
 ## Связанные документы
 
 - [[../index|Education Index]]
-- [[../Lean/index|Lean (встроенный подмодуль)]]
+- [[Lean/index|Lean (встроенный подмодуль)]]
 - [[../14-Planning/index|Модуль 14: Planning]]
 - Методология Education

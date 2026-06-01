@@ -1,4 +1,9 @@
 ---
+title: "05 — Кейсы KPI и ловушки: Walmart, Amazon, GE, Wells Fargo"
+type: note
+status: active
+domain: education
+module: OKR-KPI
 aliases: 
 updated: 2026-05-13
 tags: [education, okr-kpi, kpi, cases, pitfalls]

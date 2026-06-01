@@ -599,7 +599,7 @@ JBP — наиболее развитая форма отношений с по�
 - [[06-Customer-Insights-Analytics|06 Покупательские инсайты]] — общая аналитика в JBP
 - [[../05-Procurement/03-Supplier-Management-SRM|05-Proc: SRM]] — более широкий фреймворк SRM (Supplier Relationship Management)
 - [[../05-Procurement/04-Negotiation-and-Contracts|05-Proc: Контракты]] — контрактная основа
-- [[../14-Planning-Methodologies/index|Модуль 14: Планирование]] — интеграция с CPFR
+- [[../14-Planning/index|Модуль 14: Планирование]] — интеграция с CPFR
 
 ## Источники
 

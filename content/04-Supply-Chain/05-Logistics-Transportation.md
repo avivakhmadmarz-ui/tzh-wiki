@@ -388,7 +388,7 @@ Reverse logistics — самый дорогой и сложный сегмент
 - [[07-Last-Mile-Delivery|07 Last-Mile Delivery]] — фокусированно на финальном сегменте
 - [[../03-Management-Accounting/02-Cost-to-Serve|03-Management-Accounting: Cost-to-Serve]] — логистика как ключевые buckets CTS
 - [[../06-Foreign-Trade/index|Модуль 06: Foreign Trade]] — международная логистика
-- [[../12-ERP-Digitalization/index|Модуль 12: ERP & Digitalization]] — IT-стек WMS / TMS / OMS
+- [[../12-ERP-Digital/index|Модуль 12: ERP & Digitalization]] — IT-стек WMS / TMS / OMS
 
 ## Источники
 

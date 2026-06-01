@@ -208,7 +208,7 @@ COPQ (Cost of Poor Quality) — полная стоимость ошибок и 
 ## Связь с другими модулями
 
 - [[02-Reliability-Engineering|02 Reliability Engineering]] — quality + reliability
-- [[../Lean/index|Lean Production]] — встроенный подмодуль
+- [[Lean/index|Lean Production]] — встроенный подмодуль
 - [[../03-Management-Accounting/01-Costing-Systems|Модуль 03: Costing]] — COPQ
 - [[../05-Procurement/03-Supplier-Management-SRM|Модуль 05: SRM]] — quality поставщиков
 - [[../22-Risk-BC/index|Модуль 22: Risk]] — quality риски

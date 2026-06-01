@@ -1,4 +1,9 @@
 ---
+title: "MRP / MRP II / ERP — историческая линия систем планирования"
+type: note
+status: active
+domain: education
+module: Other-methodologies
 aliases: 
 updated: 2026-05-13
 tags: [education, other-methodologies, mrp, erp]
@@ -151,7 +156,7 @@ Oliver Wight также ввёл **Class A maturity model** — где «Class A
 
 - **MRP II → S&OP**: S&OP родился внутри MRP II как executive-крыша (см. `[[../SOP/index|S&OP]]`)
 - **MRP vs DDMRP**: DDMRP — pull-альтернатива (см. `[[03-DDMRP-Demand-Driven|DDMRP]]`)
-- **MRP vs Lean**: TPS отказывается от MRP в favor of Kanban-pull (см. `[[../Lean/index|Lean]]`)
+- **MRP vs Lean**: TPS отказывается от MRP в favor of Kanban-pull (см. `[[../../13-Operations-Excellence/Lean/index|Lean]]`)
 - **ERP + IBP**: SAP IBP надстраивается над S/4HANA (см. `[[01-IBP-Integrated-Business-Planning|IBP]]`)
 
 ## Источники

@@ -292,7 +292,7 @@ ABC-логика по CM/unit поощряет продукт A. TOC-логик�
 - [[../02-Finance/03-Capital-decisions|02-Finance: Capital decisions]] — NPV / IRR как продолжение релевантного анализа для долгосрочных решений
 - [[../05-Procurement/index|Модуль 05: Procurement]] — Make-or-Buy и стратегия закупок
 - [[../04-Supply-Chain/index|Модуль 04: Supply Chain]] — TOC как философия операционного управления
-- [[../14-Planning-Methodologies/index|Модуль 14: Planning]] — S&OP и приоритизация мощностей
+- [[../14-Planning/index|Модуль 14: Planning]] — S&OP и приоритизация мощностей
 
 ## Источники
 

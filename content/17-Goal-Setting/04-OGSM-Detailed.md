@@ -247,7 +247,7 @@ Confusing operational measures (запустить 3 продукта) с strate
 - [[index|Модуль 17: Goal Setting]]
 - [[03-V2MOM|03 V2MOM]] — похожий уровень масштаба, разный underlying philosophy
 - [[05-Hoshin-Kanri-Deep|05 Hoshin Kanri Deep]] — часто комбинируется с OGSM
-- [[../OKR-KPI/index|OKR-KPI подмодуль]] — альтернатива
+- [[OKR-KPI/index|OKR-KPI подмодуль]] — альтернатива
 - [[../07-Category-Management/index|Модуль 07: Category Management]] — OGSM часто используется в category management
 - [[../10-Marketing/01-Strategic-Marketing|10.01 Strategic Marketing]] — стратегический контекст
 
@@ -272,4 +272,4 @@ OGSM формально не сертифицируется (это **корпо
 - [[index|Модуль 17: Goal Setting]]
 - [[../index|Education Index]]
 - [[05-Hoshin-Kanri-Deep|05 Hoshin Kanri Deep]]
-- [[../OKR-KPI/index|OKR-KPI подмодуль]]
+- [[OKR-KPI/index|OKR-KPI подмодуль]]

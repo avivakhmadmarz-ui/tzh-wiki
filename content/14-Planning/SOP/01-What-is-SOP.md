@@ -156,8 +156,8 @@ S&OP — это формализация того, что и так происх
 
 ## Связь с другими модулями
 
-- [[../04-Supply-Chain/03-Demand-Planning-SOP|04.03 S&OP и планирование спроса]] — место S&OP в управлении цепочкой поставок
-- [[../14-Planning/index|Модуль 14: Planning]] — S&OP в ряду методологий планирования
+- [[../../04-Supply-Chain/03-Demand-Planning-SOP|04.03 S&OP и планирование спроса]] — место S&OP в управлении цепочкой поставок
+- [[../index|Модуль 14: Planning]] — S&OP в ряду методологий планирования
 - [[05-IBP-evolution|05 Эволюция в IBP]] — следующая ступень над S&OP
 
 ## Источники
@@ -179,5 +179,5 @@ S&OP — это формализация того, что и так происх
 
 - [[index|SOP — Sales & Operations Planning]]
 - [[../index|Education Index]]
-- [[../04-Supply-Chain/03-Demand-Planning-SOP|04.03 S&OP & Demand Planning]]
-- [[../14-Planning/index|Модуль 14: Planning]]
+- [[../../04-Supply-Chain/03-Demand-Planning-SOP|04.03 S&OP & Demand Planning]]
+- [[../index|Модуль 14: Planning]]

@@ -269,8 +269,8 @@ CTS — не разовое упражнение. Структура затра�
 - [[../02-Finance/02-Unit-economics|02-Finance: Unit Economics]] — CTS пересекается с CM2 (Contribution Margin после переменных операционных расходов)
 - [[../04-Supply-Chain/index|Модуль 04: Supply Chain]] — большинство buckets CTS приходят из логистики и склада
 - [[../07-Category-Management/index|Модуль 07: Category Management]] — управление ассортиментом на базе CTS
-- [[../09-Ecommerce/index|Модуль 09: E-commerce]] — специфика CTS на маркетплейсах
-- [[../11-Analytics/index|Модуль 11: Analytics]] — data-инфраструктура для CTS
+- [[../09-Ecom-Marketplaces/index|Модуль 09: E-commerce]] — специфика CTS на маркетплейсах
+- [[../11-Analytics-BI/index|Модуль 11: Analytics]] — data-инфраструктура для CTS
 
 ## Источники
 

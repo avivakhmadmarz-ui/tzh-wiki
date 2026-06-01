@@ -9,12 +9,12 @@ date modified: 2026-05-13
 
 # Financial — финансовые метрики и термины
 
-Алфавитный справочник финансовых терминов из корпоративной отчётности, бюджетирования и инвестиционного анализа. Те, что встречаются в [[../OKR-KPI/04-KPI-and-Balanced-Scorecard]], [[../Other-methodologies/06-ZBB-Zero-Based-Budgeting]] и кейсах.
+Алфавитный справочник финансовых терминов из корпоративной отчётности, бюджетирования и инвестиционного анализа. Те, что встречаются в [[../17-Goal-Setting/OKR-KPI/04-KPI-and-Balanced-Scorecard]], [[../14-Planning/Other-methodologies/06-ZBB-Zero-Based-Budgeting]] и кейсах.
 
 ## A
 
 ### AOP — Annual Operating Plan · годовой операционный план
-Годовой бюджет компании, обычно утверждается осенью на следующий календарный год. Антипод [[../Other-methodologies/07-EOS-and-other|Beyond Budgeting]].
+Годовой бюджет компании, обычно утверждается осенью на следующий календарный год. Антипод [[../14-Planning/Other-methodologies/07-EOS-and-other|Beyond Budgeting]].
 
 ### ARR — Annual Recurring Revenue · годовая повторяющаяся выручка
 Аннуализированная выручка от subscriptions / контрактов на обслуживание. Базовая метрика SaaS / B2B-софта.
@@ -60,7 +60,7 @@ date modified: 2026-05-13
 ### EPS — Earnings Per Share · прибыль на акцию
 `EPS = Net Income / Weighted Average Shares Outstanding`
 **Зачем:** ключевая метрика публичных компаний. Wall Street следит за «EPS beat» каждый квартал.
-**Где:** [[../OKR-KPI/05-KPI-cases-and-pitfalls]] — гонка за EPS убила R&D в GE/Westinghouse в 1980-х.
+**Где:** [[../17-Goal-Setting/OKR-KPI/05-KPI-cases-and-pitfalls]] — гонка за EPS убила R&D в GE/Westinghouse в 1980-х.
 
 ## F
 
@@ -103,7 +103,7 @@ date modified: 2026-05-13
 `NWC = Current Assets − Current Liabilities`
 Или, в operations-смысле: `NWC ≈ AR + Inventory − AP`.
 **Зачем:** сколько денег связано в операционном цикле. Снижение NWC = высвобождение кэша. S&OP/IBP проекты часто измеряются по NWC reduction.
-**Где:** [[../SOP/04-Cases]] — кейсы P&G, Cisco, Unilever — все про NWC.
+**Где:** [[../14-Planning/SOP/04-Cases]] — кейсы P&G, Cisco, Unilever — все про NWC.
 
 ## O
 
@@ -151,7 +151,7 @@ date modified: 2026-05-13
 ### SG&A — Selling, General & Administrative Expenses · коммерческие, общие и административные расходы
 OpEx за вычетом R&D и COGS — зарплата офисных сотрудников, маркетинг, юристы, аудит.
 **Зачем:** в ZBB первая цель — снижение SG&A. ABInBev и Kraft Heinz сокращали SG&A на 30-40%.
-**Где:** [[../Other-methodologies/06-ZBB-Zero-Based-Budgeting]]
+**Где:** [[../14-Planning/Other-methodologies/06-ZBB-Zero-Based-Budgeting]]
 
 ## T
 
@@ -176,7 +176,7 @@ OpEx за вычетом R&D и COGS — зарплата офисных сот�
 
 ### ZBB — Zero-Based Budgeting · бюджетирование с нуля
 Бюджет верстается с нуля, а не от прошлого года + индексация.
-**Где:** [[../Other-methodologies/06-ZBB-Zero-Based-Budgeting]]
+**Где:** [[../14-Planning/Other-methodologies/06-ZBB-Zero-Based-Budgeting]]
 
 ## Связанные документы
 
@@ -184,8 +184,8 @@ OpEx за вычетом R&D и COGS — зарплата офисных сот�
 - [[01-Operations-metrics|Operations & Supply Chain]]
 - [[03-Customer-metrics|Customer & Growth]]
 - [[04-Methodology-acronyms|Methodology Acronyms]]
-- [[../OKR-KPI/04-KPI-and-Balanced-Scorecard|KPI и Balanced Scorecard]]
-- [[../Other-methodologies/06-ZBB-Zero-Based-Budgeting|ZBB]]
+- [[../17-Goal-Setting/OKR-KPI/04-KPI-and-Balanced-Scorecard|KPI и Balanced Scorecard]]
+- [[../14-Planning/Other-methodologies/06-ZBB-Zero-Based-Budgeting|ZBB]]
 
 ## Источники
 

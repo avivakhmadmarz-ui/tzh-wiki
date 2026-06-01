@@ -211,5 +211,5 @@ updated: 2026-06-01
 ## Связанные документы
 
 - [[index|SOP — Sales & Operations Planning]]
-- [[../14-Planning/01-IBP-Connected-Planning|14.01 IBP]]
+- [[../01-IBP-Connected-Planning|14.01 IBP]]
 - [[../index|Education Index]]

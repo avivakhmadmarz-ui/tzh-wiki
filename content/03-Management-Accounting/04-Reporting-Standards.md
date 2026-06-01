@@ -248,8 +248,8 @@ IFRS пришёл на смену IAS (International Accounting Standards) в 20
 - [[01-Costing-Systems|01 Системы калькуляции]] — финансовая отчётность требует определённого подхода к себестоимости запасов (FIFO, средневзвешенная), что влияет на выбор управленческой системы
 - [[../02-Finance/01-Three-financial-statements|02-Finance: Three Financial Statements]] — структура P&L, Balance Sheet, Cash Flow зависит от применяемого стандарта
 - [[../02-Finance/04-Corporate-valuation-MA|02-Finance: Valuation & M&A]] — due diligence требует приведения отчётности целевой компании к стандарту, понятному покупателю
-- [[../21-Legal-Compliance/index|Модуль 21: Legal & Compliance]] — соответствие требованиям регуляторов разных юрисдикций
-- [[../12-ERP-Digitalization/index|Модуль 12: ERP & Digitalization]] — ERP-системы как инструмент параллельного учёта
+- [[../21-Legal/index|Модуль 21: Legal & Compliance]] — соответствие требованиям регуляторов разных юрисдикций
+- [[../12-ERP-Digital/index|Модуль 12: ERP & Digitalization]] — ERP-системы как инструмент параллельного учёта
 
 ## Источники
 

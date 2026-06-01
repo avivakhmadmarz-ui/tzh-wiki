@@ -242,7 +242,7 @@ EOS-инструмент для оценки сотрудников по эти�
 
 - [[index|Модуль 17: Goal Setting]]
 - [[01-4DX|01 4DX]] — близкая методология
-- [[../OKR-KPI/index|OKR-KPI подмодуль]] — альтернатива
+- [[OKR-KPI/index|OKR-KPI подмодуль]] — альтернатива
 - [[../16-Leadership/02-Team-Management|16.02 Team Management]] — командные ритуалы
 - [[../19-Org-Design-Change/index|Модуль 19: Org Design]] — структурный контекст для EOS
 

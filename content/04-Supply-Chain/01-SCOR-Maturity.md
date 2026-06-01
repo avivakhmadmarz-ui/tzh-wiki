@@ -279,7 +279,7 @@ Gartner ежегодно выявляет ключевые тренды в пр�
 - [[04-Inventory-Management|04 Inventory Management]] — продолжение Plan и Source
 - [[../02-Finance/03-Capital-decisions|02-Finance: Capital Decisions]] — Cash-to-Cash Cycle как стык supply chain и финансов
 - [[../05-Procurement/index|Модуль 05: Procurement]] — детализация Source-процесса
-- [[../11-Analytics/index|Модуль 11: Analytics]] — data-инфраструктура для SCOR-метрик
+- [[../11-Analytics-BI/index|Модуль 11: Analytics]] — data-инфраструктура для SCOR-метрик
 
 ## Источники
 

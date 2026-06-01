@@ -225,8 +225,8 @@ Anaplan / o9 / SAP IBP делают планирование:
 - [[01-IBP-Connected-Planning|01 IBP]] — главная корпоративная
 - [[02-DDMRP-Deep-Dive|02 DDMRP]] — execution layer
 - [[03-Hoshin-Kanri-Strategic|03 Hoshin Kanri]] — strategic layer
-- [[../SOP/index|S&OP подмодуль]]
-- [[../Other-methodologies/index|Other-methodologies]]
+- [[SOP/index|S&OP подмодуль]]
+- [[Other-methodologies/index|Other-methodologies]]
 - [[../17-Goal-Setting/index|Модуль 17: Goal Setting]] — OKR
 - [[../02-Finance/05-Budgeting|Модуль 02.05: Budgeting]] — ZBB
 

@@ -234,10 +234,10 @@ OKR (см. модуль 17 Goal Setting):
 
 - [[01-IBP-Connected-Planning|01 IBP]] — operational planning
 - [[02-DDMRP-Deep-Dive|02 DDMRP]] — execution layer
-- [[../Other-methodologies/05-Hoshin-Kanri|Other-meth: Hoshin базовый]]
+- [[Other-methodologies/05-Hoshin-Kanri|Other-meth: Hoshin базовый]]
 - [[../17-Goal-Setting/index|Модуль 17: Goal Setting]] — OKR альтернатива
 - [[../01-Strategy/03-Scenario-planning|Модуль 01.03: OGSM]] — третий подход
-- [[../Lean/index|Lean]] — Hoshin как часть Lean
+- [[../13-Operations-Excellence/Lean/index|Lean]] — Hoshin как часть Lean
 
 ## Источники
 
@@ -275,5 +275,5 @@ OKR (см. модуль 17 Goal Setting):
 
 - [[index|Модуль 14: Planning]]
 - [[../index|Education Index]]
-- [[../Other-methodologies/05-Hoshin-Kanri|Hoshin базовый]]
+- [[Other-methodologies/05-Hoshin-Kanri|Hoshin базовый]]
 - [[../17-Goal-Setting/index|Модуль 17: Goal Setting]]

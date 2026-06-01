@@ -36,17 +36,17 @@ Frederick Brooks, «Mythical Man-Month» (1975): «Adding manpower to a late sof
 
 Чем сильнее количественный индикатор используется для принятия решений, тем сильнее его искажают.
 **Близкое к Goodhart's law** (см. ниже).
-**Где:** [[../OKR-KPI/05-KPI-cases-and-pitfalls]]
+**Где:** [[../17-Goal-Setting/OKR-KPI/05-KPI-cases-and-pitfalls]]
 
 ### Cargo Cult · карго-культ
 Метафора Richard Feynman из антропологии. Племя видит, что у белых людей есть самолёты с грузом → строит копии аэродромов из дерева, веря, что это привлечёт самолёты. Делают **форму без сути**.
 **В менеджменте:** компании копируют ритуалы (дейли-стендапы, OKR, gemba walks), но без культуры и понимания. Результат — чарты выполняют, эффекта нет.
-**Где:** [[../Lean/07-For-the-manager]]
+**Где:** [[../13-Operations-Excellence/Lean/07-For-the-manager]]
 
 ### Cobra Effect · эффект кобры
 Британское правительство в Индии: чтобы снизить популяцию кобр, объявило вознаграждение за каждую сданную голову кобры. Местные начали разводить кобр для сдачи. Когда программу отменили — выпустили всех кобр в природу, популяция выросла.
 **Урок:** стимулы создают неожиданное поведение. Любой KPI с бонусом риск получить cobra effect.
-**Где:** [[../OKR-KPI/05-KPI-cases-and-pitfalls]]
+**Где:** [[../17-Goal-Setting/OKR-KPI/05-KPI-cases-and-pitfalls]]
 
 ### Conway's Law · закон Конвея
 Melvin Conway (1967): «Organizations design systems that mirror their own communication structure».
@@ -62,16 +62,16 @@ Melvin Conway (1967): «Organizations design systems that mirror their own commu
 ### Gemba (現場) · место реальной работы
 Японский термин TPS: место, где создаётся ценность (цех, склад, торговый зал). «Gemba walks» — руководитель идёт смотреть процесс на месте, не на дашборде.
 **Принцип Genchi Genbutsu** (現地現物) — «иди и смотри сам».
-**Где:** [[../Lean/07-For-the-manager]]
+**Где:** [[../13-Operations-Excellence/Lean/07-For-the-manager]]
 
 ### Goldratt's Inertia · инерция Голдратта
 Goldratt: после того, как ограничение «снято» (5-step exploit/elevate), компании склонны оставлять старые правила управления. Это самое опасное ограничение — **policy constraint, embedded в культуре**.
-**Где:** [[../Other-methodologies/04-Theory-of-Constraints]]
+**Где:** [[../14-Planning/Other-methodologies/04-Theory-of-Constraints]]
 
 ### Goodhart's Law · закон Гудхарта
 «When a measure becomes a target, it ceases to be a good measure».
 Любой индикатор, превратившийся в KPI с бонусом, начинает gaming. Wells Fargo делал 8 счетов на одного клиента, потому что у банкиров был KPI «cross-selling 8 products per customer» — открывали fake accounts.
-**Где:** [[../OKR-KPI/05-KPI-cases-and-pitfalls]] · [[../OKR-KPI/06-OKR-vs-KPI-the-difference]]
+**Где:** [[../17-Goal-Setting/OKR-KPI/05-KPI-cases-and-pitfalls]] · [[../17-Goal-Setting/OKR-KPI/06-OKR-vs-KPI-the-difference]]
 
 ## H
 
@@ -138,7 +138,7 @@ Laurence Peter (1969): «In a hierarchy, every employee tends to rise to his lev
 
 ### Student Syndrome · синдром студента
 Goldratt в CCPM: люди начинают серьёзно работать только перед самым дедлайном (как студенты перед экзаменом). Если task имеет 50% safety, это съедается.
-**Где:** [[../Other-methodologies/04-Theory-of-Constraints]]
+**Где:** [[../14-Planning/Other-methodologies/04-Theory-of-Constraints]]
 
 ### Sunk Cost Fallacy · ошибка невозвратных издержек
 «Мы уже потратили $1M на этот проект, нельзя его закрыть». Невозвратные издержки иррациональны для решений — их уже нет. Решение принимается по marginal cost / marginal benefit будущего.
@@ -181,7 +181,7 @@ Douglas McGregor (1960):
 - [[01-Operations-metrics|Operations & Supply Chain]]
 - [[02-Financial-metrics|Financial]]
 - [[04-Methodology-acronyms|Methodology Acronyms]]
-- [[../OKR-KPI/05-KPI-cases-and-pitfalls|KPI ловушки]] — много из этих законов там используется
+- [[../17-Goal-Setting/OKR-KPI/05-KPI-cases-and-pitfalls|KPI ловушки]] — много из этих законов там используется
 
 ## Источники / рекомендуемые книги
 

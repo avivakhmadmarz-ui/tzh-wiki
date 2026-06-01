@@ -152,7 +152,7 @@ Lean Accounting — применение Lean к финансовой функц
 - Real-time financial reporting
 - Меньше manual data entry
 
-См. встроенный подмодуль **[[../Lean/05-Lean-in-services-and-office|Lean in services and office]]**.
+См. встроенный подмодуль **[[Lean/05-Lean-in-services-and-office|Lean in services and office]]**.
 
 **Ключевой вывод 4.** Lean эффективен в любой повторяющейся работе с потоком, не только в производстве. Lean office даёт 30-50% productivity gains.
 
@@ -227,7 +227,7 @@ Yield Management — динамическое ценообразование д�
 
 - [[03-Operations-Strategy|03 Operations Strategy]] — стратегия применима к сервисам
 - [[04-Capacity-Planning|04 Capacity Planning]] — особенно критично в сервисах
-- [[../Lean/05-Lean-in-services-and-office|Lean в сервисах]] — детальный подмодуль
+- [[Lean/05-Lean-in-services-and-office|Lean в сервисах]] — детальный подмодуль
 - [[../10-Marketing/02-Consumer-Behavior|Модуль 10: Consumer Behavior]] — клиентский опыт
 - [[../18-HR-Management/index|Модуль 18: HR]] — employee satisfaction
 
@@ -269,4 +269,4 @@ Yield Management — динамическое ценообразование д�
 
 - [[index|Модуль 13: Operations Excellence]]
 - [[../index|Education Index]]
-- [[../Lean/index|Lean Production (встроенный)]]
+- [[Lean/index|Lean Production (встроенный)]]

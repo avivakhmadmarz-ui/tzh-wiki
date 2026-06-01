@@ -250,8 +250,8 @@ Hoshin Kanri — **корпоративный стандарт** Toyota с 1960-
 ## Связь с другими модулями
 
 - [[index|Модуль 17: Goal Setting]]
-- [[../OKR-KPI/index|OKR-KPI подмодуль]] — основная альтернатива
-- [[../Other-methodologies/05-Hoshin-Kanri|Hoshin Kanri base note]] — базовое описание (если есть)
+- [[OKR-KPI/index|OKR-KPI подмодуль]] — основная альтернатива
+- [[../14-Planning/Other-methodologies/05-Hoshin-Kanri|Hoshin Kanri base note]] — базовое описание (если есть)
 - [[../13-Operations-Excellence/index|Модуль 13: Operations Excellence]] — Lean / TPS / PDCA контекст
 - [[01-4DX|01 4DX]] — современный комплементарный инструмент исполнения
 - [[04-OGSM-Detailed|04 OGSM]] — другая корпоративная методология
@@ -282,4 +282,4 @@ Hoshin Kanri — **корпоративный стандарт** Toyota с 1960-
 - [[index|Модуль 17: Goal Setting]]
 - [[../index|Education Index]]
 - [[../13-Operations-Excellence/index|Модуль 13: Operations Excellence]]
-- [[../OKR-KPI/index|OKR-KPI подмодуль]]
+- [[OKR-KPI/index|OKR-KPI подмодуль]]

@@ -1,4 +1,9 @@
 ---
+title: "03 — Кейсы OKR: Intel, Google, LinkedIn, Adobe, Spotify, Airbnb"
+type: note
+status: active
+domain: education
+module: OKR-KPI
 aliases: 
 updated: 2026-05-13
 tags: [education, okr-kpi, cases]

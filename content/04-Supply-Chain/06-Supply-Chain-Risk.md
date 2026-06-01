@@ -370,8 +370,8 @@ COVID-19 стал крупнейшим тестом BCP в истории. Lesso
 - [[05-Logistics-Transportation|05 Logistics & Transportation]] — operational risks логистики
 - [[../05-Procurement/index|Модуль 05: Procurement]] — supplier risk management
 - [[../06-Foreign-Trade/index|Модуль 06: Foreign Trade]] — sanctions, валютный контроль
-- [[../21-Legal-Compliance/index|Модуль 21: Legal & Compliance]] — regulatory risks
-- [[../22-Risk-Management/index|Модуль 22: Risk Management]] — общая методология risk
+- [[../21-Legal/index|Модуль 21: Legal & Compliance]] — regulatory risks
+- [[../22-Risk-BC/index|Модуль 22: Risk Management]] — общая методология risk
 
 ## Источники
 

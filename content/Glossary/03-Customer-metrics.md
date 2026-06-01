@@ -135,7 +135,7 @@ date modified: 2026-05-13
 - [[index|Glossary Index]]
 - [[01-Operations-metrics|Operations & Supply Chain]]
 - [[02-Financial-metrics|Financial]]
-- [[../OKR-KPI/04-KPI-and-Balanced-Scorecard|Customer perspective в BSC]]
+- [[../17-Goal-Setting/OKR-KPI/04-KPI-and-Balanced-Scorecard|Customer perspective в BSC]]
 
 ## Источники
 

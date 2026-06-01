@@ -1,4 +1,6 @@
 ---
+title: "07 — Внедрение OKR и KPI для руководителя"
+module: OKR-KPI
 aliases: 
 tags: [education, okr-kpi, implementation, leader]
 type: note
@@ -296,7 +298,7 @@ Adobe в 2012 запустил Check-in **именно в Sheets**. Только
 **OKR на change-инициативы (30-40%):**
 - Запуск новой категории.
 - Расширение в новый канал (B2C, маркетплейс).
-- Внедрение S&OP (см. [[../SOP/index|S&OP]]).
+- Внедрение S&OP (см. [[../../14-Planning/SOP/index|S&OP]]).
 - Capability-building (обучение категорийщиков, S&OP-литературы).
 - Quarterly cycle.
 
@@ -307,7 +309,7 @@ Adobe в 2012 запустил Check-in **именно в Sheets**. Только
 - [[06-OKR-vs-KPI-the-difference|06 — OKR vs KPI]] — фундамент решений.
 - [[03-OKR-cases|03 — Кейсы]] — что было у других.
 - [[05-KPI-cases-and-pitfalls|05 — Pitfalls]] — что не делать.
-- [[../Compare/index|Compare]] — общая матрица всех методологий.
+- [[../../Compare/index|Compare]] — общая матрица всех методологий.
 - [[index|OKR-KPI Index]]
 
 ## Источники

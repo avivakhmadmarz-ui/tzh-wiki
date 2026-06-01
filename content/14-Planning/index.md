@@ -12,7 +12,7 @@ updated: 2026-05-19
 
 # Модуль 14 — Planning Methodologies (методологии планирования)
 
-> Этот модуль — **сравнительный обзор** методологий планирования: S&OP (Sales & Operations Planning — планирование продаж и операций), IBP (Integrated Business Planning — интегрированное бизнес-планирование), MRP / MRP II (Material Requirements Planning — планирование потребностей в материалах), DDMRP (Demand Driven MRP — управляемое спросом MRP), Hoshin Kanri (японский подход), ZBB (Zero-Based Budgeting — бюджетирование с нуля). Объединяет существующие подпапки [[../SOP/index|SOP]] и [[../Other-methodologies/index|Other-methodologies]] под единым зонтиком.
+> Этот модуль — **сравнительный обзор** методологий планирования: S&OP (Sales & Operations Planning — планирование продаж и операций), IBP (Integrated Business Planning — интегрированное бизнес-планирование), MRP / MRP II (Material Requirements Planning — планирование потребностей в материалах), DDMRP (Demand Driven MRP — управляемое спросом MRP), Hoshin Kanri (японский подход), ZBB (Zero-Based Budgeting — бюджетирование с нуля). Объединяет существующие подпапки [[SOP/index|SOP]] и [[Other-methodologies/index|Other-methodologies]] под единым зонтиком.
 
 ## Карта раздела
 
@@ -27,24 +27,24 @@ updated: 2026-05-19
 
 ## Встроенные подмодули (уже наполнены)
 
-- **[[../SOP/index|S&OP — Sales & Operations Planning]]** — 9 заметок:
-  - [[../SOP/01-What-is-SOP|01 What is S&OP]]
-  - [[../SOP/02-5-step-cycle|02 5-шаговый цикл]]
-  - [[../SOP/03-Best-practices-US|03 Best practices US]]
-  - [[../SOP/04-Cases|04 Кейсы]]
-  - [[../SOP/05-IBP-evolution|05 IBP evolution]]
-  - [[../SOP/06-Tools-software|06 Tools & software]]
-  - [[../SOP/07-Implementation-checklist|07 Implementation checklist]]
-  - [[../SOP/08-Metrics-and-maturity|08 Metrics & maturity]]
+- **[[SOP/index|S&OP — Sales & Operations Planning]]** — 9 заметок:
+  - [[SOP/01-What-is-SOP|01 What is S&OP]]
+  - [[SOP/02-5-step-cycle|02 5-шаговый цикл]]
+  - [[SOP/03-Best-practices-US|03 Best practices US]]
+  - [[SOP/04-Cases|04 Кейсы]]
+  - [[SOP/05-IBP-evolution|05 IBP evolution]]
+  - [[SOP/06-Tools-software|06 Tools & software]]
+  - [[SOP/07-Implementation-checklist|07 Implementation checklist]]
+  - [[SOP/08-Metrics-and-maturity|08 Metrics & maturity]]
 
-- **[[../Other-methodologies/index|Other planning methodologies]]** — 8 заметок:
-  - [[../Other-methodologies/01-IBP-Integrated-Business-Planning|01 IBP базовый обзор]]
-  - [[../Other-methodologies/02-MRP-MRPII-ERP|02 MRP / MRP II / ERP]]
-  - [[../Other-methodologies/03-DDMRP-Demand-Driven|03 DDMRP базовый]]
-  - [[../Other-methodologies/04-Theory-of-Constraints|04 Theory of Constraints]]
-  - [[../Other-methodologies/05-Hoshin-Kanri|05 Hoshin Kanri базовый]]
-  - [[../Other-methodologies/06-ZBB-Zero-Based-Budgeting|06 ZBB]]
-  - [[../Other-methodologies/07-EOS-and-other|07 EOS и other для SMB]]
+- **[[Other-methodologies/index|Other planning methodologies]]** — 8 заметок:
+  - [[Other-methodologies/01-IBP-Integrated-Business-Planning|01 IBP базовый обзор]]
+  - [[Other-methodologies/02-MRP-MRPII-ERP|02 MRP / MRP II / ERP]]
+  - [[Other-methodologies/03-DDMRP-Demand-Driven|03 DDMRP базовый]]
+  - [[Other-methodologies/04-Theory-of-Constraints|04 Theory of Constraints]]
+  - [[Other-methodologies/05-Hoshin-Kanri|05 Hoshin Kanri базовый]]
+  - [[Other-methodologies/06-ZBB-Zero-Based-Budgeting|06 ZBB]]
+  - [[Other-methodologies/07-EOS-and-other|07 EOS и other для SMB]]
 
 ## Зачем модуль руководителю
 
@@ -93,7 +93,7 @@ updated: 2026-05-19
 
 ### Подмодули в Education
 
-Полные источники — в подмодулях [[../SOP/index|SOP]] и [[../Other-methodologies/index|Other-methodologies]].
+Полные источники — в подмодулях [[SOP/index|SOP]] и [[Other-methodologies/index|Other-methodologies]].
 
 ## Связь с другими модулями
 
@@ -101,12 +101,12 @@ updated: 2026-05-19
 - [[../02-Finance/05-Budgeting|Модуль 02.05: Budgeting]] — финансовое планирование
 - [[../12-ERP-Digital/02-SCM-Planning-Systems|Модуль 12.02: SCM Planning Systems]] — IT-реализация
 - [[../17-Goal-Setting/index|Модуль 17: Goal Setting]] — OKR как альтернативный подход
-- [[../OKR-KPI/index|OKR-KPI]] — встроенный подмодуль
+- [[../17-Goal-Setting/OKR-KPI/index|OKR-KPI]] — встроенный подмодуль
 - [[../13-Operations-Excellence/index|Модуль 13: Operations Excellence]] — operations strategy
 ## Связанные документы
 
 - [[../index|Education Index]]
-- [[../SOP/index|SOP подмодуль (S&OP)]]
-- [[../Other-methodologies/index|Other-methodologies подмодуль]]
+- [[SOP/index|SOP подмодуль (S&OP)]]
+- [[Other-methodologies/index|Other-methodologies подмодуль]]
 - [[../13-Operations-Excellence/index|Модуль 13: Ops Excellence]]
 - Методология Education

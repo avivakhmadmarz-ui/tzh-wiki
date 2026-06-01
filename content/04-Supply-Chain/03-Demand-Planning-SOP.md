@@ -26,7 +26,7 @@ S&OP (Sales & Operations Planning — планирование продаж и �
 
 В 2000-2010-х концепция эволюционировала в **IBP** (Integrated Business Planning — интегрированное бизнес-планирование) — расширение S&OP с включением финансового и стратегического слоя. Лидеры (например, Unilever, P&G) используют термины S&OP и IBP взаимозаменяемо, но методологически IBP богаче.
 
-S&OP покрыт в текущем модуле через призму supply chain. Подробный материал по сравнению методологий планирования — в [[../14-Planning-Methodologies/index|Модуле 14: Planning Methodologies]].
+S&OP покрыт в текущем модуле через призму supply chain. Подробный материал по сравнению методологий планирования — в [[../14-Planning/index|Модуле 14: Planning Methodologies]].
 
 ### 1.2 Зачем нужен S&OP
 
@@ -309,7 +309,7 @@ S&OP внедряется в 60-70% крупных компаний, но в р�
 - [[04-Inventory-Management|04 Inventory Management]] — S&OP формирует targets для inventory
 - [[../02-Finance/05-Budgeting|02-Finance: Budgeting]] — связь S&OP с Rolling Forecast и AOP
 - [[../03-Management-Accounting/02-Cost-to-Serve|03-Management-Accounting: Cost-to-Serve]] — данные CTS питают promo decisions в S&OP
-- [[../14-Planning-Methodologies/index|Модуль 14: Planning Methodologies]] — расширенное сравнение методологий планирования
+- [[../14-Planning/index|Модуль 14: Planning Methodologies]] — расширенное сравнение методологий планирования
 
 ## Источники
 

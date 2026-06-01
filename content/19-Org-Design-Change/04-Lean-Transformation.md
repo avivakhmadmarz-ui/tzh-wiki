@@ -261,7 +261,7 @@ Toyota motto: «**We make people before we make cars**». Это требует 
 - [[03-Leadership-Transitions|03 Leadership Transitions]] — переход на Lean-mode
 - [[../13-Operations-Excellence/index|Модуль 13: Operations Excellence]] — Lean, Six Sigma, kaizen
 - [[../17-Goal-Setting/05-Hoshin-Kanri-Deep|17.05 Hoshin Kanri]] — стратегическая развёртка Lean
-- [[../Lean/index|Lean подмодуль]] — базовые материалы по Lean
+- [[../13-Operations-Excellence/Lean/index|Lean подмодуль]] — базовые материалы по Lean
 
 ## Источники
 
@@ -292,5 +292,5 @@ Toyota motto: «**We make people before we make cars**». Это требует 
 - [[index|Модуль 19: Org Design & Change]]
 - [[../index|Education Index]]
 - [[../13-Operations-Excellence/index|Модуль 13: Operations Excellence]]
-- [[../Lean/index|Lean подмодуль]]
+- [[../13-Operations-Excellence/Lean/index|Lean подмодуль]]
 - [[../17-Goal-Setting/05-Hoshin-Kanri-Deep|17.05 Hoshin Kanri]]

@@ -242,8 +242,8 @@ DDMRP — **scaled Kanban** для сложных цепочек.
 
 - [[01-IBP-Connected-Planning|01 IBP]] — комплементарны
 - [[03-Hoshin-Kanri-Strategic|03 Hoshin Kanri]] — strategic layer
-- [[../Other-methodologies/03-DDMRP-Demand-Driven|Other-meth: DDMRP базовый]]
-- [[../Other-methodologies/04-Theory-of-Constraints|Other-meth: TOC]] — фундамент DDMRP
+- [[Other-methodologies/03-DDMRP-Demand-Driven|Other-meth: DDMRP базовый]]
+- [[Other-methodologies/04-Theory-of-Constraints|Other-meth: TOC]] — фундамент DDMRP
 - [[../04-Supply-Chain/04-Inventory-Management|Модуль 04.04: Inventory]] — buffer sizing
 
 ## Источники
@@ -281,4 +281,4 @@ DDMRP — **scaled Kanban** для сложных цепочек.
 - [[index|Модуль 14: Planning]]
 - [[../index|Education Index]]
 - [[01-IBP-Connected-Planning|01 IBP]]
-- [[../Other-methodologies/04-Theory-of-Constraints|TOC]]
+- [[Other-methodologies/04-Theory-of-Constraints|TOC]]

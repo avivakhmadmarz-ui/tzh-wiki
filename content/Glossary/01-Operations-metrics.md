@@ -29,7 +29,7 @@ date modified: 2026-05-13
 ### APS — Advanced Planning and Scheduling · продвинутое планирование
 Системы детального планирования и составления расписаний, надстройка над ERP.
 **Примеры:** SAP IBP, Kinaxis, o9, OMP, Anaplan, Oracle SCM.
-**Где:** [[../SOP/06-Tools-software]]
+**Где:** [[../14-Planning/SOP/06-Tools-software]]
 
 ## B
 
@@ -44,7 +44,7 @@ date modified: 2026-05-13
 - Bias < 0 → forecast завышен (прогнозируем больше, чем продаём)
 
 **Зачем:** в отличие от MAPE, показывает не «насколько ошиблись», а «в какую сторону». Систематический bias надо чинить, случайные ошибки — норма.
-**Где:** [[../SOP/08-Metrics-and-maturity]]
+**Где:** [[../14-Planning/SOP/08-Metrics-and-maturity]]
 
 ### BOM — Bill of Materials · спецификация
 Список компонентов, материалов и количеств, нужных для производства одного изделия.
@@ -64,12 +64,12 @@ date modified: 2026-05-13
 
 ### CCPM — Critical Chain Project Management
 Управление проектами по Goldratt: критическая цепочка ресурсов, project buffer, no multi-tasking.
-**Где:** [[../Other-methodologies/04-Theory-of-Constraints]]
+**Где:** [[../14-Planning/Other-methodologies/04-Theory-of-Constraints]]
 
 ### Cycle time · время цикла
 Время от начала операции до её завершения. Не путать с Lead time.
 **Пример:** время сборки одного автомобиля на конвейере = 60 секунд (cycle time). Lead time = от заказа клиента до получения = 6 недель.
-**Где:** [[../Lean/03-Lean-tools]]
+**Где:** [[../13-Operations-Excellence/Lean/03-Lean-tools]]
 
 ### C2C — Cash-to-Cash Cycle · цикл обращения денег
 `C2C = DIO + DSO − DPO`
@@ -79,13 +79,13 @@ date modified: 2026-05-13
 
 **Зачем:** сколько дней деньги «заперты» в операционном цикле. Меньше = лучше (Apple исторически C2C отрицательный — поставщики финансируют их операции).
 **Бенчмарк:** топ-25% Gartner Supply Chain — C2C ≤ 30 дней; средний — 60-90; плохо — 120+.
-**Где:** [[../SOP/08-Metrics-and-maturity]]
+**Где:** [[../14-Planning/SOP/08-Metrics-and-maturity]]
 
 ## D
 
 ### DDMRP — Demand-Driven Material Requirements Planning
 Pull-альтернатива MRP. Buffer profile (red/yellow/green) вместо safety stock.
-**Где:** [[../Other-methodologies/03-DDMRP-Demand-Driven]]
+**Где:** [[../14-Planning/Other-methodologies/03-DDMRP-Demand-Driven]]
 
 ### DIH — Days Inventory on Hand = DIO — Days Inventory Outstanding · дни запасов
 `DIO = (Среднее значение запасов / COGS) × 365`
@@ -100,7 +100,7 @@ Pull-альтернатива MRP. Buffer profile (red/yellow/green) вмест�
 
 ### Drum-Buffer-Rope (DBR)
 Метод ToC для синхронизации производства с узким местом.
-**Где:** [[../Other-methodologies/04-Theory-of-Constraints]]
+**Где:** [[../14-Planning/Other-methodologies/04-Theory-of-Constraints]]
 
 ## E
 
@@ -112,7 +112,7 @@ Pull-альтернатива MRP. Buffer profile (red/yellow/green) вмест�
 ### EOQ — Economic Order Quantity · экономически обоснованный размер заказа
 Формула Уилсона (1934):
 `EOQ = √(2 × D × S / H)`, где D = годовой спрос, S = стоимость размещения заказа, H = carrying cost на единицу.
-**Где:** базовая модель из MRP, иногда упоминается в [[../Other-methodologies/02-MRP-MRPII-ERP]]
+**Где:** базовая модель из MRP, иногда упоминается в [[../14-Planning/Other-methodologies/02-MRP-MRPII-ERP]]
 
 ## F
 
@@ -132,12 +132,12 @@ Pull-альтернатива MRP. Buffer profile (red/yellow/green) вмест�
 ### FPY — First Pass Yield · выход с первого прохода
 % продукции, прошедшей все операции без переделок и брака.
 `FPY = Units passing without rework / Units started`
-**Где:** [[../Lean/06-Lean-Six-Sigma]]; ключевая метрика TPS / LSS.
+**Где:** [[../13-Operations-Excellence/Lean/06-Lean-Six-Sigma]]; ключевая метрика TPS / LSS.
 
 ### Forecast Accuracy · точность прогноза
 Часто выражается через `100% − MAPE` или `100% − WMAPE`.
 **Бенчмарк:** топ-25% mature companies — 80%+ на месяц вперёд по SKU-location уровню; средний — 60-70%.
-**Где:** [[../SOP/08-Metrics-and-maturity]]
+**Где:** [[../14-Planning/SOP/08-Metrics-and-maturity]]
 
 ## G
 
@@ -150,23 +150,23 @@ Pull-альтернатива MRP. Buffer profile (red/yellow/green) вмест�
 
 ### Heijunka · хейдзунка · выравнивание производства
 Японский принцип TPS — выравнивание объёма и mix производства, чтобы избежать Mura (неравномерности).
-**Где:** [[../Lean/01-Toyota-Production-System]] · [[../Lean/02-8-wastes-Muda-Mura-Muri]]
+**Где:** [[../13-Operations-Excellence/Lean/01-Toyota-Production-System]] · [[../13-Operations-Excellence/Lean/02-8-wastes-Muda-Mura-Muri]]
 
 ## J
 
 ### JIT — Just-In-Time · точно вовремя
 Один из двух столпов TPS: производить только то, что нужно, когда нужно, в нужном количестве. Минимизирует запасы и WIP.
-**Где:** [[../Lean/01-Toyota-Production-System]]
+**Где:** [[../13-Operations-Excellence/Lean/01-Toyota-Production-System]]
 
 ### Jidoka · дзидока · автономизация с человеческим разумом
 Второй столп TPS: останавливать процесс при обнаружении проблемы, чтобы не передавать дефект дальше. Andon, Poka-Yoke.
-**Где:** [[../Lean/01-Toyota-Production-System]]
+**Где:** [[../13-Operations-Excellence/Lean/01-Toyota-Production-System]]
 
 ## K
 
 ### Kanban · канбан · карточка
 Сигнал-карточка для pull-производства. Когда запас падает — карточка возвращается upstream и триггерит пополнение.
-**Где:** [[../Lean/03-Lean-tools]]
+**Где:** [[../13-Operations-Excellence/Lean/03-Lean-tools]]
 
 ## L
 
@@ -178,7 +178,7 @@ Pull-альтернатива MRP. Buffer profile (red/yellow/green) вмест�
 
 ### LSS — Lean Six Sigma
 Гибрид Lean (поток, муда) и Six Sigma (вариативность, дефекты). DMAIC цикл.
-**Где:** [[../Lean/06-Lean-Six-Sigma]]
+**Где:** [[../13-Operations-Excellence/Lean/06-Lean-Six-Sigma]]
 
 ## M
 
@@ -187,7 +187,7 @@ Pull-альтернатива MRP. Buffer profile (red/yellow/green) вмест�
 **Зачем:** базовая метрика точности forecast. Чем ниже — тем точнее.
 **Минусы:** ломается при Actual = 0, искажается на низкомоментных SKU. Поэтому часто используют WMAPE.
 **Бенчмарк:** топ-25% Gartner — 15-25% (т.е. accuracy 75-85%); средний — 30-40%.
-**Где:** [[../SOP/08-Metrics-and-maturity]]
+**Где:** [[../14-Planning/SOP/08-Metrics-and-maturity]]
 
 ### MOQ — Minimum Order Quantity · минимальная партия
 Минимум, который поставщик соглашается отгрузить за один заказ. Часто навязывается из Китая (например MOQ 1000 шт).
@@ -196,21 +196,21 @@ Pull-альтернатива MRP. Buffer profile (red/yellow/green) вмест�
 ### MRP — Material Requirements Planning · планирование потребности в материалах
 Push-планирование: forecast спроса → расчёт потребности в материалах → закупки/производство. Joseph Orlicky, IBM, 1960-е.
 **MRP II** (1980-е, Oliver Wight) — расширенный: добавляет capacity, finance.
-**Где:** [[../Other-methodologies/02-MRP-MRPII-ERP]]
+**Где:** [[../14-Planning/Other-methodologies/02-MRP-MRPII-ERP]]
 
 ### Muda / Mura / Muri · 3M потерь
 - **Muda** (無駄) — потери (TIMWOODS)
 - **Mura** (斑) — неравномерность
 - **Muri** (無理) — перегрузка
 
-**Где:** [[../Lean/02-8-wastes-Muda-Mura-Muri]]
+**Где:** [[../13-Operations-Excellence/Lean/02-8-wastes-Muda-Mura-Muri]]
 
 ## N
 
 ### Net Flow Equation · уравнение чистого потока (DDMRP)
 `Net Flow = On-hand + On-order − Qualified Spike Demand`
 Если Net Flow ≤ Top of Yellow → размещаем заказ пополнения.
-**Где:** [[../Other-methodologies/03-DDMRP-Demand-Driven]]
+**Где:** [[../14-Planning/Other-methodologies/03-DDMRP-Demand-Driven]]
 
 ## O
 
@@ -221,7 +221,7 @@ Push-планирование: forecast спроса → расчёт потре
 - **Quality** — % годных от выпущенных
 
 **Бенчмарк:** мировой класс ~85%, средний завод ~60%, плохой ~40%.
-**Где:** [[../Lean/03-Lean-tools]]
+**Где:** [[../13-Operations-Excellence/Lean/03-Lean-tools]]
 
 ### OOS — Out-of-Stock · отсутствие на полке/складе
 % случаев, когда товар запрошен, но недоступен.
@@ -235,7 +235,7 @@ Push-планирование: forecast спроса → расчёт потре
 `OTIF = (Orders delivered on-time AND in-full) / Total orders × 100%`
 **Зачем:** ключевой service-level метрик в ритейле и B2B. Walmart штрафует поставщиков за OTIF < 98%.
 **Бенчмарк:** топ-25% — 95%+, средний — 85-92%.
-**Где:** [[../SOP/08-Metrics-and-maturity]]
+**Где:** [[../14-Planning/SOP/08-Metrics-and-maturity]]
 
 ## P
 
@@ -245,11 +245,11 @@ Push-планирование: forecast спроса → расчёт потре
 
 ### PDCA — Plan-Do-Check-Act · цикл Деминга
 Базовый цикл непрерывного улучшения: спланируй → сделай → проверь → закрепи.
-**Где:** [[../Lean/03-Lean-tools]]
+**Где:** [[../13-Operations-Excellence/Lean/03-Lean-tools]]
 
 ### Poka-Yoke · защита от ошибок
 Японский TPS-инструмент: устройства/процессы, которые делают невозможным совершить ошибку (USB-разъём нельзя вставить вверх ногами; SIM-карта влезает только в одну сторону).
-**Где:** [[../Lean/01-Toyota-Production-System]]
+**Где:** [[../13-Operations-Excellence/Lean/01-Toyota-Production-System]]
 
 ## R
 
@@ -260,7 +260,7 @@ Push-планирование: forecast спроса → расчёт потре
 - **C** (Consulted) — с кем консультируемся (двусторонне)
 - **I** (Informed) — кого информируем (одностороннее)
 
-**Где:** [[../SOP/02-5-step-cycle]] · [[../SOP/07-Implementation-checklist]]
+**Где:** [[../14-Planning/SOP/02-5-step-cycle]] · [[../14-Planning/SOP/07-Implementation-checklist]]
 
 ## S
 
@@ -271,11 +271,11 @@ Push-планирование: forecast спроса → расчёт потре
 
 ### SMED — Single-Minute Exchange of Die · быстрая переналадка
 Метод TPS для сокращения времени переналадки оборудования до < 10 минут (single-digit minute). Shigeo Shingo.
-**Где:** [[../Lean/03-Lean-tools]]
+**Где:** [[../13-Operations-Excellence/Lean/03-Lean-tools]]
 
 ### S&OP — Sales and Operations Planning
 Ежемесячный кросс-функциональный процесс согласования планов продаж, операций, финансов на 18-24 мес.
-**Где:** [[../SOP/index]]
+**Где:** [[../14-Planning/SOP/index]]
 
 ### S&OE — Sales and Operations Execution
 Краткосрочный (недели/0-3 мес) аналог S&OP — для исполнения, не планирования. Дополняет S&OP.
@@ -295,26 +295,26 @@ Push-планирование: forecast спроса → расчёт потре
 Темп, с которым продукт должен выходить с линии, чтобы соответствовать спросу.
 `Takt = Available production time / Customer demand`
 **Пример:** 480 минут в смене / 240 заказов в смене = 2 минуты на единицу.
-**Где:** [[../Lean/03-Lean-tools]]
+**Где:** [[../13-Operations-Excellence/Lean/03-Lean-tools]]
 
 ### Throughput · пропускная способность
 В ToC: выручка минус truly variable costs. Не путать с output (просто объём).
-**Где:** [[../Other-methodologies/04-Theory-of-Constraints]]
+**Где:** [[../14-Planning/Other-methodologies/04-Theory-of-Constraints]]
 
 ### TIMWOODS — 7+1 видов потерь
 **T**ransport, **I**nventory, **M**otion, **W**aiting, **O**verproduction, **O**verprocessing, **D**efects, **S**kills.
-**Где:** [[../Lean/02-8-wastes-Muda-Mura-Muri]]
+**Где:** [[../13-Operations-Excellence/Lean/02-8-wastes-Muda-Mura-Muri]]
 
 ### ToC — Theory of Constraints · теория ограничений
 Goldratt: в любой системе есть bottleneck, и пропускная способность системы определяется им.
-**Где:** [[../Other-methodologies/04-Theory-of-Constraints]]
+**Где:** [[../14-Planning/Other-methodologies/04-Theory-of-Constraints]]
 
 ### TPM — Total Productive Maintenance · всеобщий уход за оборудованием
 TPS-инструмент: операторы сами обслуживают оборудование, плановое профилактическое обслуживание, нулевые поломки как цель.
 
 ### TPS — Toyota Production System
 Корни современного Lean. Два столпа JIT и Jidoka, центр — kaizen, фундамент — стабильность и стандарт.
-**Где:** [[../Lean/01-Toyota-Production-System]]
+**Где:** [[../13-Operations-Excellence/Lean/01-Toyota-Production-System]]
 
 ## V
 
@@ -325,14 +325,14 @@ TPS-инструмент: операторы сами обслуживают о�
 
 ### VSM — Value Stream Mapping · картирование потока ценности
 Lean-инструмент: рисуем все шаги процесса, отделяем value-add от non-value-add (waste).
-**Где:** [[../Lean/03-Lean-tools]]
+**Где:** [[../13-Operations-Excellence/Lean/03-Lean-tools]]
 
 ## W
 
 ### WMAPE — Weighted MAPE · взвешенная MAPE
 `WMAPE = Σ |Actual − Forecast| / Σ |Actual|`
 **Зачем:** в отличие от классической MAPE, не «взрывается» при малых Actual. Используется для портфеля разнокалиберных SKU.
-**Где:** [[../SOP/08-Metrics-and-maturity]]
+**Где:** [[../14-Planning/SOP/08-Metrics-and-maturity]]
 
 ## X
 
@@ -350,7 +350,7 @@ Lean-инструмент: рисуем все шаги процесса, отд
 - [[02-Financial-metrics|Financial]]
 - [[03-Customer-metrics|Customer & Growth]]
 - [[04-Methodology-acronyms|Methodology Acronyms]]
-- [[../SOP/08-Metrics-and-maturity|S&OP Metrics & Maturity]]
+- [[../14-Planning/SOP/08-Metrics-and-maturity|S&OP Metrics & Maturity]]
 
 ## Источники
 

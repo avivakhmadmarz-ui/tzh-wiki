@@ -338,7 +338,7 @@ CCC = DIO + DSO − DPO
 
 **DIO (запасы) — снижать:**
 - Классификация ABC / XYZ — фокус управленческого внимания на топ-SKU
-- Буферы DDMRP (Demand-Driven Material Requirements Planning — планирование, управляемое спросом) — см. [[../Other-methodologies/03-DDMRP-Demand-Driven|DDMRP]]
+- Буферы DDMRP (Demand-Driven Material Requirements Planning — планирование, управляемое спросом) — см. [[../14-Planning/Other-methodologies/03-DDMRP-Demand-Driven|DDMRP]]
 - JIT (Just-In-Time — «точно в срок») для прогнозируемого спроса
 - Снимать неподвижные (non-moving) SKU агрессивно
 

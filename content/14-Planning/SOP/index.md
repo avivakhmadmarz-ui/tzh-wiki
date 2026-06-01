@@ -59,10 +59,10 @@ updated: 2026-06-01
 ## Связанные разделы
 
 - [[../Other-methodologies/index|Другие методологии]] — DDMRP, теория ограничений, MRP II как альтернативы и дополнения
-- [[../14-Planning/index|Модуль 14: Planning]] — S&OP в иерархии методологий планирования
-- [[../04-Supply-Chain/03-Demand-Planning-SOP|04.03 S&OP & Demand Planning]] — S&OP в составе модуля по цепочке поставок
-- [[../OKR-KPI/index|OKR и KPI]] — метрики S&OP как KPI операционной функции
-- [[../Compare/index|Сравнение методов]] — когда S&OP, когда DDMRP, когда обоих
+- [[../index|Модуль 14: Planning]] — S&OP в иерархии методологий планирования
+- [[../../04-Supply-Chain/03-Demand-Planning-SOP|04.03 S&OP & Demand Planning]] — S&OP в составе модуля по цепочке поставок
+- [[../../17-Goal-Setting/OKR-KPI/index|OKR и KPI]] — метрики S&OP как KPI операционной функции
+- [[../../Compare/index|Сравнение методов]] — когда S&OP, когда DDMRP, когда обоих
 
 ## Источники (общие для раздела)
 
@@ -74,5 +74,5 @@ updated: 2026-06-01
 ## Связанные документы
 
 - [[../index|Education Index]]
-- [[../14-Planning/index|Модуль 14: Planning]]
-- [[../04-Supply-Chain/index|Модуль 04: Supply Chain]]
+- [[../index|Модуль 14: Planning]]
+- [[../../04-Supply-Chain/index|Модуль 04: Supply Chain]]

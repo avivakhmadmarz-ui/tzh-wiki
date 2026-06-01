@@ -36,7 +36,7 @@ updated: 2026-06-01
 ↳ Определение: показатель операционной прибыли без учёта структуры капитала и налоговой среды
 ↳ Формула: EBITDA = Net Income + Interest + Taxes + D&A
 ↳ Зачем: сравнивать компании из разных стран / с разной долговой нагрузкой
-↳ Где упоминается: [[../OKR-KPI/04-KPI-and-Balanced-Scorecard]] · [[../SOP/04-Cases]]
+↳ Где упоминается: [[../17-Goal-Setting/OKR-KPI/04-KPI-and-Balanced-Scorecard]] · [[../14-Planning/SOP/04-Cases]]
 ```
 
 Если у термина есть синоним или вариант — указывается через `=`, с источником/контекстом.
@@ -61,5 +61,5 @@ updated: 2026-06-01
 
 - [[../index|Education]]
 - [[../Compare/index|Compare]] — сравнение методологий
-- [[../SOP/08-Metrics-and-maturity|S&OP метрики]] — где KPI операционных функций раскрыты глубже
-- [[../OKR-KPI/04-KPI-and-Balanced-Scorecard|KPI и BSC]] — методические основы метрик
+- [[../14-Planning/SOP/08-Metrics-and-maturity|S&OP метрики]] — где KPI операционных функций раскрыты глубже
+- [[../17-Goal-Setting/OKR-KPI/04-KPI-and-Balanced-Scorecard|KPI и BSC]] — методические основы метрик

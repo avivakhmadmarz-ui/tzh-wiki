@@ -44,13 +44,13 @@ date modified: 2026-05-18
 УРОВЕНЬ D — ДАННЫЕ, СИСТЕМЫ, OPERATIONS (как мы это делаем)
    ├── 11 Analytics & Business Intelligence
    ├── 12 ERP & Digitalization
-   ├── 13 Operations Excellence    ← включает существующий [[Lean/index|Lean]]
-   ├── 14 Planning Methodologies   ← включает [[SOP/index|S&OP]] + [[Other-methodologies/index|Other]]
+   ├── 13 Operations Excellence    ← включает существующий [[13-Operations-Excellence/Lean/index|Lean]]
+   ├── 14 Planning Methodologies   ← включает [[14-Planning/SOP/index|S&OP]] + [[14-Planning/Other-methodologies/index|Other]]
    └── 15 Project & Portfolio Management
 
 УРОВЕНЬ E — ЛИДЕРСКИЙ СЛОЙ (как мы ведём людей)
    ├── 16 Leadership & Executive Presence
-   ├── 17 Goal Setting           ← включает существующий [[OKR-KPI/index|OKR / KPI / BSC]]
+   ├── 17 Goal Setting           ← включает существующий [[17-Goal-Setting/OKR-KPI/index|OKR / KPI / BSC]]
    ├── 18 HR Management
    ├── 19 Org Design & Change Management
    └── 20 Negotiation (Advanced)
@@ -104,8 +104,8 @@ date modified: 2026-05-18
 |---|--------|-----------|
 | 11 | [[11-Analytics-BI/index\|Analytics & BI]] | SQL, Power BI deep, statistics, A/B-тесты, ML для операций |
 | 12 | [[12-ERP-Digital/index\|ERP & Digitalization]] | SAP, Oracle, 1С углубление, PIM, MDM, RPA, Process Mining |
-| 13 | [[13-Operations-Excellence/index\|Operations Excellence]] | ISO 9001 / 14001 / 22716, TPM, OEE, Hayes-Wheelwright + **встроен [[Lean/index\|Lean]]** |
-| 14 | [[14-Planning/index\|Planning Methodologies]] | **встроены [[SOP/index\|S&OP]] и [[Other-methodologies/index\|Other methodologies]]** |
+| 13 | [[13-Operations-Excellence/index\|Operations Excellence]] | ISO 9001 / 14001 / 22716, TPM, OEE, Hayes-Wheelwright + **встроен [[13-Operations-Excellence/Lean/index|Lean]]** |
+| 14 | [[14-Planning/index\|Planning Methodologies]] | **встроены [[14-Planning/SOP/index|S&OP]] и [[14-Planning/Other-methodologies/index|Other methodologies]]** |
 | 15 | [[15-Project-Management/index\|Project & Portfolio Management]] | PMBOK 7, Agile / Scrum для не-IT, PMO |
 
 ### Уровень E — Лидерский слой
@@ -113,7 +113,7 @@ date modified: 2026-05-18
 | # | Модуль | Что внутри |
 |---|--------|-----------|
 | 16 | [[16-Leadership/index\|Leadership & Executive Presence]] | Situational, Servant, Lencioni, Psychological Safety, SBI feedback |
-| 17 | [[17-Goal-Setting/index\|Goal Setting]] | **встроена [[OKR-KPI/index\|OKR / KPI / BSC]]** + расширение |
+| 17 | [[17-Goal-Setting/index\|Goal Setting]] | **встроена [[17-Goal-Setting/OKR-KPI/index|OKR / KPI / BSC]]** + расширение |
 | 18 | [[18-HR-Management/index\|HR Management]] | Hiring, Performance Mgmt, 9-Box, Total Rewards |
 | 19 | [[19-Org-Design-Change/index\|Org Design & Change Management]] | McKinsey 7S, Kotter, ADKAR, Watkins First 90 Days |
 | 20 | [[20-Negotiation/index\|Negotiation (Advanced)]] | 7 школ (Harvard / Ury / Lax-Sebenius / Voss / Camp / Рызов / Meyer) + сравнение + playbook силы + протокол подготовки |
@@ -142,13 +142,27 @@ date modified: 2026-05-18
 | [[Compare/index\|Compare]] | Матрица выбора методов под ситуацию |
 | [[Glossary/index\|Glossary]] | Словарь терминов, метрик, аббревиатур, концепций |
 
+## Размещение ранних папок в иерархии (реструктуризация 2026-06-01)
+
+Ранние папки физически перемещены вложенными подпапками внутрь профильных модулей (раньше торчали на верхнем уровне). Все wikilinks обновлены.
+
+| Папка (новое расположение) | Входит в | Комментарий |
+|-----------------|-------------------|-------------|
+| `14-Planning/SOP/` | [[14-Planning/index\|14 Planning Methodologies]] | S&OP — основа модуля |
+| `14-Planning/Other-methodologies/` | [[14-Planning/index\|14 Planning Methodologies]] | IBP, MRP II, DDMRP, ToC, Hoshin Kanri, ZBB, EOS |
+| `13-Operations-Excellence/Lean/` | [[13-Operations-Excellence/index\|13 Operations Excellence]] | Lean Production — основа модуля |
+| `17-Goal-Setting/OKR-KPI/` | [[17-Goal-Setting/index\|17 Goal Setting]] | OKR, KPI, BSC — основа модуля |
+| `Compare/` | Кросс-модульное | Матрица выбора методов |
+| `Glossary/` | Кросс-модульное | Словарь терминов |
+| `System/` | Отдельная вертикаль | Личный AI-стек, не публикуется |
+
 ## Самые важные заметки (если читать только 5) — наследие
 
-1. [[OKR-KPI/06-OKR-vs-KPI-the-difference|OKR vs KPI — the difference]]
+1. [[17-Goal-Setting/OKR-KPI/06-OKR-vs-KPI-the-difference|OKR vs KPI — the difference]]
 2. [[Compare/02-Decision-matrix|Decision matrix]]
 3. [[Compare/04-Cases-by-situation|Cases by situation]]
-4. [[SOP/04-Cases|S&OP — реальные кейсы]]
-5. [[Lean/07-For-the-manager|Lean для руководителя]]
+4. [[14-Planning/SOP/04-Cases|S&OP — реальные кейсы]]
+5. [[13-Operations-Excellence/Lean/07-For-the-manager|Lean для руководителя]]
 
 ## Карта методологий
 

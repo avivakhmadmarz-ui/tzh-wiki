@@ -272,7 +272,7 @@ Network Design проект для компании среднего разме�
 - [[05-Logistics-Transportation|05 Logistics & Transportation]] — реализация transportation flows
 - [[06-Supply-Chain-Risk|06 Supply Chain Risk]] — risk-driven сетевые решения
 - [[../02-Finance/03-Capital-decisions|02-Finance: Capital Decisions]] — CAPEX-планирование сетевых решений
-- [[../22-Risk-Management/index|Модуль 22: Risk Management]] — concentration risk
+- [[../22-Risk-BC/index|Модуль 22: Risk Management]] — concentration risk
 
 ## Источники
 

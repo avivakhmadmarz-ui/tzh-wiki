@@ -420,8 +420,8 @@ Electric vans, scooters, bicycles для last-mile — массовый трен
 - [[03-Demand-Planning-SOP|03 S&OP & Demand Planning]] — прогноз для capacity planning
 - [[05-Logistics-Transportation|05 Logistics & Transportation]] — общая логистика
 - [[../03-Management-Accounting/02-Cost-to-Serve|03-Management-Accounting: Cost-to-Serve]] — last-mile как ключевой bucket CTS
-- [[../09-Ecommerce/index|Модуль 09: E-commerce]] — связь с маркетплейсной экономикой
-- [[../10-Marketing-Consumer/index|Модуль 10: Marketing]] — delivery как часть customer journey
+- [[../09-Ecom-Marketplaces/index|Модуль 09: E-commerce]] — связь с маркетплейсной экономикой
+- [[../10-Marketing/index|Модуль 10: Marketing]] — delivery как часть customer journey
 
 ## Источники
 

@@ -231,7 +231,7 @@ ESG-критерии встроены в operations strategy:
 - [[01-Quality-Management|01 Quality]] — фундамент Sandcone
 - [[02-Reliability-Engineering|02 Reliability]] — dependability в Sandcone
 - [[../01-Strategy/01-Corporate-strategy|Модуль 01: Strategy]] — корпоративная стратегия
-- [[../Lean/index|Lean Production]] — конкретный путь к Stage 4
+- [[Lean/index|Lean Production]] — конкретный путь к Stage 4
 - [[../04-Supply-Chain/01-SCOR-Maturity|Модуль 04: SCOR Maturity]] — параллельная maturity model
 
 ## Источники

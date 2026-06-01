@@ -1,4 +1,9 @@
 ---
+title: "DDMRP — Demand Driven Material Requirements Planning"
+type: note
+status: active
+domain: education
+module: Other-methodologies
 aliases: 
 updated: 2026-05-13
 tags: [education, other-methodologies, ddmrp]
@@ -176,8 +181,8 @@ Net Flow Position = On-Hand + On-Order – Qualified Sales Order Demand
 - **DDMRP + S&OP / IBP**: тактический план в IBP, исполнение через DDMRP (см. `[[01-IBP-Integrated-Business-Planning|IBP]]`)
 - **DDMRP vs MRP**: pull-альтернатива (см. `[[02-MRP-MRPII-ERP|MRP/MRP II/ERP]]`)
 - **DDMRP + ToC**: decoupling points часто ставятся в bottleneck (см. `[[04-Theory-of-Constraints|ToC]]`)
-- **DDMRP + Lean**: Kanban — это «pre-DDMRP» pull-сигнал (см. `[[../Lean/index|Lean]]`)
-- В разделе сравнения `[[../Compare/03-Combinations-that-work|Combinations that work]]` см. связку IBP+DDMRP
+- **DDMRP + Lean**: Kanban — это «pre-DDMRP» pull-сигнал (см. `[[../../13-Operations-Excellence/Lean/index|Lean]]`)
+- В разделе сравнения `[[../../Compare/03-Combinations-that-work|Combinations that work]]` см. связку IBP+DDMRP
 
 ## Источники
 

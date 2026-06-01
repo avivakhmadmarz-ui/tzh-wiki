@@ -20,14 +20,14 @@ updated: 2026-05-26
 
 ## Встроенный подмодуль OKR-KPI (уже наполнен)
 
-- [[../OKR-KPI/index|OKR / KPI / BSC]] — 8 заметок:
-  - [[../OKR-KPI/01-OKR-history|01 OKR history]] — история, Andy Grove, Intel, Google
-  - [[../OKR-KPI/02-OKR-structure|02 OKR structure]] — Objectives и Key Results
-  - [[../OKR-KPI/03-OKR-cases|03 OKR cases]] — реальные кейсы внедрения
-  - [[../OKR-KPI/04-KPI-and-Balanced-Scorecard|04 KPI & Balanced Scorecard]] — Kaplan & Norton
-  - [[../OKR-KPI/05-KPI-cases-and-pitfalls|05 KPI cases & pitfalls]] — Goodhart, perverse incentives
-  - [[../OKR-KPI/06-OKR-vs-KPI-the-difference|06 OKR vs KPI — the difference]] ★ — практическая разница
-  - [[../OKR-KPI/07-Implementation-for-leader|07 Implementation for leader]] — как внедрять
+- [[OKR-KPI/index|OKR / KPI / BSC]] — 8 заметок:
+  - [[OKR-KPI/01-OKR-history|01 OKR history]] — история, Andy Grove, Intel, Google
+  - [[OKR-KPI/02-OKR-structure|02 OKR structure]] — Objectives и Key Results
+  - [[OKR-KPI/03-OKR-cases|03 OKR cases]] — реальные кейсы внедрения
+  - [[OKR-KPI/04-KPI-and-Balanced-Scorecard|04 KPI & Balanced Scorecard]] — Kaplan & Norton
+  - [[OKR-KPI/05-KPI-cases-and-pitfalls|05 KPI cases & pitfalls]] — Goodhart, perverse incentives
+  - [[OKR-KPI/06-OKR-vs-KPI-the-difference|06 OKR vs KPI — the difference]] ★ — практическая разница
+  - [[OKR-KPI/07-Implementation-for-leader|07 Implementation for leader]] — как внедрять
 
 ## Заметки в модуле 17
 
@@ -66,7 +66,7 @@ updated: 2026-05-26
 ## Дорожная карта чтения
 
 Если короткое время:
-1. [[../OKR-KPI/06-OKR-vs-KPI-the-difference|OKR vs KPI]] — общий контекст
+1. [[OKR-KPI/06-OKR-vs-KPI-the-difference|OKR vs KPI]] — общий контекст
 2. [[01-4DX|01 4DX]] — практика исполнения
 3. Выбрать одну из [[03-V2MOM|V2MOM]] / [[04-OGSM-Detailed|OGSM]] / [[05-Hoshin-Kanri-Deep|Hoshin Kanri]] по контексту
 
@@ -110,6 +110,6 @@ updated: 2026-05-26
 ## Связанные документы
 
 - [[../index|Education Index]]
-- [[../OKR-KPI/index|OKR-KPI подмодуль]]
+- [[OKR-KPI/index|OKR-KPI подмодуль]]
 - [[../16-Leadership/index|Модуль 16: Leadership]]
 - [[../18-HR-Management/index|Модуль 18: HR Management]]

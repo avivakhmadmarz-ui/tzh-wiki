@@ -46,7 +46,7 @@ updated: 2026-05-18
 - [[../04-Supply-Chain/index|Модуль 04 — Supply Chain]] — Cost-to-Serve тесно связан с логистикой и складом
 - [[../05-Procurement/index|Модуль 05 — Procurement]] — Make-or-Buy и Target Costing — основа закупочной стратегии
 - [[../07-Category-Management/index|Модуль 07 — Category Management]] — управление SKU и матрицей ассортимента опирается на CTS
-- [[../11-Analytics/index|Модуль 11 — Analytics & BI]] — инфраструктура для драйверов ABC и расчёта CTS на масштабе
+- [[../11-Analytics-BI/index|Модуль 11 — Analytics & BI]] — инфраструктура для драйверов ABC и расчёта CTS на масштабе
 
 ## Источники
 

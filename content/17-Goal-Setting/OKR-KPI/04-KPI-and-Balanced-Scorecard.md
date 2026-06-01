@@ -1,4 +1,9 @@
 ---
+title: "04 — KPI и Balanced Scorecard"
+type: note
+status: active
+domain: education
+module: OKR-KPI
 aliases: 
 updated: 2026-05-13
 tags: [education, okr-kpi, kpi, balanced-scorecard]
@@ -73,7 +78,7 @@ date modified: 2026-05-13
 | Monthly revenue | Daily traffic, add-to-cart rate, checkout completion |
 | Customer LTV | First-order value, repeat purchase 30/60/90 |
 | NPS | Onboarding completion, time-to-first-value, support response time |
-| Inventory turnover | Forecast accuracy, OTIF (см. [[../SOP/index\|S&OP]]) |
+| Inventory turnover | Forecast accuracy, OTIF (см. [[../../14-Planning/SOP/index|S&OP]]) |
 
 Amazon строит всю систему на **input metrics** — это их версия leading indicators. Подробнее в [[05-KPI-cases-and-pitfalls|05]].
 
@@ -261,8 +266,8 @@ L&G:         eNPS >40 ── Trained category managers 100% certified
 ## Связь с другими методологиями
 
 - [[02-OKR-structure|OKR]] — комплементарны KPI: KPI следят за здоровьем, OKR двигают вперёд.
-- [[../SOP/index|S&OP]] — даёт ритм для измерения KPI (monthly cycle).
-- [[../Lean/index|Lean]] — Hoshin Kanri X-Matrix объединяет годовые цели и KPI.
+- [[../../14-Planning/SOP/index|S&OP]] — даёт ритм для измерения KPI (monthly cycle).
+- [[../../13-Operations-Excellence/Lean/index|Lean]] — Hoshin Kanri X-Matrix объединяет годовые цели и KPI.
 
 ## Что читать дальше
 

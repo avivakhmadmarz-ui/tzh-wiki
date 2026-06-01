@@ -326,8 +326,8 @@ ROIC (Return on Invested Capital — рентабельность вложенн
 - [[03-Best-practices-US|03 Лучшие практики (США)]] — модель зрелости Gartner в деталях
 - [[04-Cases|04 Кейсы]] — каких показателей достигли лидеры отрасли
 - [[07-Implementation-checklist|07 Чеклист внедрения]] — где показатели вписаны в дорожную карту
-- [[../04-Supply-Chain/03-Demand-Planning-SOP|04.03 S&OP & Demand Planning]] — связь точности прогноза с планированием спроса
-- [[../02-Finance/index|Модуль 02: Corporate Finance]] — денежный цикл и оборотный капитал в финансовой оптике
+- [[../../04-Supply-Chain/03-Demand-Planning-SOP|04.03 S&OP & Demand Planning]] — связь точности прогноза с планированием спроса
+- [[../../02-Finance/index|Модуль 02: Corporate Finance]] — денежный цикл и оборотный капитал в финансовой оптике
 
 ## Источники
 
@@ -347,5 +347,5 @@ ROIC (Return on Invested Capital — рентабельность вложенн
 ## Связанные документы
 
 - [[index|SOP — Sales & Operations Planning]]
-- [[../04-Supply-Chain/03-Demand-Planning-SOP|04.03 S&OP & Demand Planning]]
+- [[../../04-Supply-Chain/03-Demand-Planning-SOP|04.03 S&OP & Demand Planning]]
 - [[../index|Education Index]]

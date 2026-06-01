@@ -379,8 +379,8 @@ Continuous activities:
 - [[04-China-Specifics|04 China Specifics]] — CN-specific compliance issues
 - [[05-Customs-and-Logistics|05 Customs & Logistics]] — взаимодействие customs и валютного контроля
 - [[../05-Procurement/04-Negotiation-and-Contracts|05-Proc: Contracts]] — контрактные положения для compliance
-- [[../21-Legal-Compliance/index|Модуль 21: Legal & Compliance]] — broader compliance context
-- [[../22-Risk-Management/index|Модуль 22: Risk Management]] — compliance risk
+- [[../21-Legal/index|Модуль 21: Legal & Compliance]] — broader compliance context
+- [[../22-Risk-BC/index|Модуль 22: Risk Management]] — compliance risk
 
 ## Источники
 

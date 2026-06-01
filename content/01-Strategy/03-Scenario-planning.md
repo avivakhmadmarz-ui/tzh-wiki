@@ -210,7 +210,7 @@ TOWS-стратегии:
 
 ### 4.1 Контекст
 
-OGSM — внутренний фреймворк P&G (Procter & Gamble) для каскадирования стратегии вниз по организации. Стал популярен после публикаций A.G. Lafley (бывший CEO P&G). Альтернатива Hoshin Kanri (см. [[../Other-methodologies/05-Hoshin-Kanri|Hoshin Kanri]]) с более простой структурой.
+OGSM — внутренний фреймворк P&G (Procter & Gamble) для каскадирования стратегии вниз по организации. Стал популярен после публикаций A.G. Lafley (бывший CEO P&G). Альтернатива Hoshin Kanri (см. [[../14-Planning/Other-methodologies/05-Hoshin-Kanri|Hoshin Kanri]]) с более простой структурой.
 
 Применяется в Coca-Cola, Honda, Mars, Unilever и сотнях других крупных компаний.
 
@@ -267,7 +267,7 @@ OGSM каскадируется вниз: корпоративный OGSM → д
 
 ### 5.1 Контекст
 
-Robert Kaplan и David Norton разработали Strategy Maps как развитие Balanced Scorecard (см. [[../OKR-KPI/04-KPI-and-Balanced-Scorecard|KPI and Balanced Scorecard]]). Опубликовали в HBR в апреле 2000 года статью «Having Trouble with Your Strategy? Then Map It» и в книге «Strategy Maps» (2004).
+Robert Kaplan и David Norton разработали Strategy Maps как развитие Balanced Scorecard (см. [[../17-Goal-Setting/OKR-KPI/04-KPI-and-Balanced-Scorecard|KPI and Balanced Scorecard]]). Опубликовали в HBR в апреле 2000 года статью «Having Trouble with Your Strategy? Then Map It» и в книге «Strategy Maps» (2004).
 
 Изначально BSC (Balanced Scorecard — сбалансированная система показателей) был инструментом измерения; Strategy Maps стал инструментом коммуникации стратегии — показал **как** инициативы соединяются в систему достижения финансовых результатов.
 
@@ -334,7 +334,7 @@ Strategy Map — главный артефакт для разговора с CE
 - [[01-Corporate-strategy|01 Корпоративная стратегия]] — сценарии и каркасы работают над корневой стратегией Porter / Lafley / Rumelt
 - [[02-Business-modeling|02 Бизнес-моделирование]] — сценарии могут менять блоки BMC; Strategy Map показывает связи блоков
 - [[../17-Goal-Setting/index|Модуль 17: Goal Setting]] — OGSM здесь и OKR там — взаимодополняющие подходы
-- [[../OKR-KPI/04-KPI-and-Balanced-Scorecard|KPI и BSC]] — Strategy Maps были задуманы как обёртка над BSC
+- [[../17-Goal-Setting/OKR-KPI/04-KPI-and-Balanced-Scorecard|KPI и BSC]] — Strategy Maps были задуманы как обёртка над BSC
 - [[../22-Risk-BC/index|Модуль 22: Risk]] — Scenario Planning пересекается с ERM (Enterprise Risk Management — корпоративное управление рисками)
 - [[../14-Planning/index|Модуль 14: Planning]] — цикл S&OP (Sales and Operations Planning — планирование продаж и операций) реагирует на индикаторы активации (signposts) из сценарного планирования
 
