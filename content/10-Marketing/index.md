@@ -25,6 +25,7 @@ updated: 2026-05-18
 3. **[[03-Performance-Marketing|03 Performance-маркетинг]]** — каналы цифровой рекламы, атрибуция (LTA, MTA, MMM), ROMI (Return on Marketing Investment — рентабельность маркетинговых инвестиций), Customer Lifetime Value — пожизненная ценность клиента
 4. **[[04-Brand-Building|04 Построение бренда]]** — модель идентичности бренда Aaker, CBBE (Customer-Based Brand Equity — потребительский капитал бренда) Keller, стратегия бренда, коммуникация бренда, сторителлинг
 5. **[[05-Social-Community|05 Социальные сети и сообщества]]** — стратегия в VK / Telegram / YouTube, контент-маркетинг, управление сообществом, KOL (Key Opinion Leader — лидер мнений) / инфлюенсер-программы
+6. **[[06-Customer-Journey-Mapping|06 Customer Journey Mapping и продуктовый маркетинг]]** — карта пути клиента (CJM) как инструмент дизайна опыта: персона, этапы, точки контакта, эмоциональная кривая, боли и возможности; отличие от воронки и CDJ; service blueprint; продуктовый угол (жизненный цикл клиента acquisition→activation→retention, момент ценности, связь с Jobs-to-be-Done); метрики опыта по этапам (CSAT / NPS / CES)
 
 ## Зачем модуль руководителю
 

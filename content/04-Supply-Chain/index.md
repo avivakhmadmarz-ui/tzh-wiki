@@ -27,6 +27,9 @@ updated: 2026-05-18
 5. **[[05-Logistics-Transportation|05 Logistics & Transportation]]** — modes (air / sea / rail / road / pipeline), контейнерная логистика (FCL / LCL — Full / Less than Container Load), 3PL / 4PL / 5PL (Third / Fourth / Fifth-Party Logistics), Reverse Logistics, Cold Chain, WMS (Warehouse Management System) / TMS (Transportation Management System)
 6. **[[06-Supply-Chain-Risk|06 Supply Chain Risk Management]]** — категории рисков (geopolitical / natural / financial / operational / regulatory / demand), стратегии митигации, баланс resilience vs efficiency, BCP (Business Continuity Planning), уроки COVID и санкций
 7. **[[07-Last-Mile-Delivery|07 Last-Mile Delivery]]** — модели доставки (own fleet / 3PL / ПВЗ / FBO / gig / dark stores / click-and-collect), unit-экономика доставки, drop density, VRP (Vehicle Routing Problem — задача маршрутизации транспорта), возвраты, B2B vs B2C специфика
+8. **[[08-Route-Optimization|08 Route Optimization]]** — оптимизация маршрутов вглубь: таксономия задач (TSP → VRP → CVRP / VRPTW / MDVRP / PDPTW / динамический VRP), методы решения (точные, конструктивные эвристики Clarke-Wright, метаэвристики, ML), конвейер динамической маршрутизации (геокодирование → матрица → солвер → диспетчеризация → переоптимизация), солверы (OR-Tools, VROOM, российские), KPI и внедрение
+9. **[[09-Logistics-IT-Systems|09 Logistics IT Systems]]** — ИТ-ландшафт логистики: WMS / TMS / OMS / YMS / WES-WCS и Control Tower, поток заказа через системы, сквозная видимость (supply chain visibility), интеграция и выбор, российские системы, цифровой двойник цепочки
+10. **[[10-Retail-Network-Logistics|10 Retail Network Logistics]]** — логистика крупных розничных и e-commerce сетей: архитектура сети (РЦ → хабы → сортцентры → ПВЗ), кросс-докинг, омниканальный фулфилмент (ship-from-store, BOPIS, dark store, единый пул запасов), стадии масштабирования сети, кейсы Walmart / X5 / Wildberries / Ozon
 
 ## Зачем модуль руководителю
 

@@ -26,6 +26,7 @@ updated: 2026-05-26
 4. **[[04-Portfolio-PMO|04 Portfolio Management и PMO]]** — управление портфелем проектов, PMO (Project Management Office — офис управления проектами), governance, селекция
 5. **[[05-TRIZ-Innovation|05 ТРИЗ]]** — Альтшуллер, ИКР (Идеальный Конечный Результат), все 40 принципов с примерами, АРИЗ-85С, законы развития систем
 6. **[[06-Design-Thinking|06 Design Thinking]]** — IDEO, Stanford d.school, 5 этапов (Empathize / Define / Ideate / Prototype / Test), Double Diamond, инструменты каждого этапа, кейсы (IBM, SAP, Airbnb, Bank of America Keep the Change, GE Healthcare), гибрид DT + Lean + Agile
+7. **[[07-Agile-Metrics-Forecasting|07 Agile-метрики и прогнозирование потока]]** — метрики прогресса (Burndown, Burnup, Velocity) и их антипаттерны; метрики потока (Cumulative Flow Diagram, Lead Time, Cycle Time, Throughput, WIP); вероятностное прогнозирование (закон Литтла, Monte-Carlo, сроки в процентилях) вместо одной даты
 
 ## Зачем модуль руководителю
 
