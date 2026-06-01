@@ -1,39 +1,103 @@
 ---
 title: "Модуль 23 — ESG & Sustainability"
-aliases: ["Module 23", "ESG"]
+aliases: ["Module 23", "ESG", "Sustainability", "Устойчивое развитие", "ЦУР"]
 type: hub
-status: stub
+status: active
 domain: education
 module: 23-ESG
-tags: [index, education, esg, sustainability]
+tags: [index, education, esg, sustainability, csrd, ghg-protocol, circular-economy, scope-3]
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-06-01
 ---
 
-# Модуль 23 — ESG & Sustainability (экологическое / социальное / корпоративное управление)
+# Модуль 23 — ESG & Sustainability (экологическое, социальное и корпоративное управление; устойчивое развитие)
 
-> ESG (Environmental / Social / Governance — экологическое / социальное / корпоративное управление). Мировой тренд, в KPI крупных компаний, влияет на supply chain.
+> ESG (Environmental, Social, Governance — экологическое, социальное и корпоративное управление) перестало быть темой пресс-релизов и стало операционным требованием. Крупный клиент в Европе требует углеродный след продукта, банк закладывает ESG-риск в ставку, маркетплейс вводит критерии устойчивости для поставщиков, а CBAM (трансграничный углеродный механизм ЕС) превращает выбросы в таможенный платёж. Этот модуль покрывает 4 области: **стандарты и отчётность** (GRI, SASB, TCFD, ISSB, CSRD, ЦУР ООН, двойная существенность, рейтинги), **экологический столп** (GHG Protocol, Scope 1/2/3, Net Zero, циркулярная экономика), **социальный и управленческий столпы** (права человека, DEI, надзор совета, антикоррупция) и **ESG в цепочке поставок и закупках** (ISO 20400, аудиты поставщиков, российская специфика).
 
-## Заметки модуля (план наполнения)
+## Карта раздела
 
-1. **01 Sustainability Frameworks** — GRI (Global Reporting Initiative), SASB (Sustainability Accounting Standards Board), TCFD (Task Force on Climate-related Financial Disclosures), CSRD (Corporate Sustainability Reporting Directive, ЕС), UN SDGs (United Nations Sustainable Development Goals — 17 целей устойчивого развития)
-2. **02 Sustainable Supply Chain** — Scope 1 / 2 / 3 Emissions, Carbon Footprint, Circular Economy (Ellen MacArthur Foundation), Cradle-to-Cradle (William McDonough), Supplier ESG Audits (Sedex, EcoVadis)
-3. **03 Social в ESG** — Modern Slavery Acts (UK / Australia), Living Wage / Fair Trade, DEI (Diversity, Equity, Inclusion — разнообразие / равенство / инклюзия)
+![](attachments/diagrams/23-module-map.svg)
+
+## Заметки модуля
+
+1. **[[01-ESG-Frameworks-Reporting|01 Стандарты и отчётность ESG]]** — эволюция от филантропии и CSR к ESG и устойчивому развитию; двойная существенность (financial vs impact materiality); ландшафт стандартов: GRI, SASB, TCFD, ISSB / IFRS S1-S2, CSRD / ESRS (ЕС), ЦУР ООН (17 целей); ESG-рейтинги (MSCI, Sustainalytics, CDP, EcoVadis) и проблема их дивергенции.
+2. **[[02-Environmental|02 Экологический столп (E)]]** — GHG Protocol и три охвата выбросов (Scope 1/2/3, почему Scope 3 решает всё); углеродный след и его расчёт; Net Zero, SBTi и иерархия декарбонизации (avoid → reduce → offset); циркулярная экономика (Ellen MacArthur, 3 принципа), Cradle-to-Cradle, оценка жизненного цикла (ОЖЦ / LCA); CBAM.
+3. **[[03-Social-Governance|03 Социальный (S) и управленческий (G) столпы]]** — социальный: условия труда, права человека в цепочке (Modern Slavery Act, CSDDD), living wage, Fair Trade, DEI; управленческий: состав и независимость совета, комитеты по устойчивости, привязка ESG-метрик к вознаграждению топ-менеджмента, этика и антикоррупция.
+4. **[[04-ESG-Supply-Chain-Procurement|04 ESG в цепочке поставок и закупках]]** — устойчивые закупки (ISO 20400), кодекс поведения поставщика, ESG-аудиты (Sedex SMETA, EcoVadis), прослеживаемость и снижение Scope 3; российская специфика: 296-ФЗ, таксономия ВЭБ.РФ, рекомендации Банка России, риск greenwashing, Сахалинский эксперимент.
+
+## Зачем модуль руководителю
+
+**ESG приходит к операционному руководителю не через идеологию, а через контрагентов.** Три канала давления, которые невозможно игнорировать:
+
+1. **Клиенты и каналы.** Крупный B2B-клиент или западный ретейлер запрашивает углеродный след, кодекс поставщика, рейтинг EcoVadis — без них компания выпадает из тендера. Для поставщика это вопрос доступа к выручке.
+2. **Капитал.** Банки и инвесторы закладывают ESG-риск в стоимость финансирования; зелёные облигации и кредиты, привязанные к устойчивости (sustainability-linked loans), дают ставку ниже рынка.
+3. **Регулирование.** CSRD в ЕС обязывает отчитываться ~50 тыс. компаний (включая крупных не-европейских поставщиков), CBAM делает углерод таможенным платежом, в РФ действует 296-ФЗ об углеродной отчётности.
+
+Для директора закупок и COO (Chief Operating Officer — главный операционный директор) ESG — это **новое измерение в выборе поставщика и проектировании цепочки**, а не отдельная функция «устойчивого развития».
 
 ## Применение для руководителя
 
-- **Прямо сейчас:** ESG в beauty-категории — clean beauty, циркулярная упаковка
-- **Карьерный трек:** для глобальных компаний ESG-комплаенс — обязателен
+| Целевая роль | Что взять из модуля |
+|---|---|
+| **CEO / Совет директоров** | Двойная существенность как рамка стратегии; надзор совета за ESG; привязка вознаграждения к ESG-метрикам |
+| **CFO** | ESG-рейтинги и стоимость капитала; зелёное финансирование; готовность к обязательной отчётности (CSRD, 296-ФЗ) |
+| **COO** | Декарбонизация операций (Scope 1/2); циркулярная экономика в производстве и упаковке; охрана труда |
+| **Директор закупок** | Scope 3 и кодекс поставщика; ISO 20400; ESG-аудиты (SMETA, EcoVadis); CBAM в импорте |
+| **Директор продукта** | Оценка жизненного цикла (ОЖЦ); экодизайн и упаковка; обоснованные эко-заявления без greenwashing |
+| **Директор категории** | Clean / sustainable как категорийный тренд; устойчивость как фактор выбора и СТМ |
+| **Директор по устойчивому развитию (CSO)** | Полная функция: материальность, отчётность, цели, рейтинги |
 
-## Источники
+## Дорожная карта чтения
 
-- GRI Standards (новейшая версия)
-- SASB Materiality Map
-- Ellen MacArthur Foundation publications
-- William McDonough, Michael Braungart, «Cradle to Cradle»
-- ECR Europe — sustainability working group
+1. **[[01-ESG-Frameworks-Reporting|01 Стандарты и отчётность]]** — общий язык и рамка, начать здесь
+2. **[[02-Environmental|02 Экологический столп]]** — самый измеримый и регулируемый столп (климат, углерод)
+3. **[[03-Social-Governance|03 Социальный и управленческий столпы]]** — люди и принятие решений
+4. **[[04-ESG-Supply-Chain-Procurement|04 ESG в закупках]]** — практическое применение для закупщика и операционного руководителя
+
+## Источники модуля (свод)
+
+### Книги
+
+- Andrew S. Winston, **«Net Positive»** (в соавт. с Paul Polman, Harvard Business Review Press, 2021) — бизнес, отдающий миру больше, чем берёт
+- Rebecca Henderson, **«Reimagining Capitalism in a World on Fire»** (PublicAffairs, 2020)
+- William McDonough, Michael Braungart, **«Cradle to Cradle»** (North Point Press, 2002) — циркулярный дизайн
+- Alan S. Gutterman, **«Sustainability and Corporate Governance»** (Routledge, 2020)
+- Witold Henisz, **«ESG Investing»** — материалы Wharton
+
+### Стандарты и рамки
+
+- **GRI Standards** (Global Reporting Initiative) — отчётность о воздействии
+- **IFRS S1 / S2** (ISSB, 2023) — глобальный базовый стандарт устойчивости
+- **TCFD Recommendations** (2017, функции переданы ISSB в 2024)
+- **CSRD + ESRS** (директива ЕС 2022 / стандарты EFRAG 2023)
+- **GHG Protocol** (WRI / WBCSD) — Corporate Standard, Scope 3 Standard
+- **ISO 14001** (экоменеджмент), **ISO 20400** (устойчивые закупки), **ISO 14040/44** (ОЖЦ)
+- **ЦУР ООН (UN SDGs)** — 17 целей устойчивого развития (2015-2030)
+- **SBTi** (Science Based Targets initiative) — научно обоснованные цели
+
+### Российские документы
+
+- **296-ФЗ** «Об ограничении выбросов парниковых газов» (2021)
+- **Постановление № 1587** и **Распоряжение № 3024-р** — таксономия зелёных проектов (ВЭБ.РФ)
+- **Рекомендации Банка России** по раскрытию ESG (Информационное письмо 2021)
+- **ФЗ № 34** о проведении эксперимента в Сахалинской области (углеродный полигон)
+
+### Рейтинги и платформы
+
+- **MSCI ESG Ratings**, **Sustainalytics** (Morningstar), **CDP**, **EcoVadis**, **Sedex** (SMETA)
+- Российские: **RAEX-Europe ESG-рейтинг**, **АКРА**, **Эксперт РА**
+
+## Связь с другими модулями
+
+- [[../04-Supply-Chain/06-Supply-Chain-Risk|04.06 Supply Chain Risk]] — ESG как категория риска цепочки поставок
+- [[../05-Procurement/index|Модуль 05: Procurement]] — устойчивые закупки как часть стратегии снабжения
+- [[../06-Foreign-Trade/index|Модуль 06: Foreign Trade]] — CBAM в трансграничной торговле
+- [[../22-Risk-BC/index|Модуль 22: Risk Management]] — климат-риск в ERM
+- [[../21-Legal/04-Compliance|21.04 Compliance]] — ESG-комплаенс и обязательное раскрытие
+- [[../02-Finance/index|Модуль 02: Finance]] — ESG-рейтинги и стоимость капитала
+- [[../08-Product-RD/index|Модуль 08: Product & R&D]] — экодизайн и оценка жизненного цикла продукта
 ## Связанные документы
 
 - [[../index|Education Index]]
+- [[../22-Risk-BC/index|Модуль 22: Risk Management & BC]]
 - [[../04-Supply-Chain/index|Модуль 04: Supply Chain]]
-- [[../22-Risk-BC/index|Модуль 22: Risk]]

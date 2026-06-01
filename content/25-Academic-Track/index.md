@@ -1,38 +1,84 @@
 ---
-title: "Модуль 25 — Academic Track"
-aliases: ["Module 25", "Academic", "MBA"]
+title: "Модуль 25 — Academic Track (MBA / PhD / сертификации)"
+aliases: ["Module 25", "Academic", "MBA", "PhD", "Executive Education"]
 type: hub
-status: stub
+status: active
 domain: education
 module: 25-Academic-Track
-tags: [index, education, academic, mba]
+tags: [index, education, academic, mba, phd, certifications, executive-education]
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-06-01
 ---
 
-# Модуль 25 — Academic Track (академический трек: MBA / PhD)
+# Модуль 25 — Academic Track (академический трек: MBA / PhD / сертификации)
 
-> В долгосрочных амбициях автора — кандидатская по логистике и MBA (Master of Business Administration — магистр делового администрирования) по операционному управлению.
+> Формальное образование руководителя — инвестиция с тремя разными доходностями: нетворкинг и смена траектории (MBA), статус эксперта и право исследовать (кандидатская), прикладная глубина (сертификации). Ошибка — выбрать трек по престижу, а не под цель. Этот модуль раскладывает варианты по полочкам: форматы MBA и поступление, путь кандидатской по логистике в России, лестница профессиональных сертификаций и Executive Education как точечное обновление.
 
-## Заметки модуля (план наполнения)
+## Карта раздела
 
-1. **01 MBA** — Top Global MBAs (Harvard, Stanford, Wharton, INSEAD, LBS — London Business School, IESE), Top European Executive MBA, Russian MBA (Сколково, РАНХиГС, ВШМ СПбГУ), MBA Application (GMAT / GRE, essays, recommendations), Online MBA / EMBA / MIM — отличия, Specialization Choice
-2. **02 Кандидатская по логистике в РФ** — спецсовет, журналы Q1-Q2 (JOM — Journal of Operations Management, POM, IJPDLM), top conferences (POMS, INFORMS, EurOMA)
-3. **03 Альтернативные пути** — Executive Education (HBS, INSEAD short programs), Professional Certifications Ladder (CSCP → CPIM → CDDP → Lean Six Sigma BB → APICS Master Instructor), Adjunct Faculty
+![](attachments/diagrams/25-module-map.svg)
+
+## Заметки модуля
+
+1. **[[01-MBA|01 MBA / EMBA / MiM]]** — форматы (Full-time, Part-time, EMBA, Online MBA, MiM) и кому какой подходит; топ-школы мира (Harvard, Stanford, Wharton, INSEAD, LBS, IESE), Европы и России (Сколково, РАНХиГС, ВШМ СПбГУ); процесс поступления (GMAT / GRE, эссе, рекомендации, интервью); рейтинги (Financial Times, QS, Poets&Quants) и как их читать; возврат на инвестицию.
+2. **[[02-PhD-Russia|02 Кандидатская по логистике в РФ]]** — структура пути (научный руководитель, специальность, публикации, диссертация, защита, ВАК); журналы (перечень ВАК, Scopus / Web of Science, ориентир Q1-Q2: JOM, IJPDLM, POM); конференции (POMS, INFORMS, EurOMA); совмещение с карьерой.
+3. **[[03-Alternative-Paths|03 Альтернативные пути]]** — Executive Education (короткие программы HBS, INSEAD, IMD); лестница профессиональных сертификаций (CPIM, CSCP по цепочке поставок; CIPS, CPSM по закупкам; Lean Six Sigma; PMP); adjunct faculty и роль практика-преподавателя.
+
+## Зачем модуль руководителю
+
+Запросы рынка к руководителю верхнего звена всё чаще включают **формальный образовательный маркер** — MBA для корпоративных и международных ролей, степень для экспертных и преподавательских, отраслевые сертификации для функциональной глубины. Решение об образовании — это распределение дефицитного ресурса (несколько лет времени и значительный бюджет), и его стоит принимать так же дисциплинированно, как инвестиционное: с ясной целью, оценкой альтернатив и понимания возврата.
 
 ## Применение для руководителя
 
-- **Долгосрочный план:** структурный подход к выбору школы и трека
-- **Параллельно:** Executive Education как способ международного экспозиша
+| Целевая роль | Что взять из модуля |
+|---|---|
+| **Руководитель в карьерном переходе** | Дерево выбора трека под цель (смена функции, ускорение, экспертный статус) |
+| **COO / директор операций** | EMBA без отрыва; сертификации по цепочке поставок и процессам (CSCP, Lean Six Sigma) |
+| **Директор закупок** | CIPS / CPSM как отраслевой стандарт квалификации |
+| **Будущий исследователь / преподаватель** | Путь кандидатской по логистике в РФ; журналы и конференции |
+| **Любой руководитель** | Executive Education как способ обновления и международного бренда школы |
 
-## Источники
+## Дорожная карта чтения
 
-- Poets&Quants — рейтинги MBA и сравнения
-- QS World University Rankings — Business & Management Studies
-- Financial Times Global MBA Ranking
-- GMAC (Graduate Management Admission Council) publications
-- Журналы: JOM, POM, IJPDLM, Management Science
+1. **[[01-MBA|01 MBA / EMBA / MiM]]** — самый частый запрос, начать здесь
+2. **[[03-Alternative-Paths|03 Альтернативные пути]]** — более быстрые и дешёвые варианты
+3. **[[02-PhD-Russia|02 Кандидатская по логистике в РФ]]** — долгий академический трек
+
+## Источники модуля (свод)
+
+### Рейтинги и аналитика
+
+- **Financial Times Global MBA Ranking** — годовой рейтинг
+- **QS World University Rankings: Business & Management**
+- **Poets&Quants** — сравнения школ, разбор поступления
+- **GMAC** (Graduate Management Admission Council) — статистика и GMAT
+
+### Академические журналы (логистика / операции)
+
+- **JOM** (Journal of Operations Management)
+- **IJPDLM** (International Journal of Physical Distribution & Logistics Management)
+- **POM** (Production and Operations Management), **Management Science**
+
+### Сертифицирующие органы
+
+- **ASCM / APICS** — CPIM, CSCP, CLTD
+- **CIPS**, **ISM** — закупки (CPSM)
+- **PMI** — PMP; **ASQ / IASSC** — Lean Six Sigma
+
+### Российские документы
+
+- Перечень рецензируемых научных изданий ВАК
+- Номенклатура научных специальностей (логистика — экономические / технические науки)
+
+## Связь с другими модулями
+
+- [[../24-Cross-Cultural/index|Модуль 24: Cross-Cultural]] — международное образование как канал глобальной карьеры
+- [[../04-Supply-Chain/index|Модуль 04: Supply Chain]] — предметная область кандидатской и сертификаций CSCP/CPIM
+- [[../05-Procurement/index|Модуль 05: Procurement]] — сертификации CIPS / CPSM
+- [[../15-Project-Management/index|Модуль 15: Project Management]] — сертификация PMP
+- [[../13-Operations-Excellence/index|Модуль 13: Operations Excellence]] — Lean Six Sigma
 ## Связанные документы
 
 - [[../index|Education Index]]
-- [[../../Career/index|Career]]
+- [[../24-Cross-Cultural/index|Модуль 24: Cross-Cultural]]
+- [[../04-Supply-Chain/index|Модуль 04: Supply Chain]]

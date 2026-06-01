@@ -1,40 +1,85 @@
 ---
 title: "Модуль 26 — Soft Skills & Character"
-aliases: ["Module 26", "Soft Skills"]
+aliases: ["Module 26", "Soft Skills", "Эмоциональный интеллект", "Mental Models", "Стратегическое мышление"]
 type: hub
-status: stub
+status: active
 domain: education
 module: 26-Soft-Skills
-tags: [index, education, soft-skills]
+tags: [index, education, soft-skills, emotional-intelligence, mental-models, biases, habits]
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-06-01
 ---
 
 # Модуль 26 — Soft Skills & Character (стороны характера руководителя)
 
-## Заметки модуля (план наполнения)
+> Технические знания делают специалиста, характер и качество мышления делают руководителя. На уровне COO и выше провалы редко происходят из-за незнания финансов или цепочки поставок — они происходят из-за непродуманного решения под давлением, неуслышанной команды, переоценки себя или сорвавшегося под стрессом человека. Этот модуль о четырёх опорах: **эмоциональный интеллект** (Goleman), **стратегическое мышление** (ментальные модели, системность, первопринципы), **когнитивные искажения** (Kahneman, пре-мортем) и **привычки и характер** (Covey, Clear, стоицизм).
 
-1. **01 Эмоциональный интеллект** — EI / EQ (Emotional Intelligence — эмоциональный интеллект, Daniel Goleman) 5 компонент, MSCEIT (Mayer-Salovey-Caruso EI Test) измерение, связь EI и лидерской эффективности
-2. **02 Стратегическое мышление** — First Principles Thinking (Aristotle / Elon Musk), Mental Models (Charlie Munger latticework), Systems Thinking (Peter Senge «5-я дисциплина»), Second-Order Thinking (Howard Marks)
-3. **03 Когнитивные искажения** — Kahneman «Thinking Fast and Slow», Dunning-Kruger Effect, Survivorship / Selection / Confirmation Bias, Pre-Mortem Analysis (Gary Klein)
-4. **04 Привычки и характер** — «7 Habits of Highly Effective People» (Stephen Covey), «Atomic Habits» (James Clear), Stoicism for Leaders (Ryan Holiday), Antifragile Personality (Taleb)
+## Карта раздела
+
+![](attachments/diagrams/26-module-map.svg)
+
+## Заметки модуля
+
+1. **[[01-Emotional-Intelligence|01 Эмоциональный интеллект]]** — EI / EQ (Emotional Intelligence — эмоциональный интеллект, Daniel Goleman) и 5 компонентов (самоосознание, саморегуляция, мотивация, эмпатия, социальные навыки); измерение (MSCEIT); связь эмоционального интеллекта с лидерской эффективностью; развитие.
+2. **[[02-Strategic-Thinking|02 Стратегическое мышление]]** — мышление от первопринципов (First Principles, Аристотель / Elon Musk); решётка ментальных моделей (Charlie Munger); системное мышление (Peter Senge, «Пятая дисциплина»); мышление второго порядка (Howard Marks); как уйти от «человека с молотком».
+3. **[[03-Cognitive-Biases|03 Когнитивные искажения]]** — две системы мышления (Daniel Kahneman, «Thinking, Fast and Slow»); ключевые искажения (подтверждения, Dunning-Kruger, выжившего, якорения, невозвратных издержек); пре-мортем (Gary Klein) как инструмент против группового мышления и самоуверенности.
+4. **[[04-Habits-Character|04 Привычки и характер]]** — 7 навыков высокоэффективных людей (Stephen Covey); атомные привычки и петля «сигнал — желание — отклик — награда» (James Clear); стоицизм для руководителей (Ryan Holiday, Marcus Aurelius); антихрупкая личность (Nassim Taleb).
+
+## Зачем модуль руководителю
+
+Эти навыки — **усилитель всех остальных модулей**. Знание методологий бесполезно, если решение принимается под влиянием искажения, команда не слышит руководителя из-за низкой эмпатии, а сам он выгорает от хронического стресса. Soft skills плохо поддаются разовому обучению и требуют систематической практики — поэтому ценность модуля в том, чтобы дать конкретные инструменты (пре-мортем перед запуском, решётка моделей при анализе, петля привычки при изменении поведения), а не общие призывы.
 
 ## Применение для руководителя
 
-- **Любая роль:** Pre-Mortem перед каждым большим запуском продукта / проектом
-- **Долгосрочно:** систематическое наращивание lattice of mental models в Mungerовском стиле
+| Целевая роль | Что взять из модуля |
+|---|---|
+| **Любая лидерская роль** | Пре-мортем перед каждым крупным запуском или проектом; самоосознание и саморегуляция |
+| **CEO / стратег** | Решётка ментальных моделей и мышление второго порядка при стратегических решениях |
+| **COO** | Системное мышление для понимания петель обратной связи в операциях |
+| **Руководитель команды** | Эмпатия и социальные навыки; win-win и «сначала понять» (Covey) |
+| **Долгосрочно (личное)** | Атомные привычки и стоицизм для устойчивости и роста |
 
-## Источники
+## Дорожная карта чтения
 
-- Daniel Goleman, «Emotional Intelligence»
-- Peter Senge, «The Fifth Discipline»
-- Daniel Kahneman, «Thinking, Fast and Slow»
-- Charlie Munger, «Poor Charlie's Almanack»
-- Stephen Covey, «The 7 Habits of Highly Effective People»
-- James Clear, «Atomic Habits»
-- Nassim Taleb, «Antifragile»
+1. **[[01-Emotional-Intelligence|01 Эмоциональный интеллект]]** — фундамент самоуправления и отношений
+2. **[[02-Strategic-Thinking|02 Стратегическое мышление]]** — качество анализа и решений
+3. **[[03-Cognitive-Biases|03 Когнитивные искажения]]** — защита решений от системных ошибок
+4. **[[04-Habits-Character|04 Привычки и характер]]** — устойчивость и долгосрочный рост
+
+## Источники модуля (свод)
+
+### Книги
+
+- Daniel Goleman, **«Emotional Intelligence»** (Bantam, 1995) и **«Working with Emotional Intelligence»** (1998)
+- Daniel Kahneman, **«Thinking, Fast and Slow»** (Farrar, Straus and Giroux, 2011)
+- Peter Senge, **«The Fifth Discipline»** (Doubleday, 1990)
+- Charlie Munger, **«Poor Charlie's Almanack»** (2005) — решётка ментальных моделей
+- Stephen Covey, **«The 7 Habits of Highly Effective People»** (Free Press, 1989)
+- James Clear, **«Atomic Habits»** (Avery, 2018)
+- Nassim Nicholas Taleb, **«Antifragile»** (Random House, 2012)
+- Ryan Holiday, **«The Obstacle Is the Way»** (Portfolio, 2014) — современный стоицизм
+- Howard Marks, **«The Most Important Thing»** (Columbia Business School, 2011) — мышление второго порядка
+
+### Статьи и инструменты
+
+- HBR (Harvard Business Review): Daniel Goleman, «What Makes a Leader?» (1998)
+- HBR: Gary Klein, «Performing a Project Premortem» (2007)
+- MSCEIT (Mayer-Salovey-Caruso Emotional Intelligence Test) — методика измерения
+
+### Онлайн-ресурсы
+
+- fs.blog (Farnam Street) — ментальные модели
+- jamesclear.com — система привычек
+
+## Связь с другими модулями
+
+- [[../16-Leadership/index|Модуль 16: Leadership]] — лидерское присутствие и эмоциональный интеллект
+- [[../20-Negotiation/index|Модуль 20: Negotiation]] — эмпатия и управление эмоциями в переговорах
+- [[../10-Marketing/02-Consumer-Behavior|10.02 Consumer Behavior]] — поведенческая экономика и искажения (Kahneman пересекается)
+- [[../22-Risk-BC/01-ERM-Framework|22.01 ERM]] — пре-мортем и мышление второго порядка в оценке рисков
+- [[../01-Strategy/index|Модуль 01: Strategy]] — стратегическое мышление как основа
 ## Связанные документы
 
 - [[../index|Education Index]]
 - [[../16-Leadership/index|Модуль 16: Leadership]]
-- [[../10-Marketing/index|Модуль 10: Marketing]] — Kahneman / biases пересекаются
+- [[../10-Marketing/index|Модуль 10: Marketing]]

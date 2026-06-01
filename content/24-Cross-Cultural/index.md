@@ -1,37 +1,78 @@
 ---
 title: "Модуль 24 — Cross-Cultural Management"
-aliases: ["Module 24", "Cross-Cultural"]
+aliases: ["Module 24", "Cross-Cultural", "Кросс-культурный менеджмент", "Culture Map", "Hofstede"]
 type: hub
-status: stub
+status: active
 domain: education
 module: 24-Cross-Cultural
-tags: [index, education, cross-cultural]
+tags: [index, education, cross-cultural, hofstede, culture-map, china, global-career]
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-06-01
 ---
 
 # Модуль 24 — Cross-Cultural Management (кросс-культурный менеджмент)
 
-> Главный язык для работы с международными партнёрами, особенно в коридорах Россия-Китай-Турция-СНГ. Основа для позиционирования как «управленец международного уровня».
+> Сделка срывается не из-за цены, а из-за того, что одна сторона сказала «это будет сложно», имея в виду «нет», а вторая услышала «да, но с усилием». Кросс-культурный менеджмент — это набор карт, которые делают такие различия видимыми и управляемыми. Для руководителя, работающего в коридорах Россия — Китай — Турция — СНГ — Залив, это рабочий инструмент, а не страноведение. Модуль покрывает 3 области: **модели культуры** (Hofstede, Trompenaars, Erin Meyer, Hall, GLOBE), **деловую культуру Китая и Азии** (Guanxi, Mianzi, иерархия, лунный календарь) и **переход к глобальной карьере** (деловой английский, международное позиционирование, личный бренд).
 
-## Заметки модуля (план наполнения)
+## Карта раздела
 
-1. **01 Модели культуры** — Hofstede 6 Dimensions (power distance, individualism, masculinity, uncertainty avoidance, long-term orientation, indulgence), Trompenaars 7 Dimensions, Erin Meyer Culture Map (8 шкал), GLOBE Project
-2. **02 China-Specific** — Guanxi (关系) система отношений, Mianzi (面子 — концепт лица), Hierarchy & Decision Making, Lunar Calendar (CNY — Chinese New Year) impact on supply chain
-3. **03 Russia → Global Career** — «International-quality» branding, English Business Communication (B2 → C1), LinkedIn Personal Branding
+![](attachments/diagrams/24-module-map.svg)
+
+## Заметки модуля
+
+1. **[[01-Culture-Models|01 Модели культуры]]** — зачем нужны рамки измерения культуры; Geert Hofstede (6 измерений: дистанция власти, индивидуализм, маскулинность, избегание неопределённости, долгосрочная ориентация, допущение); Fons Trompenaars (7 дилемм); Erin Meyer **The Culture Map** (8 практических шкал); Edward Hall (высокий/низкий контекст, отношение ко времени); GLOBE Project. Россия на этих шкалах.
+2. **[[02-China-Asia-Business|02 Деловая культура Китая и Азии]]** — Guanxi (关系 — сеть отношений), Mianzi (面子 — «лицо»), Renqing (взаимность); иерархия и принятие решений; ведение переговоров с китайской стороной; влияние лунного календаря (Chinese New Year) на цепочку поставок; короткие заметки по Турции, Залива и Центральной Азии.
+3. **[[03-Russia-Global-Career|03 Россия → глобальная карьера]]** — позиционирование руководителя с российским опытом для международных и азиатских компаний; деловой английский (B2 → C1); личный бренд и профессиональное сообщество; культурная гибкость как навык.
+
+## Зачем модуль руководителю
+
+После 2022 года вектор внешних связей российского бизнеса сместился на **Восток и Глобальный Юг**: Китай, Турция, Индия, страны Залива, ЕАЭС. Это рынки с **высококонтекстными, отношенческими, иерархичными** культурами, где западные привычки прямой коммуникации и быстрых решений работают плохо. Директор закупок, ведущий переговоры с китайской фабрикой, и COO (Chief Operating Officer — главный операционный директор), выстраивающий партнёрство в Залива, сталкиваются с культурными различиями как с операционным фактором: они влияют на сроки, доверие, цену и сам факт сделки.
 
 ## Применение для руководителя
 
-- **Операционно:** работа с CN-партнёрами через понимание Guanxi (关系 — система отношений) и Mianzi (面子 — концепт лица)
-- **Карьерное развитие:** позиционирование для международных компаний и executive-ролей за пределами РФ
+| Целевая роль | Что взять из модуля |
+|---|---|
+| **CEO / собственник** | Культурная карта при выходе на новые рынки и M&A; различия в управлении кросс-культурными командами |
+| **COO** | Управление международными и удалёнными командами; различия в принятии решений и обратной связи |
+| **Директор закупок** | Переговоры с китайскими и азиатскими поставщиками; Guanxi и Mianzi; планирование под Chinese New Year |
+| **Директор продукта** | Локализация продукта и коммуникации под культуру рынка |
+| **Любой руководитель** | Деловой английский и международное позиционирование для карьерного роста |
 
-## Источники
+## Дорожная карта чтения
 
-- Geert Hofstede, «Cultures and Organizations: Software of the Mind»
-- Erin Meyer, «The Culture Map»
-- Fons Trompenaars, «Riding the Waves of Culture»
-- GLOBE Project publications
-- Ming-Jer Chen, «Inside Chinese Business»
+1. **[[01-Culture-Models|01 Модели культуры]]** — общий язык и рамки, начать здесь
+2. **[[02-China-Asia-Business|02 Деловая культура Китая и Азии]]** — главное прикладное направление сейчас
+3. **[[03-Russia-Global-Career|03 Россия → глобальная карьера]]** — личное позиционирование
+
+## Источники модуля (свод)
+
+### Книги
+
+- Erin Meyer, **«The Culture Map»** (PublicAffairs, 2014) — главная практическая книга
+- Geert Hofstede, Gert Jan Hofstede, Michael Minkov, **«Cultures and Organizations: Software of the Mind»** (McGraw-Hill, 3-е изд., 2010)
+- Fons Trompenaars, Charles Hampden-Turner, **«Riding the Waves of Culture»** (Nicholas Brealey, 1997)
+- Edward T. Hall, **«Beyond Culture»** (Anchor Books, 1976)
+- Ming-Jer Chen, **«Inside Chinese Business»** (Harvard Business Review Press, 2001)
+- Richard D. Lewis, **«When Cultures Collide»** (Nicholas Brealey, 2018)
+
+### Исследования и проекты
+
+- **GLOBE Project** (House et al.) — 62 общества, 9 измерений
+- Hofstede Insights — страновые профили (hofstede-insights.com)
+- HBR (Harvard Business Review): материалы Erin Meyer по управлению глобальными командами
+
+### Онлайн-ресурсы
+
+- hofstede-insights.com — Country Comparison
+- erinmeyer.com — Culture Map assessment
+
+## Связь с другими модулями
+
+- [[../06-Foreign-Trade/04-China-Specifics|06.04 China Specifics]] — практика работы с китайскими поставщиками
+- [[../20-Negotiation/index|Модуль 20: Negotiation]] — кросс-культурные переговоры
+- [[../16-Leadership/index|Модуль 16: Leadership]] — лидерство в международной среде
+- [[../18-HR-Management/index|Модуль 18: HR Management]] — управление мультикультурными командами
+- [[../25-Academic-Track/index|Модуль 25: Academic Track]] — международное образование как канал глобальной карьеры
 ## Связанные документы
 
 - [[../index|Education Index]]
