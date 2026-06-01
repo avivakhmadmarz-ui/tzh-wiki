@@ -1,6 +1,6 @@
 ---
 aliases: 
-updated: YYYY-MM-DD
+updated: 2026-05-13
 tags: [education, other-methodologies, eos, 4dx, holacracy, beyond-budgeting]
 created: 2026-05-07
 date created: 2026-05-07

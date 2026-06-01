@@ -1,6 +1,6 @@
 ---
 aliases: 
-updated: YYYY-MM-DD
+updated: 2026-05-13
 tags: [education, okr-kpi, structure]
 created: 2026-05-07
 date created: 2026-05-07
@@ -22,8 +22,6 @@ OBJECTIVE  → качественное, амбициозное, вдохнов�
   ├── KEY RESULT 4 → (опционально)
   └── KEY RESULT 5 → (опционально, обычно последний)
 ```
-
-![[okr-pyramid.png]]
 
 ## Objective — «куда идём»
 

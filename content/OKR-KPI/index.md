@@ -1,15 +1,14 @@
 ---
-aliases: 
-tags: 
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
-date created: 2026-05-12
-date modified: 2026-05-13
+title: "OKR и KPI — целеполагание и метрики"
+aliases: ["OKR/KPI", "OKR", "KPI", "Целеполагание"]
+type: hub
+status: active
+domain: education
+module: OKR-KPI
+tags: [index, education, okr-kpi]
+created: 2026-05-07
+updated: 2026-06-01
 ---
----
-aliases: ["OKR/KPI"]
-tags: [education, okr-kpi, index]
-created: 2026-05-07---
 
 # OKR и KPI — целеполагание и метрики для руководителя
 

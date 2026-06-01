@@ -1,15 +1,16 @@
 ---
 aliases: 
-updated: YYYY-MM-DD
 tags: [education, okr-kpi, comparison, key]
+type: note
+status: active
+domain: education
 created: 2026-05-07
-date created: 2026-05-07
-date modified: 2026-05-13
+updated: 2026-06-01
 ---
 
 # 06 — OKR vs KPI: ключевая разница
 
-> **Эта заметка — центр раздела.** Если перед уходом ты прочтёшь только одну — пусть будет эта.
+> **Эта заметка — центр раздела.** Если из всего раздела читать только одну — пусть будет эта.
 
 ## TL;DR в трёх фразах
 
@@ -79,11 +80,9 @@ KR3: Прибыть с резервом топлива ≥ 5 тонн.
 | 11 | **Кто ставит** | Mix top-down + bottom-up (50/50) | В основном top-down |
 | 12 | **Что даёт** | Фокус, alignment, ambition | Контроль, предсказуемость, early warning |
 
-![[okr-vs-kpi.png]]
-
 ## Семантическая разница на примере
 
-Возьмём один и тот же бизнес — beauty-импортёр (твой профиль).
+Возьмём один и тот же бизнес — beauty-импортёр.
 
 ### KPI-набор (мониторим круглый год)
 
@@ -162,9 +161,9 @@ OKR **«Forecast accuracy 78% → 90% на pilot-категории»** — эт
 |-----|----------------|
 | **B2B SaaS / IT** | OKR-heavy. Быстро меняющийся продукт, много пивотов. |
 | **E-commerce** | 50/50. KPI на operations, OKR на growth-эксперименты. |
-| **Ритейл (твой профиль)** | KPI-heavy (OTIF, GMROII, shrinkage). OKR на расширение, новые SKU, новые форматы. |
+| **Ритейл** | KPI-heavy (OTIF, GMROII, shrinkage). OKR на расширение, новые SKU, новые форматы. |
 | **Производство** | KPI-heavy (Six Sigma, OEE, yield). OKR — раз в год на стратегические change. |
-| **Импорт / B2B distribution (твой профиль)** | KPI на supply chain. OKR на growth + capability-building (как в beauty-import примере выше). |
+| **Импорт / B2B distribution** | KPI на supply chain. OKR на growth + capability-building (как в beauty-import примере выше). |
 | **Сервис / консалтинг** | OKR-heavy на growth. KPI на utilization, billable rate. |
 | **Healthcare / regulated** | KPI-heavy (compliance, safety, quality). OKR — осторожно, риск Goodhart-эффекта. |
 
@@ -229,7 +228,7 @@ Adobe в 2012 явно отвязал Check-in (OKR) от компенсации
 ## Готовый decision-tree «что использовать»
 
 ```
-Тебе нужно что-то измерить?
+Нужно что-то измерить?
     │
     ├── Это для контроля «всё ли в порядке прямо сейчас»?
     │   └── KPI (с threshold yellow/red, owner, frequency)
@@ -245,7 +244,7 @@ Adobe в 2012 явно отвязал Check-in (OKR) от компенсации
     │      OKR — это про фокус команды, не про оценку индивида.
     │
     └── Это амбиция на год?
-        └── Annual OKR на уровне company. Декомпозируй на quarterly OKR.
+        └── Annual OKR на уровне company. Декомпозируется на quarterly OKR.
 ```
 
 ## Как они работают вместе — practical setup

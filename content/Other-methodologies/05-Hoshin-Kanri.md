@@ -1,6 +1,6 @@
 ---
 aliases: 
-updated: YYYY-MM-DD
+updated: 2026-05-13
 tags: [education, other-methodologies, hoshin-kanri]
 created: 2026-05-07
 date created: 2026-05-07
@@ -21,7 +21,7 @@ Hoshin Kanri (方針管理) — японская методология **свя
 - **2000-е** — становится стандартом в Lean-зрелых компаниях: Danaher, Ingersoll Rand, Toyota North America, Bridgestone, Bajaj, M&M, Honda, Ford
 - **2010-е+** — software vendors (i-nexus, KaiNexus, Hoshin Online) делают X-matrix цифровым
 
-![[hoshin-x-matrix.png]]
+![](attachments/diagrams/14-hoshin-kanri-x-matrix.svg)
 
 ## Ключевые элементы
 

@@ -1,6 +1,6 @@
 ---
 aliases: 
-updated: YYYY-MM-DD
+updated: 2026-05-13
 tags: [education, okr-kpi, kpi, balanced-scorecard]
 created: 2026-05-07
 date created: 2026-05-07
@@ -86,8 +86,6 @@ Amazon строит всю систему на **input metrics** — это их
 GE, Westinghouse, Xerox в 1980-х — классические примеры: ради квартального EPS жертвовали R&D, обучением, качеством. Через 5-10 лет — кризис.
 
 Kaplan и Norton предложили: **«взвешивать» эффективность по 4 перспективам одновременно»**.
-
-![[balanced-scorecard.png]]
 
 ### 4 перспективы
 

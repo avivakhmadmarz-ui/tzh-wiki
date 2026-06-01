@@ -1,15 +1,14 @@
 ---
-aliases: 
-tags: 
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
-date created: 2026-05-12
-date modified: 2026-05-13
----
----
-aliases: ["Compare methodologies"]
+title: "Сравнение методов и применимость"
+aliases: ["Compare methodologies", "Сравнение методологий", "Когда что применять"]
+type: hub
+status: active
+domain: education
+module: Compare
 tags: [index, education, compare]
-created: 2026-05-07---
+created: 2026-05-07
+updated: 2026-06-01
+---
 
 # Сравнение методов и применимость
 
@@ -50,13 +49,9 @@ created: 2026-05-07---
 - [Bain — Operations](https://www.bain.com/consulting-services/performance-improvement/operations/)
 - [Gartner — Supply Chain Top 25](https://www.gartner.com/en/supply-chain/research/supply-chain-top-25)
 - [Deloitte Insights — Operations](https://www2.deloitte.com/us/en/insights/topics/operations.html)
+## Связанные документы
 
-## Встроенная схема (офлайн)
-
-В разделе встроена авторская SVG-схема:
-
-- **Methodology Landscape** (домен × горизонт — где живёт каждая методология) — в [[01-Methodology-landscape]]. Файл: `attachments/methodology-landscape.svg`
-
-## Дополнительные иллюстрации (опционально)
-
-В заметках остались HTML-комментарии с URL — на будущее: decision tree, OKR+KPI dashboard, Hoshin+Lean stack, ABC/XYZ matrix, категорийный менеджер дашборд. Скачай в `~/tzh/Education/attachments/` и замени placeholder на `![[имя_файла.png]]`.
+- [[../index|Education Index]]
+- [[../SOP/index|S&OP]]
+- [[../Other-methodologies/index|Другие методологии]]
+- [[../Lean/index|Lean]]

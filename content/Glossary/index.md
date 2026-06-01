@@ -1,15 +1,14 @@
 ---
-aliases: 
-tags: 
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
-date created: 2026-05-12
-date modified: 2026-05-13
----
----
-aliases: ["Glossary"]
+title: "Glossary — словарь терминов, метрик и аббревиатур"
+aliases: ["Glossary", "Словарь", "Глоссарий"]
+type: hub
+status: active
+domain: education
+module: Glossary
 tags: [index, education, glossary]
-created: 2026-05-07---
+created: 2026-05-07
+updated: 2026-06-01
+---
 
 # Glossary — словарь терминов, метрик и аббревиатур
 

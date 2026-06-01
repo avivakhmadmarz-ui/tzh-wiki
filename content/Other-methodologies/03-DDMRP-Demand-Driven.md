@@ -1,6 +1,6 @@
 ---
 aliases: 
-updated: YYYY-MM-DD
+updated: 2026-05-13
 tags: [education, other-methodologies, ddmrp]
 created: 2026-05-07
 date created: 2026-05-07
@@ -20,7 +20,7 @@ DDMRP — это методология планирования материа�
 - **Эволюция мышления**: Carol Ptak пришла из MRP-мира, увидела ограничения, переработала в pull-парадигму. DDMRP формально опирается на 5 теоретических корней: MRP, DRP, Lean, ToC, Six Sigma и **innovation in decoupling**.
 - **2017** — APICS / ASCM добавили DDMRP в свои body of knowledge (CPIM, CSCP).
 
-![[ddmrp-buffer.png]]
+![](attachments/diagrams/14-ddmrp-buffer-zones.svg)
 
 ## Пять компонентов DDMRP
 
