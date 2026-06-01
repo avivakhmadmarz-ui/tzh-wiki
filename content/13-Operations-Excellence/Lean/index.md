@@ -74,4 +74,4 @@ updated: 2026-06-01
 - [[../index|Модуль 13: Operations Excellence]]
 - [[../../14-Planning/SOP/index|S&OP]]
 - [[../../14-Planning/Other-methodologies/index|Другие методологии]]
-- [[../../Compare/index|Сравнение методов]]
+- [[../../14-Planning/Compare/index|Сравнение методов]]

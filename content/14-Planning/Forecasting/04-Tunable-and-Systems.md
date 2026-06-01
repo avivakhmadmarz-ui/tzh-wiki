@@ -437,9 +437,9 @@ Holt-Winters в чистом виде не умеет учитывать вне�
 - [[01-Classical-Methods|01 Классические методы]] — устройство Holt-Winters и ETS, чьи коэффициенты разбираются здесь
 - [[02-ML-and-Competitions|02 ML и M-competitions]] — Prophet и нейросетевые движки, локальное против глобального обучения
 - [[03-Accuracy-and-Hierarchy|03 Точность и иерархия]] — метрики, квантильные оценки, реконсиляция, Forecast Value Added для пилота
-- [[../12-ERP-Digital/index|Модуль 12: ERP & Digital]] — корпоративные платформы планирования как часть цифрового контура
-- [[../04-Supply-Chain/09-Logistics-IT-Systems|04.09 Logistics IT]] — место прогнозного движка в ИТ-ландшафте цепочки поставок
-- [[../14-Planning/SOP/index|S&OP]] — план спроса как вход в Demand Review
+- [[../../12-ERP-Digital/index|Модуль 12: ERP & Digital]] — корпоративные платформы планирования как часть цифрового контура
+- [[../../04-Supply-Chain/09-Logistics-IT-Systems|04.09 Logistics IT]] — место прогнозного движка в ИТ-ландшафте цепочки поставок
+- [[../SOP/index|S&OP]] — план спроса как вход в Demand Review
 
 ## Источники
 
@@ -470,4 +470,4 @@ Holt-Winters в чистом виде не умеет учитывать вне�
 
 - [[index|Forecasting]]
 - [[../index|Education Index]]
-- [[../12-ERP-Digital/index|Модуль 12: ERP & Digitalization]]
+- [[../../12-ERP-Digital/index|Модуль 12: ERP & Digitalization]]

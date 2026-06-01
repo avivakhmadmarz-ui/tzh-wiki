@@ -1,4 +1,9 @@
 ---
+title: "Карта методологического ландшафта"
+type: note
+status: active
+domain: education
+module: Compare
 aliases: 
 updated: 2026-05-13
 tags: [education, compare, landscape]

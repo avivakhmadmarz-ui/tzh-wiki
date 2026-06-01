@@ -60,6 +60,6 @@ updated: 2026-06-01
 ## Связанные документы
 
 - [[../index|Education]]
-- [[../Compare/index|Compare]] — сравнение методологий
+- [[../14-Planning/Compare/index|Compare]] — сравнение методологий
 - [[../14-Planning/SOP/08-Metrics-and-maturity|S&OP метрики]] — где KPI операционных функций раскрыты глубже
 - [[../17-Goal-Setting/OKR-KPI/04-KPI-and-Balanced-Scorecard|KPI и BSC]] — методические основы метрик

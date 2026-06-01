@@ -1,4 +1,9 @@
 ---
+title: "Кейсы по ситуациям — практическое применение методологий"
+type: note
+status: active
+domain: education
+module: Compare
 aliases: 
 updated: 2026-05-13
 tags: [education, compare, cases]
@@ -36,11 +41,11 @@ date modified: 2026-05-18
 | Слой | Метод | Что даёт |
 |------|-------|----------|
 | Стратегия категории | **Category Strategy + BSC** (4 perspectives, customer + financial) | Roadmap категории |
-| Тактическое планирование | **S&OP** (`[[../14-Planning/SOP/index|S&OP]]`) | Ежемесячный demand+supply consensus |
+| Тактическое планирование | **S&OP** (`[[../SOP/index|S&OP]]`) | Ежемесячный demand+supply consensus |
 | Классификация | **ABC / XYZ** | Приоритизация управленческого внимания |
-| Replenishment | **DDMRP** (`[[../14-Planning/Other-methodologies/03-DDMRP-Demand-Driven|DDMRP]]`) для долгого lead time + B/C-class; MRP для A-class | Pull для волатильных, push для стабильных |
+| Replenishment | **DDMRP** (`[[../Other-methodologies/03-DDMRP-Demand-Driven|DDMRP]]`) для долгого lead time + B/C-class; MRP для A-class | Pull для волатильных, push для стабильных |
 | Складская операция | **Lean** (5S, daily management, kanban для replenishment) | Скорость, точность |
-| Цели команды | **OKR** (`[[../17-Goal-Setting/OKR-KPI/index|OKR]]`) на квартал + **KPI** дашборд | Drive улучшения + контроль здоровья |
+| Цели команды | **OKR** (`[[../../17-Goal-Setting/OKR-KPI/index|OKR]]`) на квартал + **KPI** дашборд | Drive улучшения + контроль здоровья |
 
 ### Ключевые KPI
 
@@ -106,7 +111,7 @@ Beauty / fashion / electronics / hard goods, импорт из Китая. Lead 
 | Demand sensing | **S&OP demand review** + statistical baseline | Лучше forecast |
 | Promo / NPI integration | **Planned adjustments в DDMRP buffers** | Подготовиться к промо |
 | Vendor mgmt | **Vendor scorecard + Kraljic matrix** | Дифференцированная стратегия по поставщикам |
-| Cash flow | **Throughput accounting** (`[[../14-Planning/Other-methodologies/04-Theory-of-Constraints|ToC]]`) | Приоритеты по cash impact |
+| Cash flow | **Throughput accounting** (`[[../Other-methodologies/04-Theory-of-Constraints|ToC]]`) | Приоритеты по cash impact |
 | Cross-functional | **Базовый S&OP** | Закупки + маркетинг + финансы |
 
 ### Ключевые KPI

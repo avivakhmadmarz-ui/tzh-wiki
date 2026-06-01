@@ -60,7 +60,7 @@ updated: 2026-06-01
 - [[../../14-Planning/SOP/index|S&OP]] — горизонтальный консенсус-процесс. KPI и OKR живут поверх S&OP-цикла.
 - [[../../13-Operations-Excellence/Lean/index|Lean]] — Hoshin Kanri (X-Matrix) — японский родственник OKR из TPS.
 - [[../../14-Planning/Other-methodologies/index|Other-methodologies]] — Hoshin, EOS Rocks, 4DX WIGs, MBO.
-- [[../../Compare/index|Compare]] — матрица «что и когда применять».
+- [[../../14-Planning/Compare/index|Compare]] — матрица «что и когда применять».
 - [[../index|Education]]
 
 ## Встроенные схемы (офлайн)

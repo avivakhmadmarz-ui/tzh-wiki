@@ -1,4 +1,6 @@
 ---
+title: "Матрица выбора методологии — главная заметка раздела"
+module: Compare
 aliases: 
 tags: [education, compare, decision-matrix]
 type: note
@@ -35,7 +37,7 @@ updated: 2026-06-01
 
 | Что делать       | Методология                                           |                               |
 | ---------------- | ----------------------------------------------------- | ----------------------------- |
-| Operating system | **EOS** (`[[../14-Planning/Other-methodologies/07-EOS-and-other| EOS]]`) ИЛИ OKR + Lean basics |
+| Operating system | **EOS** (`[[../Other-methodologies/07-EOS-and-other| EOS]]`) ИЛИ OKR + Lean basics |
 | Метрики          | Weekly scorecard 10-15 KPI, по командам               |                               |
 | Финансы          | Driver-based budget + monthly forecast update         |                               |
 | Операции         | Базовый S&OP (упрощённый, монтлийный, 12 мес horizon) |                               |
@@ -52,7 +54,7 @@ updated: 2026-06-01
 | Operating system | OKR + KPI scoreboard + S&OP + Lean |
 | Метрики | BSC (4 perspectives) + KPI cascade |
 | Финансы | Driver-based + опционально ZBB на selectively chosen categories |
-| Операции | Полный S&OP (`[[../14-Planning/SOP/index|S&OP]]`), MRP II в ERP, опционально DDMRP в импорте |
+| Операции | Полный S&OP (`[[../SOP/index|S&OP]]`), MRP II в ERP, опционально DDMRP в импорте |
 | ERP | Dynamics 365 F&O, SAP S/4HANA, Oracle Cloud ERP, Infor |
 | Стратегия | Strategy Map + annual planning |
 | Improvement | Lean Six Sigma project portfolio |
@@ -62,14 +64,14 @@ updated: 2026-06-01
 
 | Что делать | Методология |
 |------------|-------------|
-| Operating system | **IBP** (`[[../14-Planning/Other-methodologies/01-IBP-Integrated-Business-Planning|IBP]]`) + S&OP + Lean Six Sigma |
+| Operating system | **IBP** (`[[../Other-methodologies/01-IBP-Integrated-Business-Planning|IBP]]`) + S&OP + Lean Six Sigma |
 | Метрики | BSC strategic + KPI operational + OKR (для product / tech parts) |
 | Финансы | Driver-based + ZBB на трансформации, иногда Beyond Budgeting в BU |
-| Стратегия | Hoshin Kanri (`[[../14-Planning/Other-methodologies/05-Hoshin-Kanri|Hoshin Kanri]]`) + Strategy Map |
+| Стратегия | Hoshin Kanri (`[[../Other-methodologies/05-Hoshin-Kanri|Hoshin Kanri]]`) + Strategy Map |
 | Операции | DDMRP в complex supply, MRP II в стандартном производстве |
 | ERP | SAP S/4HANA, Oracle Cloud ERP, Microsoft Dynamics F&O |
 | Improvement | Lean Six Sigma DMAIC portfolio, ToC linza |
-| Project mgmt | CCPM (`[[../14-Planning/Other-methodologies/04-Theory-of-Constraints|ToC]]`) на critical projects |
+| Project mgmt | CCPM (`[[../Other-methodologies/04-Theory-of-Constraints|ToC]]`) на critical projects |
 
 ## Ось 2: Тип бизнеса
 
@@ -90,9 +92,9 @@ updated: 2026-06-01
 ### Ритейл / e-commerce
 
 **Стандартный стек**:
-- S&OP с фокусом на demand sensing — `[[../14-Planning/SOP/index|S&OP]]`
+- S&OP с фокусом на demand sensing — `[[../SOP/index|S&OP]]`
 - ABC/XYZ classification SKU
-- DDMRP для long-tail и волатильного спроса (`[[../14-Planning/Other-methodologies/03-DDMRP-Demand-Driven|DDMRP]]`)
+- DDMRP для long-tail и волатильного спроса (`[[../Other-methodologies/03-DDMRP-Demand-Driven|DDMRP]]`)
 - KPI: gross margin, sell-through, sales-per-square-foot, GMROI
 - Category management как организационный принцип
 - OKR для категорийных менеджеров
@@ -117,7 +119,7 @@ updated: 2026-06-01
 
 **Стандартный стек**:
 - OKR + KPI
-- ToC + CCPM для проектной части (`[[../14-Planning/Other-methodologies/04-Theory-of-Constraints|CCPM]]`)
+- ToC + CCPM для проектной части (`[[../Other-methodologies/04-Theory-of-Constraints|CCPM]]`)
 - Utilization / billable hours метрики
 - Resource management как ключевой процесс
 
@@ -166,8 +168,8 @@ updated: 2026-06-01
 
 **Приоритеты**:
 - **Lean Six Sigma** project portfolio — формальные DMAIC проекты
-- **DDMRP** для inventory optimization (`[[../14-Planning/Other-methodologies/03-DDMRP-Demand-Driven|DDMRP]]`)
-- **ToC** для bottleneck identification (`[[../14-Planning/Other-methodologies/04-Theory-of-Constraints|ToC]]`)
+- **DDMRP** для inventory optimization (`[[../Other-methodologies/03-DDMRP-Demand-Driven|DDMRP]]`)
+- **ToC** для bottleneck identification (`[[../Other-methodologies/04-Theory-of-Constraints|ToC]]`)
 - **S&OP / IBP** maturity climb (Class B → A по Oliver Wight)
 - **KPI sharpening** — фильтр от шума к 5-10 ключевых
 
@@ -183,7 +185,7 @@ updated: 2026-06-01
 ### Кризис / санация
 
 **Приоритеты**:
-- **ZBB** на cost-out (`[[../14-Planning/Other-methodologies/06-ZBB-Zero-Based-Budgeting|ZBB]]`) — но осторожно, чтобы не разрушить ядро
+- **ZBB** на cost-out (`[[../Other-methodologies/06-ZBB-Zero-Based-Budgeting|ZBB]]`) — но осторожно, чтобы не разрушить ядро
 - **ToC** для quick win по узким местам
 - **Cash flow forecasting** weekly (не monthly!)
 - **Inventory liquidation / DDMRP**, чтобы освободить кэш

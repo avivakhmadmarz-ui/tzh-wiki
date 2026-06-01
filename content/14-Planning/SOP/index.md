@@ -62,7 +62,7 @@ updated: 2026-06-01
 - [[../index|Модуль 14: Planning]] — S&OP в иерархии методологий планирования
 - [[../../04-Supply-Chain/03-Demand-Planning-SOP|04.03 S&OP & Demand Planning]] — S&OP в составе модуля по цепочке поставок
 - [[../../17-Goal-Setting/OKR-KPI/index|OKR и KPI]] — метрики S&OP как KPI операционной функции
-- [[../../Compare/index|Сравнение методов]] — когда S&OP, когда DDMRP, когда обоих
+- [[../Compare/index|Сравнение методов]] — когда S&OP, когда DDMRP, когда обоих
 
 ## Источники (общие для раздела)
 

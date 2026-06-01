@@ -182,7 +182,7 @@ Net Flow Position = On-Hand + On-Order – Qualified Sales Order Demand
 - **DDMRP vs MRP**: pull-альтернатива (см. `[[02-MRP-MRPII-ERP|MRP/MRP II/ERP]]`)
 - **DDMRP + ToC**: decoupling points часто ставятся в bottleneck (см. `[[04-Theory-of-Constraints|ToC]]`)
 - **DDMRP + Lean**: Kanban — это «pre-DDMRP» pull-сигнал (см. `[[../../13-Operations-Excellence/Lean/index|Lean]]`)
-- В разделе сравнения `[[../../Compare/03-Combinations-that-work|Combinations that work]]` см. связку IBP+DDMRP
+- В разделе сравнения `[[../Compare/03-Combinations-that-work|Combinations that work]]` см. связку IBP+DDMRP
 
 ## Источники
 

@@ -28,17 +28,17 @@ updated: 2026-06-01
 ## Ключевые вопросы, на которые отвечает раздел
 
 1. **«У меня компания на 80 человек, beauty-импорт, что внедрять — S&OP, OKR или EOS?»** → `[[02-Decision-matrix\|02]]` + `[[04-Cases-by-situation\|04]]` кейс 4
-2. **«Я внедрил OKR, теперь что — KPI? BSC?»** → `[[03-Combinations-that-work\|03]]` + `[[../17-Goal-Setting/OKR-KPI/index|OKR/KPI]]`
-3. **«Что выбрать между S&OP и DDMRP для импорта?»** → `[[02-Decision-matrix\|02]]` + `[[../14-Planning/Other-methodologies/03-DDMRP-Demand-Driven|DDMRP]]`
+2. **«Я внедрил OKR, теперь что — KPI? BSC?»** → `[[03-Combinations-that-work\|03]]` + `[[../../17-Goal-Setting/OKR-KPI/index|OKR/KPI]]`
+3. **«Что выбрать между S&OP и DDMRP для импорта?»** → `[[02-Decision-matrix\|02]]` + `[[../Other-methodologies/03-DDMRP-Demand-Driven|DDMRP]]`
 4. **«Стартап → IBP — нужно ли?»** → `[[01-Methodology-landscape\|01]]` (нет, не нужно)
 5. **«Кризис в компании — что делать?»** → `[[02-Decision-matrix\|02]]` секция «по стадии»
 
 ## Связанные разделы
 
-- [[../14-Planning/SOP/index|S&OP]] — операционное планирование
-- [[../14-Planning/Other-methodologies/index|Другие методологии]] — IBP, MRP, DDMRP, ToC, Hoshin, ZBB, EOS
-- [[../13-Operations-Excellence/Lean/index|Lean]] — операционное совершенство
-- [[../17-Goal-Setting/OKR-KPI/index|OKR / KPI / BSC]] — целеполагание и метрики
+- [[../SOP/index|S&OP]] — операционное планирование
+- [[../Other-methodologies/index|Другие методологии]] — IBP, MRP, DDMRP, ToC, Hoshin, ZBB, EOS
+- [[../../13-Operations-Excellence/Lean/index|Lean]] — операционное совершенство
+- [[../../17-Goal-Setting/OKR-KPI/index|OKR / KPI / BSC]] — целеполагание и метрики
 - [[../index|Education главная]]
 
 ## Источники для всего раздела (общие)
@@ -52,6 +52,6 @@ updated: 2026-06-01
 ## Связанные документы
 
 - [[../index|Education Index]]
-- [[../14-Planning/SOP/index|S&OP]]
-- [[../14-Planning/Other-methodologies/index|Другие методологии]]
-- [[../13-Operations-Excellence/Lean/index|Lean]]
+- [[../SOP/index|S&OP]]
+- [[../Other-methodologies/index|Другие методологии]]
+- [[../../13-Operations-Excellence/Lean/index|Lean]]

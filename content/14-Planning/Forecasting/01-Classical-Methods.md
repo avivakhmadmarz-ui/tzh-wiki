@@ -426,9 +426,9 @@ FPP3 фиксирует два практических факта, важных
 - [[02-ML-and-Competitions|02 ML и M-competitions]] — Prophet, LightGBM, N-BEATS; уроки M4/M5: когда ML обходит классику
 - [[03-Accuracy-and-Hierarchy|03 Точность и иерархия]] — метрики (MASE, WMAPE, RMSSE, Bias, FVA), на которые опираются методы этой заметки
 - [[04-Tunable-and-Systems|04 Настройка и системы]] — декомпозиция Prophet как альтернатива SARIMAX для промо; коэффициенты Holt-Winters в вендорских системах
-- [[../14-Planning/SOP/index|S&OP]] — прогноз как вход в Demand Review
-- [[../04-Supply-Chain/03-Demand-Planning-SOP|04.03 Demand Planning & S&OP]] — демпленнинг в цепочке поставок
-- [[../04-Supply-Chain/04-Inventory-Management|04.04 Inventory Management]] — прогноз → страховой запас
+- [[../SOP/index|S&OP]] — прогноз как вход в Demand Review
+- [[../../04-Supply-Chain/03-Demand-Planning-SOP|04.03 Demand Planning & S&OP]] — демпленнинг в цепочке поставок
+- [[../../04-Supply-Chain/04-Inventory-Management|04.04 Inventory Management]] — прогноз → страховой запас
 
 ## Источники
 
@@ -469,5 +469,5 @@ FPP3 фиксирует два практических факта, важных
 
 - [[index|Forecasting — прогнозирование спроса]]
 - [[../index|Education Index]]
-- [[../14-Planning/index|Модуль 14: Planning]]
-- [[../04-Supply-Chain/index|Модуль 04: Supply Chain]]
+- [[../index|Модуль 14: Planning]]
+- [[../../04-Supply-Chain/index|Модуль 04: Supply Chain]]

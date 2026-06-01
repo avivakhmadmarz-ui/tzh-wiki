@@ -1,4 +1,9 @@
 ---
+title: "Комбинации методологий, которые реально работают"
+type: note
+status: active
+domain: education
+module: Compare
 aliases: 
 updated: 2026-05-13
 tags: [education, compare, combinations]
@@ -36,7 +41,7 @@ Mid-large производственная компания. Mature operations, 
 
 ### Связанные заметки
 
-- `[[../14-Planning/SOP/index|S&OP]]`, `[[../13-Operations-Excellence/Lean/index|Lean]]`
+- `[[../SOP/index|S&OP]]`, `[[../../13-Operations-Excellence/Lean/index|Lean]]`
 
 ## 2. OKR + KPI (Google, LinkedIn, Spotify)
 
@@ -71,7 +76,7 @@ Tech / product / scale-up. Tech-friendly culture. Когда нужно соче
 
 ### Связанные заметки
 
-- `[[../17-Goal-Setting/OKR-KPI/index|OKR/KPI]]`
+- `[[../../17-Goal-Setting/OKR-KPI/index|OKR/KPI]]`
 
 ## 3. Hoshin Kanri + Lean (Toyota original, Danaher, Bridgestone)
 
@@ -111,7 +116,7 @@ Lean-зрелая mid-large компания. Multi-year transformation гото
 
 ### Связанные заметки
 
-- `[[../14-Planning/Other-methodologies/05-Hoshin-Kanri|Hoshin Kanri]]`, `[[../13-Operations-Excellence/Lean/index|Lean]]`
+- `[[../Other-methodologies/05-Hoshin-Kanri|Hoshin Kanri]]`, `[[../../13-Operations-Excellence/Lean/index|Lean]]`
 
 ## 4. BSC + KPI (P&G, Mobil USM&R, Bank of America)
 
@@ -149,7 +154,7 @@ Mid-large. Хочется страт. логики, видимой для все
 
 ### Связанные заметки
 
-- `[[../17-Goal-Setting/OKR-KPI/index|OKR/KPI/BSC]]` (BSC раздел)
+- `[[../../17-Goal-Setting/OKR-KPI/index|OKR/KPI/BSC]]` (BSC раздел)
 
 ## 5. IBP + DDMRP (Coca-Cola Beverages Africa, Michelin)
 
@@ -184,7 +189,7 @@ Mid-large с complex supply chain. Длинный lead time. Variability в сп
 
 ### Связанные заметки
 
-- `[[../14-Planning/Other-methodologies/01-IBP-Integrated-Business-Planning|IBP]]`, `[[../14-Planning/Other-methodologies/03-DDMRP-Demand-Driven|DDMRP]]`
+- `[[../Other-methodologies/01-IBP-Integrated-Business-Planning|IBP]]`, `[[../Other-methodologies/03-DDMRP-Demand-Driven|DDMRP]]`
 
 ## 6. OKR + Agile/Scrum (Google, Atlassian, Twitter)
 
@@ -222,7 +227,7 @@ Tech / product / digital. Software / SaaS. Scale-up до mid-market.
 
 ### Связанные заметки
 
-- `[[../17-Goal-Setting/OKR-KPI/index|OKR/KPI]]`
+- `[[../../17-Goal-Setting/OKR-KPI/index|OKR/KPI]]`
 
 ## 7. EOS + KPI (SMB)
 
@@ -258,7 +263,7 @@ SMB 30-250 человек. Founder / family-business. Готовность к р
 
 ### Связанные заметки
 
-- `[[../14-Planning/Other-methodologies/07-EOS-and-other|EOS]]`
+- `[[../Other-methodologies/07-EOS-and-other|EOS]]`
 
 ## 8. ToC (5 focusing steps) как cross-cutting линза
 
@@ -280,7 +285,7 @@ SMB 30-250 человек. Founder / family-business. Готовность к р
 
 ### Связанные заметки
 
-- `[[../14-Planning/Other-methodologies/04-Theory-of-Constraints|ToC]]`
+- `[[../Other-methodologies/04-Theory-of-Constraints|ToC]]`
 
 ## Антикомбинации (что НЕ работает)
 

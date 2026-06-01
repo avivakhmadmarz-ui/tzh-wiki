@@ -66,11 +66,11 @@ date modified: 2026-05-18
 УРОВЕНЬ G — ИНДУСТРИЯ-СПЕЦИФИЧНОЕ
    └── 27 Industry-Specific Deep Dives
 
+   14 Planning также включает: [[14-Planning/Compare/index|Compare]] (выбор методов)
+                          и [[14-Planning/Forecasting/index|Forecasting]] (прогнозирование спроса)
+
 КРОСС-МОДУЛЬНЫЕ (применимо ко всем)
-   ├── Compare (матрица выбора методов)
-   ├── Glossary (словарь терминов)
-   ├── [[Forecasting/index|Forecasting]] (прогнозирование спроса)
-   └── System (личная AI-система автора)
+   └── Glossary (словарь терминов)
 ```
 
 ## Карта модулей
@@ -141,7 +141,7 @@ date modified: 2026-05-18
 
 | Раздел | Что внутри |
 |--------|-----------|
-| [[Compare/index\|Compare]] | Матрица выбора методов под ситуацию |
+| [[14-Planning/Compare/index|Compare]] | Матрица выбора методов под ситуацию |
 | [[Glossary/index\|Glossary]] | Словарь терминов, метрик, аббревиатур, концепций |
 
 ## Размещение ранних папок в иерархии (реструктуризация 2026-06-01)
@@ -154,16 +154,16 @@ date modified: 2026-05-18
 | `14-Planning/Other-methodologies/` | [[14-Planning/index\|14 Planning Methodologies]] | IBP, MRP II, DDMRP, ToC, Hoshin Kanri, ZBB, EOS |
 | `13-Operations-Excellence/Lean/` | [[13-Operations-Excellence/index\|13 Operations Excellence]] | Lean Production — основа модуля |
 | `17-Goal-Setting/OKR-KPI/` | [[17-Goal-Setting/index\|17 Goal Setting]] | OKR, KPI, BSC — основа модуля |
-| `Compare/` | Кросс-модульное | Матрица выбора методов |
+| `14-Planning/Compare/` | [[14-Planning/index\|14 Planning]] | Матрица выбора методов |
+| `14-Planning/Forecasting/` | [[14-Planning/index\|14 Planning]] | Прогнозирование спроса (методы, M-competitions, системы) |
 | `Glossary/` | Кросс-модульное | Словарь терминов |
-| `Forecasting/` | Кросс-модульное | Прогнозирование спроса (методы, M-competitions, системы) |
 | `System/` | Отдельная вертикаль | Личный AI-стек, не публикуется |
 
 ## Самые важные заметки (если читать только 5) — наследие
 
 1. [[17-Goal-Setting/OKR-KPI/06-OKR-vs-KPI-the-difference|OKR vs KPI — the difference]]
-2. [[Compare/02-Decision-matrix|Decision matrix]]
-3. [[Compare/04-Cases-by-situation|Cases by situation]]
+2. [[14-Planning/Compare/02-Decision-matrix|Decision matrix]]
+3. [[14-Planning/Compare/04-Cases-by-situation|Cases by situation]]
 4. [[14-Planning/SOP/04-Cases|S&OP — реальные кейсы]]
 5. [[13-Operations-Excellence/Lean/07-For-the-manager|Lean для руководителя]]
 

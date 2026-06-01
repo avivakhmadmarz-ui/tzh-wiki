@@ -277,7 +277,7 @@ Holacracy в чистом виде **не масштабируется** в кр
 
 - **EOS Rocks ≈ OKR Objectives** — родственники (см. `[[../../17-Goal-Setting/OKR-KPI/index|OKR/KPI]]`)
 - **EOS L10 ≈ S&OP cadence**, но weekly и для ops daily review (см. `[[../SOP/index|S&OP]]`)
-- **4DX дополняет любую strategy method** — заметка `[[../../Compare/03-Combinations-that-work|Combinations that work]]`
+- **4DX дополняет любую strategy method** — заметка `[[../Compare/03-Combinations-that-work|Combinations that work]]`
 - **Beyond Budgeting vs ZBB** — противоположности (см. `[[06-ZBB-Zero-Based-Budgeting|ZBB]]`)
 - **Holacracy** — антипод Hoshin Kanri (см. `[[05-Hoshin-Kanri|Hoshin Kanri]]`): top-down vs distributed
 

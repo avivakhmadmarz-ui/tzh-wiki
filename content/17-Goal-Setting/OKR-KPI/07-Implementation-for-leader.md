@@ -309,7 +309,7 @@ Adobe в 2012 запустил Check-in **именно в Sheets**. Только
 - [[06-OKR-vs-KPI-the-difference|06 — OKR vs KPI]] — фундамент решений.
 - [[03-OKR-cases|03 — Кейсы]] — что было у других.
 - [[05-KPI-cases-and-pitfalls|05 — Pitfalls]] — что не делать.
-- [[../../Compare/index|Compare]] — общая матрица всех методологий.
+- [[../../14-Planning/Compare/index|Compare]] — общая матрица всех методологий.
 - [[index|OKR-KPI Index]]
 
 ## Источники
