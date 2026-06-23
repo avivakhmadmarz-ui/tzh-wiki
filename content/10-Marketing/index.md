@@ -5,14 +5,16 @@ type: hub
 status: active
 domain: education
 module: 10-Marketing
-tags: [index, education, marketing, consumer, brand, performance, romi]
+tags: [index, education, marketing, consumer, brand, performance, romi, trends, ecommerce, influence, reach, esov]
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-06-23
 ---
 
 # Модуль 10 — Маркетинг и потребительское поведение
 
 > Маркетинг — это дисциплина **создания, донесения и обмена ценностью** между компанией и потребителем (customer). Стратегический маркетинг (STP — Segmentation / Targeting / Positioning — сегментирование / таргетирование / позиционирование, 4P, позиционирование бренда), потребительское поведение (Consumer Decision Journey — путь решения покупателя, поведенческая экономика), performance-маркетинг (атрибуция, MMM, ROMI), построение бренда, социальные сети и сообщества — полный охват для CMO (Chief Marketing Officer — директор по маркетингу) / COO (Chief Operating Officer — операционный директор) в товарной компании.
+>
+> **Актуализация 2026 (заметки 07–10):** маркетинг последних лет развернулся к доказательной базе. Добавлены четыре современных слоя — маркетинговые сдвиги и прогнозы 2026 (генеративный AI, ретейл-медиа, возрождение MMM), commerce-маркетинг и ретейл-медиа сети, маркетинг влияния и creator economy с научной базой, охватный и бренд-маркетинг по школе Ehrenberg-Bass (Byron Sharp) и Binet & Field. Материал опирается на академические источники (Journal of Marketing, IPA, Ehrenberg-Bass, WARC, Kantar) и кейсы мировых брендов (Nike, P&G, Coca-Cola, Unilever, Snickers и др.).
 
 ## Карта раздела
 
@@ -26,6 +28,13 @@ updated: 2026-05-18
 4. **[[04-Brand-Building|04 Построение бренда]]** — модель идентичности бренда Aaker, CBBE (Customer-Based Brand Equity — потребительский капитал бренда) Keller, стратегия бренда, коммуникация бренда, сторителлинг
 5. **[[05-Social-Community|05 Социальные сети и сообщества]]** — стратегия в VK / Telegram / YouTube, контент-маркетинг, управление сообществом, KOL (Key Opinion Leader — лидер мнений) / инфлюенсер-программы
 6. **[[06-Customer-Journey-Mapping|06 Customer Journey Mapping и продуктовый маркетинг]]** — карта пути клиента (CJM) как инструмент дизайна опыта: персона, этапы, точки контакта, эмоциональная кривая, боли и возможности; отличие от воронки и CDJ; service blueprint; продуктовый угол (жизненный цикл клиента acquisition→activation→retention, момент ценности, связь с Jobs-to-be-Done); метрики опыта по этапам (CSAT / NPS / CES)
+
+### Актуализация 2026
+
+7. **[[07-Marketing-Trends-2026|07 Маркетинговые сдвиги и тренды 2026]]** — возврат к охвату (reach renaissance), закат third-party cookies и privacy-first, ретейл-медиа как «третья волна», генеративный AI в маркетинге (кейсы и провалы), GEO/AEO (оптимизация под ИИ-выдачу), возрождение MMM и incrementality, прогнозы 2026 (WARC, Dentsu, Gartner, Kantar), критический разбор пузырей (метавселенная, NFT, purpose-overreach)
+8. **[[08-Ecommerce-Marketing|08 E-commerce и commerce-маркетинг]]** — определение и разграничение от операций маркетплейса, trade- и performance-маркетинга; ретейл-медиа сети (Amazon Ads, Walmart Connect); full-funnel commerce; shoppable / social / live commerce; метрики (ROAS, ACoS, TACoS, incrementality); D2C-модель (кейс Nike и откат)
+9. **[[09-Influence-Creator-Marketing|09 Маркетинг влияния и creator economy]]** — три волны эволюции, типология и модели, что доказала наука (Leung et al. 2022, перевёрнутая U-кривая; метаанализы; парасоциальное доверие), измерение ROI (критика EMV → incrementality), тренды 2026 (AI-инфлюенсеры, де-инфлюенсинг, creator-led brands, B2B-influence)
+10. **[[10-Reach-Brand-Marketing|10 Охватный и бренд-маркетинг]]** — школа Ehrenberg-Bass (законы двойного риска, дублирования покупок), mental & physical availability, Category Entry Points, отличительные активы; ESOV и правило 60/40 (Binet & Field); измерение бренд-эффекта (System1, share of search); кризис короткизма; кейсы доказанной эффективности (Snickers, John Lewis, GEICO)
 
 ## Зачем модуль руководителю
 
@@ -77,6 +86,14 @@ updated: 2026-05-18
 - Marty Neumeier, **«The Brand Gap»** — стратегическая креативность
 - Seth Godin, **«Purple Cow»** / «Фиолетовая корова» — дифференциация
 - Российские: публикации Игоря Манна
+
+**Доказательный маркетинг (актуализация 2026):**
+
+- Byron Sharp, **«How Brands Grow»** (Oxford University Press, 2010) и **Part 2** (Romaniuk & Sharp, 2015) — законы роста брендов
+- Jenni Romaniuk, **«Building Distinctive Brand Assets»** (Oxford University Press, 2018) — отличительные активы, mental availability
+- Les Binet & Peter Field, **«The Long and the Short of It»** (IPA, 2013) и **«Effectiveness in Context»** (2018) — правило 60/40, ESOV
+- Orlando Wood, **«Lemon»** (IPA / System1, 2019) и **«Look Out»** (2021) — эмоция и долгосрочная эффективность
+- Lawrence Ingrassia, **«Billion Dollar Brand Club»** — волна D2C-брендов
 
 ### Статьи
 
